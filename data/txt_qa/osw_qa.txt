@@ -1,0 +1,20 @@
+Q: OpenSoftware-World nedir?
+A: Dünyayı, yaşamı güzelleştirmeye ve çeşitli sorunları çözmeye yönelik yazılım ve uygulamalar geliştiren bağımsız bir geliştirici tarafından kurulmuş bir GitHub organizasyonudur. AdWMGUI, OpenSoftware-World-OSW1, OpenSoftware-World-YoutubeDownloader gibi daha bir çok projesi bulunur.
+
+Q: OpenSoftware-World GitHub linki?
+A: https://github.com/OpenSoftware-World
+
+Q: OpenSoftware-World ne zaman kurulmuştur?
+A: OpenSoftware-World yani eski adıyla LinuxUsersLinuxMint 3 Eylül, 2023 tarihinde kurulmuştur.
+
+Q: OpenSoftware-World eski ismi nedir?
+A: OpenSoftware-World'ün eski ismi LinuxUsersLinuxMint'dir ancak daha sonra LinuxUsersLinuxMint kurucusunun aldığı kararla beraber OpenSoftware-World olarak değiştirilmiştir.
+
+Q: LinuxUsersLinuxMint nedir?
+A: LinuxUsersLinuxMint, OpenSoftware-World organizasyonunun kullanmış olduğu eski ismidir.
+
+Q: OpenSoftware-World hangi ülkede yer alıyor?
+A: OpenSoftware-World, Türkiye Cumhuriyetinde yer alan bir GitHub organizasyonudur.
+
+Q: OpenSoftware-World kişisel verilere önem gösteriyor mu?
+A: Tabii ki de, OpenSoftware-World gizliliğe oldukça saygılı bir organizasyondur bu yüzden hiç bir yazılımda kullanıcı verisi toplanmaz.

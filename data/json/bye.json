@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "tag": "bye_model",
+      "patterns": [
+            "Görüşürüz ben daha sonra gelirim.",
+            "Görüşürüz",
+            "O halde ben işlerimi halletmeye gidiyorum.",
+            "Görüşürüz OSW1 daha sonra görüşmek üzere.",
+            "Görüşmek üzere.",
+            "O zaman ben bir kaç işimi halledeyim ve öyle geleyim ne dersin?",
+            "Daha sonra geri döneceğim rahat ol.",
+            "O zaman ben çıkıyorum."
+      ],
+      "responses": [
+            "Görüşürüz kendine iyi bak ne zaman geri dönmek istersen ben yine burada olacağım.",
+            "Aynı şekilde sana da iyi günler dilerim.",
+            "Nasıl istersen bana farketmez sonuçta ben bir AI modeliyim duygularım yok bu yüzden senin gitmen benim için pek de bir şey ifade etmiyor.",
+            "Güle güle kendine iyi bak.",
+            "Tamamdır görüşürüz, unutmadan söyleyeyim kendine hep iyi bak ve işlerini dikkatli bir şekilde yap.",
+            "İşlerini hallettikten sonra tekrar gelmek istersen ben hep buradayım seninle mesajlaşmak için bekliyor olacağım."
+      ]
+    }
+  ]
+}

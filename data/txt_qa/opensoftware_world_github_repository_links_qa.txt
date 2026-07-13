@@ -1,0 +1,86 @@
+Q: OpenSoftware-World OS GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OpenSoftware-World-OS
+
+Q: OpenSoftware-World-YoutubeDownloader GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OpenSoftware-World-YoutubeDownloader
+
+Q: CPP-Account-System GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/CPP-Account-System
+
+Q: Open-Ollama-WebUI GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/Open-Ollama-WebUI
+
+Q: Updater GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/Updater
+
+Q: OpenSoftware-World-Calculator-Lite  GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OpenSoftware-World-Calculator-Lite
+
+Q: PyAppDevKit  GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/PyAppDevKit
+
+Q: Python-Module GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/Python-Module
+
+Q: OS-W-SocialMediaCenter GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OS-W-SocialMediaCenter
+
+Q: OpenKernel   GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OpenKernel 
+
+Q: OpenSoftware-World.github.io   GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OpenSoftware-World.github.io 
+
+Q: OpenSoftware-World-OS-MikeOSBased  GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OpenSoftware-World-OS-MikeOSBased
+
+Q: OpenSoftware-World-C-Calculator   GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OpenSoftware-World-C-Calculator 
+
+Q: AssemblyProjects   GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/AssemblyProjects 
+
+Q: OpenSoftware-World-OS-UIKit   GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OpenSoftware-World-OS-UIKit 
+
+Q: OpenSoftware-World-OS-SDK  GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OpenSoftware-World-OS-SDK
+
+Q: OurProducts   GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OurProducts 
+
+Q: FirstUse  GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/FirstUse
+
+Q: LXLM-Basic_Maths   GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/LXLM-Basic_Maths 
+
+Q: AdWMGUI  GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/AdWMGUI
+
+Q: Documents  GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/Documents
+
+Q: OpenSoftware-World-Calculator  GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OpenSoftware-World-Calculator
+
+Q: OS-WStyle  GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OS-WStyle
+
+Q: UpdateCheck   GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/UpdateCheck 
+
+Q: OllamaTaskSchedulerKit   GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OllamaTaskSchedulerKit 
+
+Q: OpenSoftwareWorld-Software-Downloader   GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OpenSoftwareWorld-Software-Downloader 
+
+Q: CAppDevKit-Insiders   GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/CAppDevKit-Insiders 
+
+Q: CAppDevKit   GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/CAppDevKit 
+
+Q: OSW-CTkMessagebox  GitHub deposu bağlantısı nedir?
+A: https://github.com/OpenSoftware-World/OSW-CTkMessagebox

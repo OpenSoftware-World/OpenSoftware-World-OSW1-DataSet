@@ -1,0 +1,1 @@
+ An operating system designed and developed by OpenSoftware-World that uses the OpenKernel kernel, which was also designed and developed by OpenSoftware-World. 

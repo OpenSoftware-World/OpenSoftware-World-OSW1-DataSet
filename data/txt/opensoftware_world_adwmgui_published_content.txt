@@ -1,0 +1,27 @@
+- AdWMGUI (Advanced Windows Manager GUI) yayımlandı -
+
+İçerik'te neler mevcut:
+
+    AdWMGUI hangi tarihte yayımlandı?
+    AdWMGUI yenilikleri nelerdir?
+    AdWMGUI hangi programlama dili ile kodlandı?
+    AdWMGUI kaynak kodu ve yazılımı
+
+
+AdWMGUI hangi tarihte yayımlandı?
+
+AdWMGUI 01/29/2024 00:00 (29 Ocak, 2024) Tarihinde bu web sitesinde yayımlanmıştır artık Windows bilgisayarınız için önbellek temizleme ve onarım işlemlerini daha hızlı yapabileceksiniz.
+
+AdWMGUI yenilikleri nelerdir?
+
+AdWMGUI'nin en önemli yeniliklerinden birisi Grafik Kullanıcı Arayüzü (GUI) içermesidir bu sayede işlemleri daha hızlı gerçekleştirebilirsiniz.
+
+AdWMGUI hangi programlama dili ile kodlandı?
+
+AdWMGUI, Python ve Tkinter (GUI kütüphanesi) ile kodlanmıştır.
+
+AdWMGUI kaynak kodu ve yazılımı
+
+AdWMGUI Kaynak Kodu: adwmgui_src_code.7z
+
+AdWMGUI: adwm_gui_beta.7z

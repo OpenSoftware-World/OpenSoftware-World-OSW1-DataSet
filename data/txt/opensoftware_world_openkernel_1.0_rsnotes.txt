@@ -1,0 +1,7 @@
+🕒 Changes:
+
+    Grub bootloader support.
+    Easy-to-use built-in system libraries.
+    Optimized core hardware drivers.
+    The SystemManagement service for starting and stopping your operating system.
+

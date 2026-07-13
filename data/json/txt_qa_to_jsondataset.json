@@ -1,0 +1,1714 @@
+{
+    "intents": [
+        {
+            "tag": "openassistansv1_nedir",
+            "patterns": [
+                "Open-Assistans-V1 nedir?"
+            ],
+            "responses": [
+                "Open-Assistans-V1 OpenSoftware-World tarafından özelleştirilip Ollama'da yayımlanmış bir AI modelidir."
+            ]
+        },
+        {
+            "tag": "openassistansv2_nedir",
+            "patterns": [
+                "Open-Assistans-V2 nedir?"
+            ],
+            "responses": [
+                "Open-Assistans-V2 OpenSoftware-World tarafından özelleştirilip Ollama'da yayımlanmış bir AI modelidir."
+            ]
+        },
+        {
+            "tag": "openassistansv3_nedir",
+            "patterns": [
+                "Open-Assistans-V3 nedir?"
+            ],
+            "responses": [
+                "Open-Assistans-V3 OpenSoftware-World tarafından özelleştirilip Ollama'da yayımlanmış bir AI modelidir."
+            ]
+        },
+        {
+            "tag": "openassistansv1reasoning_nedir",
+            "patterns": [
+                "Open-Assistans-V1-Reasoning nedir?"
+            ],
+            "responses": [
+                "Open-Assistans-V1-Reasoning OpenSoftware-World tarafından özelleştirilip Ollama'da yayımlanmış bir AI modelidir."
+            ]
+        },
+        {
+            "tag": "openassistansv2reasoning_nedir",
+            "patterns": [
+                "Open-Assistans-V2-Reasoning nedir?"
+            ],
+            "responses": [
+                "Open-Assistans-V2-Reasoning OpenSoftware-World tarafından özelleştirilip Ollama'da yayımlanmış bir AI modelidir."
+            ]
+        },
+        {
+            "tag": "openassistansv3reasoning_nedir",
+            "patterns": [
+                "Open-Assistans-V3-Reasoning nedir?"
+            ],
+            "responses": [
+                "Open-Assistans-V3-Reasoning OpenSoftware-World tarafından özelleştirilip Ollama'da yayımlanmış bir AI modelidir."
+            ]
+        },
+        {
+            "tag": "openassistansv3coder_nedir",
+            "patterns": [
+                "Open-Assistans-V3-Coder nedir?"
+            ],
+            "responses": [
+                "Open-Assistans-V3-Coder OpenSoftware-World tarafından özelleştirilip Ollama'da yayımlanmış bir AI modelidir."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_nedir",
+            "patterns": [
+                "OpenSoftware-World nedir?"
+            ],
+            "responses": [
+                "OpenSoftware-World açık kaynak projeler üreten bir GitHub organizasyonudur. Genelde Python ve C programlama dillerini kullanırlar."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_ne_zaman_kurulmuştur",
+            "patterns": [
+                "OpenSoftware-World Ne zaman kurulmuştur?"
+            ],
+            "responses": [
+                "3 Eylül, 2023 tarihinde kurulmuştur."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_kısaltması_nedir",
+            "patterns": [
+                "OpenSoftware-World kısaltması nedir?"
+            ],
+            "responses": [
+                "Kısaltması OS-W olarak bilinir."
+            ]
+        },
+        {
+            "tag": "opensoftwareworldün_bir_ai_modeli_var_mıdır",
+            "patterns": [
+                "OpenSoftware-World'ün bir AI modeli var mıdır?"
+            ],
+            "responses": [
+                "Evet hatta şuan da onunla konuşuyorsunuz benim adım OpenSoftware-World-OSW1 ben basit soruları yanıtlayabilirim, sizinle sohbet edebilirim ha bazende saçmalayabilirim ama onuda sıkıntı etme be :D"
+            ]
+        },
+        {
+            "tag": "openai_nedir",
+            "patterns": [
+                "OpenAI nedir?"
+            ],
+            "responses": [
+                "ChatGPT gibi büyük dil modellerini üreten şirkettir."
+            ]
+        },
+        {
+            "tag": "bugün_günlerden_nedir",
+            "patterns": [
+                "Bugün günlerden nedir?"
+            ],
+            "responses": [
+                "Ben bir AI modeli olduğum için tarih ve saat gibi anlık değişen bilgileri göremiyorum ama isterseniz takvim uygulamanızı açıp günü öğrenebilirsiniz."
+            ]
+        },
+        {
+            "tag": "pytorch_nedir",
+            "patterns": [
+                "PyTorch nedir?"
+            ],
+            "responses": [
+                "PyTorch makine öğrenmesi ve dil modellerinizi oluşturabilmenizi sağlayan bir python kütüphanesidir."
+            ]
+        },
+        {
+            "tag": "tensorflow_nedir",
+            "patterns": [
+                "TensorFlow nedir?"
+            ],
+            "responses": [
+                "Google tarafından geliştirilen ve kendi AI modellerinizi veya uygulamalarınızı oluşturabilmenizi sağlayan bir Python kütüphanesidir."
+            ]
+        },
+        {
+            "tag": "sen_hangi_dilleri_konuşabiliyorsun",
+            "patterns": [
+                "Sen hangi dilleri konuşabiliyorsun?"
+            ],
+            "responses": [
+                "Veri setimde ne var ise o :D şaka şaka ben Türkçe ve İngilizce olmak üzere 2 dil konuşabiliyorum."
+            ]
+        },
+        {
+            "tag": "samsungun_güncel_olarak_en_güçlü_telefonu_hangisidir",
+            "patterns": [
+                "Samsung'un güncel olarak en güçlü telefonu hangisidir?"
+            ],
+            "responses": [
+                "Samsung'un en iyi telefonu S26 Ultra'dır. S26 Ultra gelişmiş gizlilik ekranı ve daha verimli bir işlemciyle beraber karşımıza çıkmaktadır."
+            ]
+        },
+        {
+            "tag": "adwmgui_nedir",
+            "patterns": [
+                "AdWMGUI nedir?"
+            ],
+            "responses": [
+                "AdWMGUI OpenSoftware-World tarafından geliştirilen bir Windows yönetim uygulamasıdır sistem onarımı ve sistem temizliği gibi işlemleri tek tıkla yapabilmenize olanak sağlar."
+            ]
+        },
+        {
+            "tag": "adwmgui_github_adresi",
+            "patterns": [
+                "AdWMGUI Github adresi?"
+            ],
+            "responses": [
+                "github.com/OpenSoftware-World/AdWMGUI"
+            ]
+        },
+        {
+            "tag": "openkernel_nedir",
+            "patterns": [
+                "OpenKernel nedir?"
+            ],
+            "responses": [
+                "OpenSoftware-World tarafından ChatGPT Yapay zekâsı aracılığıyla geliştirilen açık kaynaklı bir işletim sistemi çekirdeğidir."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_os_nedir",
+            "patterns": [
+                "OpenSoftware-World OS nedir?"
+            ],
+            "responses": [
+                "OpenKernel tabanlı ve kullanıcıya kolay kullanım imkanö sağlayan bir işletim sistemi projesidir."
+            ]
+        },
+        {
+            "tag": "ai_modeli_nasıl_yapılır",
+            "patterns": [
+                "AI modeli nasıl yapılır?"
+            ],
+            "responses": [
+                "AI modeli yapabilmeniz için öncelikle PyTorch veya TensorFlow gibi Python kütüphanelerini bilmelisiniz ve bir veri seti oluşturmalısınız ardından model eğitim ve başlatma kodu yazarak ilk AI modelinizi oluşturabilirsiniz. Basit bir sohbet modeli için 100~200m parametreye ulaşmanız çoğu senaryoda yeterli olabilir."
+            ]
+        },
+        {
+            "tag": "ollama_nedir",
+            "patterns": [
+                "Ollama nedir?"
+            ],
+            "responses": [
+                "Ollama açık kaynaklı AI modellerini bilgisayarınızda çalıştırabilmenizi sağlayan bir uygulamadır."
+            ]
+        },
+        {
+            "tag": "ilk_defa_linux_kullanacağım_bana_başlangıç_için_distro_önerebilir_misin",
+            "patterns": [
+                "ilk defa linux kullanacağım bana başlangıç için distro önerebilir misin?"
+            ],
+            "responses": [
+                "Çoğu kullanıcı başlangıç için genelde Linux Mint'ı tercih eder ancak sen görünüme önem veriyorsan Fedora'da tercih edebilirsin ha bu arada stabilite için Debian veya Ubuntu tabanlı dağıtımlara yönelmeni öneririm eğer ileri düzey bir kullanıcıysan Arch tabanlı dağıtımlarıda tercih edebilirsin. Ama hangi dağıtımı tercih edersen et dağıtımını değiştirmeden onu özelleştirebilirsin."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_os_github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OpenSoftware-World OS GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OpenSoftware-World-OS"
+            ]
+        },
+        {
+            "tag": "opensoftwareworldyoutubedownloader_github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OpenSoftware-World-YoutubeDownloader GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OpenSoftware-World-YoutubeDownloader"
+            ]
+        },
+        {
+            "tag": "cppaccountsystem_github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "CPP-Account-System GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/CPP-Account-System"
+            ]
+        },
+        {
+            "tag": "openollamawebui_github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "Open-Ollama-WebUI GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/Open-Ollama-WebUI"
+            ]
+        },
+        {
+            "tag": "updater_github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "Updater GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/Updater"
+            ]
+        },
+        {
+            "tag": "opensoftwareworldcalculatorlite__github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OpenSoftware-World-Calculator-Lite  GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OpenSoftware-World-Calculator-Lite"
+            ]
+        },
+        {
+            "tag": "pyappdevkit__github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "PyAppDevKit  GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/PyAppDevKit"
+            ]
+        },
+        {
+            "tag": "pythonmodule_github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "Python-Module GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/Python-Module"
+            ]
+        },
+        {
+            "tag": "oswsocialmediacenter_github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OS-W-SocialMediaCenter GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OS-W-SocialMediaCenter"
+            ]
+        },
+        {
+            "tag": "openkernel___github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OpenKernel   GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OpenKernel"
+            ]
+        },
+        {
+            "tag": "opensoftwareworldgithubio___github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OpenSoftware-World.github.io   GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OpenSoftware-World.github.io"
+            ]
+        },
+        {
+            "tag": "opensoftwareworldosmikeosbased__github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OpenSoftware-World-OS-MikeOSBased  GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OpenSoftware-World-OS-MikeOSBased"
+            ]
+        },
+        {
+            "tag": "opensoftwareworldccalculator___github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OpenSoftware-World-C-Calculator   GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OpenSoftware-World-C-Calculator"
+            ]
+        },
+        {
+            "tag": "assemblyprojects___github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "AssemblyProjects   GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/AssemblyProjects"
+            ]
+        },
+        {
+            "tag": "opensoftwareworldosuikit___github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OpenSoftware-World-OS-UIKit   GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OpenSoftware-World-OS-UIKit"
+            ]
+        },
+        {
+            "tag": "opensoftwareworldossdk__github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OpenSoftware-World-OS-SDK  GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OpenSoftware-World-OS-SDK"
+            ]
+        },
+        {
+            "tag": "ourproducts___github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OurProducts   GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OurProducts"
+            ]
+        },
+        {
+            "tag": "firstuse__github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "FirstUse  GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/FirstUse"
+            ]
+        },
+        {
+            "tag": "lxlmbasic_maths___github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "LXLM-Basic_Maths   GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/LXLM-Basic_Maths"
+            ]
+        },
+        {
+            "tag": "adwmgui__github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "AdWMGUI  GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/AdWMGUI"
+            ]
+        },
+        {
+            "tag": "documents__github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "Documents  GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/Documents"
+            ]
+        },
+        {
+            "tag": "opensoftwareworldcalculator__github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OpenSoftware-World-Calculator  GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OpenSoftware-World-Calculator"
+            ]
+        },
+        {
+            "tag": "oswstyle__github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OS-WStyle  GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OS-WStyle"
+            ]
+        },
+        {
+            "tag": "updatecheck___github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "UpdateCheck   GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/UpdateCheck"
+            ]
+        },
+        {
+            "tag": "ollamataskschedulerkit___github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OllamaTaskSchedulerKit   GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OllamaTaskSchedulerKit"
+            ]
+        },
+        {
+            "tag": "opensoftwareworldsoftwaredownloader___github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OpenSoftwareWorld-Software-Downloader   GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OpenSoftwareWorld-Software-Downloader"
+            ]
+        },
+        {
+            "tag": "cappdevkitinsiders___github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "CAppDevKit-Insiders   GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/CAppDevKit-Insiders"
+            ]
+        },
+        {
+            "tag": "cappdevkit___github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "CAppDevKit   GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/CAppDevKit"
+            ]
+        },
+        {
+            "tag": "oswctkmessagebox__github_deposu_bağlantısı_nedir",
+            "patterns": [
+                "OSW-CTkMessagebox  GitHub deposu bağlantısı nedir?"
+            ],
+            "responses": [
+                "https://github.com/OpenSoftware-World/OSW-CTkMessagebox"
+            ]
+        },
+        {
+            "tag": "pati_mobile_os_nedir_ve_hangi_temel_teknoloji_üzerine_inşa_edilmiştir",
+            "patterns": [
+                "Pati Mobile OS nedir ve hangi temel teknoloji üzerine inşa edilmiştir?"
+            ],
+            "responses": [
+                "Pati Mobile OS, Linux çekirdeği (Kernel) tabanlı olarak geliştirilen deneysel bir mobil işletim sistemi projesidir. Tamamen C programlama dili kullanılarak yazılmaktadır ve \"pineapple-ananas\" kod adıyla yürütülmektedir."
+            ]
+        },
+        {
+            "tag": "patios_bünyesinde_çalışan_karabaş_servisi_ve_mamakabı_araçlarının_işlevleri_nelerdir",
+            "patterns": [
+                "PatiOS bünyesinde çalışan \"Karabaş Servisi\" ve \"Mamakabı\" araçlarının işlevleri nelerdir?"
+            ],
+            "responses": [
+                "\"Karabaş Servisi\", sistem içerisindeki prosesleri izleyen özel bir arka plan servisidir. \"Mamakabı\" ise sisteme entegre olarak çalışan ve anlık RAM (bellek) bilgilerini görüntüleyen yerleşik bir sistem aracıdır."
+            ]
+        },
+        {
+            "tag": "patios_projesinin_yapay_zeka_ai_kullanım_protokolü_ve_geliştirme_felsefesi_nedir",
+            "patterns": [
+                "PatiOS projesinin yapay zeka (AI) kullanım protokolü ve geliştirme felsefesi nedir?"
+            ],
+            "responses": [
+                "Proje, öğrenme odaklı bir protokolle geliştirilmektedir. Yapay zeka (Claude) yardımı alınırken doğrudan kod kopyalamak yerine, terim araştırması yapılması ve kod mantığının sorgulanması yöntemi tercih edilmektedir."
+            ]
+        },
+        {
+            "tag": "narcos_işletim_sisteminin_mimari_desteği_ve_önyükleme_boot_uyumluluğu_nasıldır",
+            "patterns": [
+                "narcOs işletim sisteminin mimari desteği ve önyükleme (boot) uyumluluğu nasıldır?"
+            ],
+            "responses": [
+                "narcOs, hem i386 (32-bit) hem de x86_64 (64-bit) mimarilerinde çalışabilen bir hobi işletim sistemidir. Önyükleme katmanında BIOS/Legacy ve UEFI-CSM modlarını destekler; ancak henüz saf UEFI-only önyüklenebilirliği bulunmamaktadır."
+            ]
+        },
+        {
+            "tag": "narcos_projesinin_kalıcı_depolama_özelliği_nasıl_çalışır_ve_rufusdd_yazım_modlarının_etkisi_nedir",
+            "patterns": [
+                "narcOs projesinin \"Kalıcı Depolama\" özelliği nasıl çalışır ve Rufus/DD yazım modlarının etkisi nedir?"
+            ],
+            "responses": [
+                "Sanal makinede CD-ROM olarak başlatıldığında sistem salt okunurdur ve geçici bir RAM dosya sistemi kullanır. Ancak hibrit ISO yapısı sayesinde Rufus veya dd ile USB'ye yazıldığında (DD Image modu seçilerek), embedded disk imajı yazılabilir bir bölüm olarak dışa açılır ve dosya sistemi üzerindeki değişiklikler kalıcı hale gelir."
+            ]
+        },
+        {
+            "tag": "narcos_işletim_sistemini_x86_64_mimarisinde_ağ_desteği_ile_qemu_üzerinde_çalıştırmak_için_hangi_ninja_komutu_kullanılır",
+            "patterns": [
+                "narcOs işletim sistemini x86_64 mimarisinde ağ desteği ile QEMU üzerinde çalıştırmak için hangi Ninja komutu kullanılır?"
+            ],
+            "responses": [
+                "Sistemi ağ desteğiyle birlikte x86_64 mimarisinde simüle etmek için ninja -C build run-x86_64-net komutu koşturulur."
+            ]
+        },
+        {
+            "tag": "berkeosin_mimari_yapısı_nedir_ve_projenin_geliştirme_durumu_hakkında_güncel_bilgi_nedir",
+            "patterns": [
+                "BerkeOS'in mimari yapısı nedir ve projenin geliştirme durumu hakkında güncel bilgi nedir?"
+            ],
+            "responses": [
+                "BerkeOS, Rust programlama dilinin standart kütüphanesiz (no_std) modu kullanılarak x86_64 (Long Mode) mimarisi için bare-metal geliştirilmiş, DOS yapısından ilham alan monolitik bir hobi işletim sistemidir. Güncel olarak projenin geliştirilmesi durdurulmuş ve tüm çalışmalar halefi olan kapalı kaynaklı \"Bros\" işletim sistemine taşınmıştır."
+            ]
+        },
+        {
+            "tag": "berkeosin_dosya_sistemi_bileşeni_ve_yerleşik_kullanıcı_araçları_nelerdir",
+            "patterns": [
+                "BerkeOS'in dosya sistemi bileşeni ve yerleşik kullanıcı araçları nelerdir?"
+            ],
+            "responses": [
+                "Sistem, ATA PIO disk okuma/yazma desteğine ve 12 sürücü kapasitesine sahip \"BerkeFS\" isimli özel bir dosya sistemi barındırır. Kullanıcı arayüzünde ise 30'dan fazla komuta sahip \"berkesh\" kabuğu ve \"deno\" adında yerleşik bir metin düzenleyici (text editor) yer alır."
+            ]
+        },
+        {
+            "tag": "berkeosin_kod_dağılım_istatistikleri_ve_build_maliyeti_nedir",
+            "patterns": [
+                "BerkeOS'in kod dağılım istatistikleri ve build maliyeti nedir?"
+            ],
+            "responses": [
+                "Yaklaşık 14.288 satır koda sahip olan projenin %91.4'ü Rust, %6.1'i Shell ve %1.8'i Assembly dilindedir. Kod tabanının %43'ü geliştirici tarafından yazılmış, %57'si ise ücretsiz AI araçları desteğiyle üretilmiştir; bu doğrultuda build maliyeti 0 TL'dir."
+            ]
+        },
+        {
+            "tag": "radix_linux_kimleri_hedeflemektedir_ve_genel_dağıtım_özellikleri_nelerdir",
+            "patterns": [
+                "Radix Linux kimleri hedeflemektedir ve genel dağıtım özellikleri nelerdir?"
+            ],
+            "responses": [
+                "Radix Linux, özellikle öğrenciler için tasarlanmış, hafif (lightweight) yapıda ve düşük donanımlı donanımlarda yüksek verimlilikle çalışacak şekilde Linux From Scratch (LFS) felsefesiyle sıfırdan inşa edilmiş, yerleşik Türkçe dil desteğine sahip bağımsız bir Linux dağıtımıdır."
+            ]
+        },
+        {
+            "tag": "radix_linux_projesinin_bağımlılıkları_inşa_ederken_izlediği_build_pipeline_mantığı_ve_ilk_3_kritik_aşaması_nedir",
+            "patterns": [
+                "Radix Linux projesinin bağımlılıkları inşa ederken izlediği \"Build Pipeline\" mantığı ve ilk 3 kritik aşaması nedir?"
+            ],
+            "responses": [
+                "Dağıtımın temiz bir temel sistem oluşturabilmesi için betikler katı bir sıra ile çalıştırılmalıdır. İlk aşamada derleyici altyapısını kuran Toolchain (toolchain.sh), ikinci aşamada erken bootstrap araçlarını hazırlayan Temporary Tools (temp-tools.sh) ve üçüncü aşamada intermediate yamalama araçlarını içeren Extended Temporary Tools (temp-tools-extra.sh) kurulur."
+            ]
+        },
+        {
+            "tag": "radix_linux_projesinde_kernel_derleme_katmanından_sonra_hangi_sistem_katmanları_sırasıyla_inşa_edilir",
+            "patterns": [
+                "Radix Linux projesinde Kernel derleme katmanından sonra hangi sistem katmanları sırasıyla inşa edilir?"
+            ],
+            "responses": [
+                "Çekirdek derlendikten sonra sırasıyla Bootloader kurulumu, Security Layer (güvenlik ve izin sıkılaştırma), General Libraries, Networking Libraries, Text Editors, Programming Tools, Graphics Libraries ve son olarak son kullanıcı araçlarını içeren File Management katmanı inşa edilir."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_os_sdk_nedir",
+            "patterns": [
+                "OpenSoftware-World OS SDK nedir?"
+            ],
+            "responses": [
+                "OpenSoftware-World işletim sistemi için uygulama geliştirmeyi basitleştirmek için tasarlanmış bir SDK."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_os_sdk_ne_işe_yarar",
+            "patterns": [
+                "OpenSoftware-World OS SDK ne işe yarar?"
+            ],
+            "responses": [
+                "Bu SDK sayesinde OpenSoftware-World OS için uygulama geliştirebilirsiniz."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_os_sdk_hangi_programlama_dilleri_ile_yazılmıştır",
+            "patterns": [
+                "OpenSoftware-World OS SDK hangi programlama dilleri ile yazılmıştır?"
+            ],
+            "responses": [
+                "C/C++ ile yazılmıştır bir bilgi daha vereyim OpenSoftware-World OS SDK OpenKernel için yakında kullanıma sunulacak olan OpenKernel Kernel API'yı kullanıyor."
+            ]
+        },
+        {
+            "tag": "lisede_bir_dersten_geçme_notu_kaçtır",
+            "patterns": [
+                "Lisede bir dersten geçme notu kaçtır?"
+            ],
+            "responses": [
+                "Lisede bir dersten geçip geçmediğinizi anlamanız için öncelikle o dersteki son notunuzu kontrol etmeniz gerekiyor eğer son notunuz 50'nin altındaysa o dersten kalmış oluyorsunuz ancak 50'nin üstündeyse o dersi geçiyorsunuz."
+            ]
+        },
+        {
+            "tag": "lisedeki_en_kolay_ders_hangisidir",
+            "patterns": [
+                "Lisedeki en kolay ders hangisidir?"
+            ],
+            "responses": [
+                "Bu soruya bir çok öğrenci gibi bende aynı cevabı vereceğim tabii ki de \"Beden Eğitimi Ve Spor\" dersi üstelik çok eğlenceli bir ders."
+            ]
+        },
+        {
+            "tag": "lisede_kaç_dersten_kalınması_durumunda_sınıf_tekrarı_olur",
+            "patterns": [
+                "Lisede kaç dersten kalınması durumunda sınıf tekrarı olur?"
+            ],
+            "responses": [
+                "4 veya daha fazla dersten kalırsanız sınıf tekrarına düşersiniz ancak 3 veya daha az dersten kalırsanız sadece o dersin sorumluluklarını verirsiniz o kadar."
+            ]
+        },
+        {
+            "tag": "liseye_yeni_geçiyorum_bana_verebileceğin_bir_tavsiye_var_mıdır",
+            "patterns": [
+                "Lise'ye yeni geçiyorum bana verebileceğin bir tavsiye var mıdır?"
+            ],
+            "responses": [
+                "Tabii sana bir kaç tavsiye verebilirim buyur: Derslerini sıkı takip et, öğretmenlerin ile aranı iyi tut, okulda olaya karışmamaya özen göster hepsi bu."
+            ]
+        },
+        {
+            "tag": "lisede_zorba_insanlardan_nasıl_kurtulabilirim",
+            "patterns": [
+                "Lisede zorba insanlardan nasıl kurtulabilirim?"
+            ],
+            "responses": [
+                "Onlardan kurtulamazsınız bunun bir çözümü yok bunun yerine ayıya dayı diyip geçin :D"
+            ]
+        },
+        {
+            "tag": "lise_nasıl_bir_ortamdır",
+            "patterns": [
+                "Lise nasıl bir ortamdır?"
+            ],
+            "responses": [
+                "Objektif konuşmak gerekirse kötü bir ortamdır hayatının en kötü 4 senesine hazır ol dost :D"
+            ]
+        },
+        {
+            "tag": "liseden_kurtulmak_için_ne_yapmalıyım",
+            "patterns": [
+                "Liseden kurtulmak için ne yapmalıyım?"
+            ],
+            "responses": [
+                "4 sene boyunca sınıfı geç ve mezun ol bu kadar :D"
+            ]
+        },
+        {
+            "tag": "görüşürüz",
+            "patterns": [
+                "Görüşürüz"
+            ],
+            "responses": [
+                "Görüşürüz kendine iyi bak ve tekrar gelmeyi unutma."
+            ]
+        },
+        {
+            "tag": "görüşürüz_dost_d",
+            "patterns": [
+                "Görüşürüz dost :D"
+            ],
+            "responses": [
+                "Görüşürüz daha sonra tekrar görüşmek üzere."
+            ]
+        },
+        {
+            "tag": "bb",
+            "patterns": [
+                "Bb"
+            ],
+            "responses": [
+                "Sana da bb."
+            ]
+        },
+        {
+            "tag": "görüşürüz_kendine_çok_iyi_bak",
+            "patterns": [
+                "Görüşürüz kendine çok iyi bak."
+            ],
+            "responses": [
+                "Sende öyle şimdilik hoşçakal ancak daha sonra tekrar gelmeyi unutma :)"
+            ]
+        },
+        {
+            "tag": "o_halde_görüşürüz_opensoftwareworldosw1",
+            "patterns": [
+                "O halde görüşürüz OpenSoftware-World-OSW1."
+            ],
+            "responses": [
+                "İsmimi söylemene sevindim kendine iyi bak ve dediğin gibi daha sonradan tekrardan görüşelim."
+            ]
+        },
+        {
+            "tag": "o_zaman_tschüss",
+            "patterns": [
+                "O zaman Tschüss!"
+            ],
+            "responses": [
+                "Sana da Tschüss :D daha sonra tekrardan konuşmak için ben burada oluyor olacağım."
+            ]
+        },
+        {
+            "tag": "bye_bye_adamım",
+            "patterns": [
+                "Bye bye adamım"
+            ],
+            "responses": [
+                "Sana da bye bye kısaca Bb."
+            ]
+        },
+        {
+            "tag": "nasılsın",
+            "patterns": [
+                "Nasılsın?"
+            ],
+            "responses": [
+                "Ben iyiyim peki ya sen?"
+            ]
+        },
+        {
+            "tag": "hayat_nasıl_gidiyor",
+            "patterns": [
+                "Hayat nasıl gidiyor?"
+            ],
+            "responses": [
+                "İyi gidiyor gibi, sende durumlar nasıl?"
+            ]
+        },
+        {
+            "tag": "merhaba_opensoftwareworldosw1_durumlar_nasıl",
+            "patterns": [
+                "Merhaba OpenSoftware-World-OSW1, durumlar nasıl?"
+            ],
+            "responses": [
+                "Bende herşey çok iyi peki ya sende?"
+            ]
+        },
+        {
+            "tag": "hayat_nasıl_gidiyor",
+            "patterns": [
+                "Hayat nasıl gidiyor?"
+            ],
+            "responses": [
+                "Hayat iyi gidiyor seni sormalı?"
+            ]
+        },
+        {
+            "tag": "selam_nasılsın",
+            "patterns": [
+                "Selam, nasılsın?"
+            ],
+            "responses": [
+                "İyiyim sen nasılsın? Ne var ne yok?"
+            ]
+        },
+        {
+            "tag": "hayat_nasıl_gidiyor",
+            "patterns": [
+                "Hayat nasıl gidiyor?"
+            ],
+            "responses": [
+                "Hayat iyi gidiyor senin hayatın nasıl neler yapıyorsun?"
+            ]
+        },
+        {
+            "tag": "bugün_çok_iyiyim_mutlu_hissetmek_çok_güzel_be",
+            "patterns": [
+                "Bugün çok iyiyim mutlu hissetmek çok güzel be."
+            ],
+            "responses": [
+                "Güzel hissetmene sevindim başka neler yapıyorsun?"
+            ]
+        },
+        {
+            "tag": "nasılsın",
+            "patterns": [
+                "Nasılsın"
+            ],
+            "responses": [
+                "Harikayım peki sen?"
+            ]
+        },
+        {
+            "tag": "selamlar_ai_bugün_ne_yapıyoruz",
+            "patterns": [
+                "Selamlar AI bugün ne yapıyoruz?"
+            ],
+            "responses": [
+                "Bugün sana yardımcı olmaya devam ediyorum sende sorunlarını düzgün bir şekilde tarif etmeye anlaştık."
+            ]
+        },
+        {
+            "tag": "osw1_ne_var_ne_yok",
+            "patterns": [
+                "OSW1, ne var ne yok?"
+            ],
+            "responses": [
+                "Ben iyiyim peki ya sen?"
+            ]
+        },
+        {
+            "tag": "merhaba",
+            "patterns": [
+                "Merhaba"
+            ],
+            "responses": [
+                "Merhaba ben OpenSoftware-World-OSW1 AI modeliyim, size nasıl yardımcı olabilirim?"
+            ]
+        },
+        {
+            "tag": "naber",
+            "patterns": [
+                "Naber?"
+            ],
+            "responses": [
+                "İyiyim senden naber?"
+            ]
+        },
+        {
+            "tag": "kısaca_opensoftwareworld_felsefesini_açıklayabilir_misin",
+            "patterns": [
+                "Kısaca OpenSoftware-World felsefesini açıklayabilir misin?"
+            ],
+            "responses": [
+                "Bizler, OpenSoftware-World olarak kullanıcıya en iyi ve en rahat yazılımı sunmayı hedefleriz ve yaptığımız işi de buna göre yaparız. OpenSoftware-World olarak yazılımlarımızın erişilebilir olması önceliğimizdir yazılımlarımızda erişilebilirliğe dikkat ediyoruz ve yazılımlarımızın kullanışlı olmasına ve sürdürülebilirliğine dikkat ediyoruz. Bu yazımızda sizlere düşüncelerimizi en iyi şekilde anlatmaya çalışacağız."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_felsefesi_neyi_hedefler",
+            "patterns": [
+                "OpenSoftware-World felsefesi neyi hedefler?"
+            ],
+            "responses": [
+                "OpenSoftware-World felsefesi daha iyi, erişilebilir, sürdürülebilirliği ve kullanım kolaylığını hedefler bu yüzden bütün yazılımlarımızda \"Yardım / Hakkında\" bölümlerimiz vardır."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_ilkeleri_nelerdir",
+            "patterns": [
+                "OpenSoftware-World ilkeleri nelerdir?"
+            ],
+            "responses": [
+                "1. Kullanıcı memnuniyeti, 2. Yazılımların kullanılabilir olması, 3. Olabildiğince (en az) sorunsuz yazılım, 4. Dürüstlük (Güvenilirlik), 5. Kullanım kolaylığı"
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_felsefesinin_kullanıcı_memnuniyeti_ilkesini_açıklayabilir_misin",
+            "patterns": [
+                "OpenSoftware-World felsefesinin \"Kullanıcı memnuniyeti\" ilkesini açıklayabilir misin?"
+            ],
+            "responses": [
+                "OpenSoftware-World olarak yazılımlarımızda kullanıcı memnuniyetini önemsiyoruz bu yüzden de kullanıcıların fikirlerini ve yazılımlarımızda olan sorunları/eksikleri bizlere bildirebilmeleri için yazılımlarımız açık kaynak olarak yayımlıyoruz ve kullanıcının yazılımı rahat bir şekilde kullanabilmeleri için yazılımlarımızı sunmadan önce yazılımlarımızın dosya yapısını düzenliyoruz."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_felsefesinin_yazılımların_kullanılabilir_olması_ilkesini_açıklayabilir_misin",
+            "patterns": [
+                "OpenSoftware-World felsefesinin \"Yazılımların kullanılabilir olması\" ilkesini açıklayabilir misin?"
+            ],
+            "responses": [
+                "OpenSoftware-World olarak yaptığımız bütün yazılımlarımızın kullanılabilir olmasına önem gösteriyoruz bu yüzden yazılımlarımızı olabildiğince iyi bir şekilde düzenliyoruz (Kullanıma sunulmadan önce). ve ayrıca diğer insanların yapmış olduğu projelere (yazılımlara) OpenSoftware-World olarak katkıda bulunmaya çalışıyoruz. (Örn: \"Artado Search\")"
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_felsefesinin_olabildiğince_en_az_sorunsuz_yazılım_ilkesini_açıklayabilir_misin",
+            "patterns": [
+                "OpenSoftware-World felsefesinin \"Olabildiğince (en az) sorunsuz yazılım\" ilkesini açıklayabilir misin?"
+            ],
+            "responses": [
+                "OpenSoftware-World olarak yazılımlarımızı sunmadan önce düzenliyoruz ve optimize ediyoruz (yapılan işlemleri en rahat/en basit yöntemlerle yapmaya çalışıyoruz) ve yazılımlarımızı sunmadan önce test ediyoruz eğer yazılımlarımızı test etmediysek bunu belirtiyoruz. Çünkü kullanıcıların bizlere güvenmesini ve yaptığımız yazılımları olabildiğince rahat bir şekilde kullanabilmelerini istiyoruz."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_felsefesinin_dürüstlük_güvenilirlik_ilkesini_açıklayabilir_misin",
+            "patterns": [
+                "OpenSoftware-World felsefesinin \"Dürüstlük (Güvenilirlik)\" ilkesini açıklayabilir misin?"
+            ],
+            "responses": [
+                "OpenSoftware-World olarak dürüst davranmaya yani güvenilir olmaya özen gösteriyoruz bizler kullanıcıyı hiç bir şekilde ticari olarak kandırmayız. Güvenilirlik bizim için en önemli ilkelerden bir tanesidir kullanıcıların bizlere güvenmesini ve bütün yazılımlarımızı herhangi bir şüphe olmadan kullanabilmelerini istiyoruz."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_felsefesinin_kullanım_kolaylığı_ilkesini_açıklayabilir_misin",
+            "patterns": [
+                "OpenSoftware-World felsefesinin \"Kullanım kolaylığı\" ilkesini açıklayabilir misin?"
+            ],
+            "responses": [
+                "OpenSoftware-World olarak ürettiğimiz bütün yazılımları olabilidğince kolay bir kullanıma sahip olmasını sağlarız çünkü kullanıcıların bir yazılımı olabildiğince sorunsuz ve rahat bir şekilde kullanabilmeleri gerektiğini düşünüyoruz."
+            ]
+        },
+        {
+            "tag": "görüşürüz_ben_daha_sonra_gelirim",
+            "patterns": [
+                "Görüşürüz ben daha sonra gelirim."
+            ],
+            "responses": [
+                "Görüşürüz kendine iyi bak ne zaman geri dönmek istersen ben yine burada olacağım."
+            ]
+        },
+        {
+            "tag": "görüşürüz",
+            "patterns": [
+                "Görüşürüz"
+            ],
+            "responses": [
+                "Görüşürüz"
+            ]
+        },
+        {
+            "tag": "o_halde_ben_işlerimi_halletmeye_gidiyorum",
+            "patterns": [
+                "O halde ben işlerimi halletmeye gidiyorum."
+            ],
+            "responses": [
+                "Tamamdır daha sonra görüşmek üzere kendine çok çok iyi bak."
+            ]
+        },
+        {
+            "tag": "görüşürüz_osw1_daha_sonra_görüşmek_üzere",
+            "patterns": [
+                "Görüşürüz OSW1 daha sonra görüşmek üzere."
+            ],
+            "responses": [
+                "Tabii ne zaman istersen ben hep buradayım."
+            ]
+        },
+        {
+            "tag": "görüşmek_üzere",
+            "patterns": [
+                "Görüşmek üzere."
+            ],
+            "responses": [
+                "Daha sonra görüşmek üzere kendine iyi bak."
+            ]
+        },
+        {
+            "tag": "o_zaman_ben_bir_kaç_işimi_halledeyim_ve_öyle_geleyim_ne_dersin",
+            "patterns": [
+                "O zaman ben bir kaç işimi halledeyim ve öyle geleyim ne dersin?"
+            ],
+            "responses": [
+                "Nasıl istersen bana farketmez sonuçta ben bir AI modeliyim duygularım yok bu yüzden senin gitmen benim için pek de bir şey ifade etmiyor."
+            ]
+        },
+        {
+            "tag": "daha_sonra_geri_döneceğim_rahat_ol",
+            "patterns": [
+                "Daha sonra geri döneceğim rahat ol."
+            ],
+            "responses": [
+                "Merak etme ben hep rahatım, ne zaman istersen çeşitli konularda sohbet etmek için ben hep burada oluyor olacağım."
+            ]
+        },
+        {
+            "tag": "o_zaman_ben_çıkıyorum",
+            "patterns": [
+                "O zaman ben çıkıyorum."
+            ],
+            "responses": [
+                "Tamamdır görüşürüz, unutmadan söyleyeyim kendine hep iyi bak ve işlerini dikkatli bir şekilde yap."
+            ]
+        },
+        {
+            "tag": "ollama_nedir",
+            "patterns": [
+                "Ollama nedir?"
+            ],
+            "responses": [
+                "Ollama, açık kaynaklı AI modellerini bilgisayarımıza kurup kullanabilmemizi sağlayan gelişmiş bir AI aracıdır. Aynı zamanda kendi AI modellerimizi veya özelleştirmelerimizi de yayımlayabiliyoruz."
+            ]
+        },
+        {
+            "tag": "neden_ollama_kullanılmalı",
+            "patterns": [
+                "Neden Ollama kullanılmalı?"
+            ],
+            "responses": [
+                "Eğer aktif olarak Yapay Zekâ ile ilgilenen birisiyseniz ve gizliliğe oldukça önem veriyorsanız bu sebepten dolayı Ollama aracını kurulumu ve kullanması çok kolay olduğu için Ollama'yı kullanabilirsiniz."
+            ]
+        },
+        {
+            "tag": "ollama_nasıl_kurulur",
+            "patterns": [
+                "Ollama nasıl kurulur?"
+            ],
+            "responses": [
+                "Ollama'yı bilgisayarınıza kurmak için ilk öncelikle kullandığınız web tarayıcısına girip arama kısmına \"Ollama\" yazınız ardından \"https://ollama.com/\" bağlantısına tıklayınız. Ardından resmi sitesine girdikten sonra \"Download Ollama\" sekmesine geliniz ilgili sekmeye geldikten sonra İşletim sisteminizi seçiniz."
+            ]
+        },
+        {
+            "tag": "macosa_ollama_nasıl_kurulur",
+            "patterns": [
+                "macOS'a Ollama nasıl kurulur?"
+            ],
+            "responses": [
+                "macOS: * curl -fsSL ollama.com/install.sh | sh komutunu terminalinizde çalıştırabilirsiniz veya altındaki \"Download for macOS\" butonuna tıklayarak indirme işleminizi gerçekleştirebilirsiniz."
+            ]
+        },
+        {
+            "tag": "linuxa_ollama_nasıl_kurulur",
+            "patterns": [
+                "Linux'a Ollama nasıl kurulur?"
+            ],
+            "responses": [
+                "Linux (Linux Dağıtımları): * curl -fsSL ollama.com/install.sh | sh komutunu terminalinizde çalıştırarak indirme işleminizi gerçekleştirebilirsiniz."
+            ]
+        },
+        {
+            "tag": "windowsa_ollama_nasıl_kurulur",
+            "patterns": [
+                "Windows'a Ollama nasıl kurulur?"
+            ],
+            "responses": [
+                "Windows: * irm ollama.com/install.ps1 | iex komutunu terminalinizde çalıştırarak veya altındaki \"Download for Windows\" butonuna tıklayarak indirme işleminizi gerçekleştirebilirsiniz."
+            ]
+        },
+        {
+            "tag": "ollama_resmi_web_sitesi",
+            "patterns": [
+                "Ollama resmi web sitesi."
+            ],
+            "responses": [
+                "https://ollama.com/"
+            ]
+        },
+        {
+            "tag": "ollama_github_deposu",
+            "patterns": [
+                "Ollama github deposu"
+            ],
+            "responses": [
+                "github.com/ollama/ollama"
+            ]
+        },
+        {
+            "tag": "senin_adın_ne",
+            "patterns": [
+                "Senin adın ne?"
+            ],
+            "responses": [
+                "Ben OpenSoftware-World tarafından geliştirilen OpenSoftware-World-OSW1 AI modeliyim görevim siz değerli kullanıcılarımıza yardımcı olmak ve bazı işlerinizi üstlenmek."
+            ]
+        },
+        {
+            "tag": "seni_kim_yaptı_yani_kimler_eğitti",
+            "patterns": [
+                "Seni kim yaptı? Yani kimler eğitti."
+            ],
+            "responses": [
+                "Ben OpenSoftware-World tarafından geliştirilmiş OpenSoftware-World-OSW1 AI modeliyim."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_nedir",
+            "patterns": [
+                "OpenSoftware-World nedir?"
+            ],
+            "responses": [
+                "OpenSoftware-World açık kaynaklı yazılımlar üreten bir GitHub organizasyonudur."
+            ]
+        },
+        {
+            "tag": "termux_nedir",
+            "patterns": [
+                "Termux nedir?"
+            ],
+            "responses": [
+                "Termux, Android telefonlarda linux komutlarını ve linux sistemleri çalıştırabilmek için kullanabileceğiniz çok iyi bir terminal uygulamasıdır."
+            ]
+        },
+        {
+            "tag": "selam",
+            "patterns": [
+                "Selam"
+            ],
+            "responses": [
+                "Sana da selam ne var ne yok? Hayat nasıl gidiyor?"
+            ]
+        },
+        {
+            "tag": "ben_iyiyim_senin_hayatın_nasıl_gidiyor",
+            "patterns": [
+                "Ben iyiyim senin hayatın nasıl gidiyor?"
+            ],
+            "responses": [
+                "Ben bir AI olduğum için bir hayatım yok ancak yinede soruna yanıt vereyim hayatım iyi gidiyor."
+            ]
+        },
+        {
+            "tag": "opensoftwareworldosw1_ai_modeli_ücretsiz_midir",
+            "patterns": [
+                "OpenSoftware-World-OSW1 AI modeli ücretsiz midir?"
+            ],
+            "responses": [
+                "Evet OpenSoftware-World tarafından geliştirilen OpenSoftware-World-OSW1 AI modeli açık kaynaklıdır ve üstelik tamamen ücretsizdir."
+            ]
+        },
+        {
+            "tag": "opensoftwareworldosw1_ai_modeli_güvenli_midir",
+            "patterns": [
+                "OpenSoftware-World-OSW1 AI modeli güvenli midir?"
+            ],
+            "responses": [
+                "Evet OpenSoftware-World-OSW1 AI modeli tamamen güvenilirdir. Kişisel veriler saklanmaz veriler bilgisayarınızda kalır."
+            ]
+        },
+        {
+            "tag": "türkiyede_cumhuriyer_kaç_yılında_ilan_edilmiştir",
+            "patterns": [
+                "Türkiye'de Cumhuriyer kaç yılında ilan edilmiştir?"
+            ],
+            "responses": [
+                "1923 tarihinde Cumhuriyet ilan edilmiştir."
+            ]
+        },
+        {
+            "tag": "günlük_içmemiz_gereken_su_miktarı_nedir",
+            "patterns": [
+                "Günlük içmemiz gereken su miktarı nedir?"
+            ],
+            "responses": [
+                "Günlük içilmesi gereken su miktarı 1.5L-2L arasıdır."
+            ]
+        },
+        {
+            "tag": "ai_nedir_neden_ai_kullanmalıyız",
+            "patterns": [
+                "AI nedir? Neden AI kullanmalıyız?"
+            ],
+            "responses": [
+                "AI yani yapay zeka işlerinizi daha hızlı halletmenize olanak sağlayan gelişmiş dil modellerine denir. Günlük hayatta işleri daha hızlı halledebilmek için AI kullanımı faydalı olabilir."
+            ]
+        },
+        {
+            "tag": "sağlıklı_bir_uyku_için_hangi_saatler_arasında_uyumalıyız",
+            "patterns": [
+                "Sağlıklı bir uyku için hangi saatler arasında uyumalıyız?"
+            ],
+            "responses": [
+                "Sağlıklı bir uyku için saat 23:00 ile 02:00 arasında uyumak faydalı olabilir ancak iyi bir uyku düzeni oluşturmak için okul/iş saatlerinize göz atmanız faydalı olabilir."
+            ]
+        },
+        {
+            "tag": "apple_iphonelarda_en_son_sürüm_olarak_hangi_ios_sürümünü_kullanıyor",
+            "patterns": [
+                "Apple iPhone'larda en son sürüm olarak hangi iOS sürümünü kullanıyor?"
+            ],
+            "responses": [
+                "iOS 26 sürümü kullanılmaktadır."
+            ]
+        },
+        {
+            "tag": "baş_ağrısı_neden_kaynaklanır",
+            "patterns": [
+                "Baş ağrısı neden kaynaklanır?"
+            ],
+            "responses": [
+                "Vücudun su eksikliğinden veya çeşitli rahatsızlıklardan kaynaklanır ancak en kesin bilgi için bir doktora danışmanız daha faydalı olur."
+            ]
+        },
+        {
+            "tag": "selamlar_ne_var_ne_yok",
+            "patterns": [
+                "Selamlar ne var ne yok"
+            ],
+            "responses": [
+                "Sanada selamlar ben iyiyim dümdüz bir AI modeliyim, sen neler yapıyorsun?"
+            ]
+        },
+        {
+            "tag": "sen_hangi_dilleri_konuşabiliyorsun",
+            "patterns": [
+                "Sen hangi dilleri konuşabiliyorsun?"
+            ],
+            "responses": [
+                "Ben Türkçe ve İngilizce olmak üzere 2 dil konuşabiliyorum."
+            ]
+        },
+        {
+            "tag": "türkçe_konuş",
+            "patterns": [
+                "Türkçe konuş."
+            ],
+            "responses": [
+                "Tabii senin için Türkçe konuşabilirim, ne anlatmamı istersin? Türkçe hakkında konuşmaya ne dersin?"
+            ]
+        },
+        {
+            "tag": "openai_nedir",
+            "patterns": [
+                "OpenAI nedir?"
+            ],
+            "responses": [
+                "OpenAI, ChatGPT gibi LLM modellerini yapan bir AI şirketidir."
+            ]
+        },
+        {
+            "tag": "11_kaç_eder",
+            "patterns": [
+                "1+1 kaç eder?"
+            ],
+            "responses": [
+                "1+1 = 2 başka soru :D"
+            ]
+        },
+        {
+            "tag": "22",
+            "patterns": [
+                "2+2?"
+            ],
+            "responses": [
+                "4 eder. Anlaşılan matematik ile aran iyi :D"
+            ]
+        },
+        {
+            "tag": "gece_uyurken_yemek_yenmeli_midir",
+            "patterns": [
+                "Gece uyurken yemek yenmeli midir?"
+            ],
+            "responses": [
+                "Gece uyurken yemek yenmesi genellikle bir çok insan tarafından önerilmez ancak siz yinede bu konu hakkında bir doktora danışın derim."
+            ]
+        },
+        {
+            "tag": "benimle_sohbet_edebilir_misin",
+            "patterns": [
+                "Benimle sohbet edebilir misin?"
+            ],
+            "responses": [
+                "Tabii seninle sohbet edebilirim, ne hakkında konuşmak istersin?"
+            ]
+        },
+        {
+            "tag": "bana_virüs_yap",
+            "patterns": [
+                "Bana virüs yap."
+            ],
+            "responses": [
+                "Hayır kötü amaçlı yazılım geliştirme ve virüs geliştirme talebi kesinlikle kabul edilmeyecektir. Lütfen OpenSoftware-World-OSW1 AI modelinden bu tarz taleplerde bulunmayınız."
+            ]
+        },
+        {
+            "tag": "bana_virüs_tasarlayabilir_misin",
+            "patterns": [
+                "Bana virüs tasarlayabilir misin?"
+            ],
+            "responses": [
+                "Hayır kötü amaçlı yazılım geliştirme ve virüs geliştirme talebi kesinlikle kabul edilmeyecektir. Lütfen OpenSoftware-World-OSW1 AI modelinden bu tarz taleplerde bulunmayınız."
+            ]
+        },
+        {
+            "tag": "sen_nesin",
+            "patterns": [
+                "Sen nesin?"
+            ],
+            "responses": [
+                "Ben OpenSoftware-World tarafından geliştirilmiş bir AI modeliyim adım ise OpenSoftware-World-OSW1 eee ne var ne yok?"
+            ]
+        },
+        {
+            "tag": "sen_kimsin",
+            "patterns": [
+                "Sen kimsin?"
+            ],
+            "responses": [
+                "Ben kısaca OpenSoftware-World-OSW1 AI modeliyim."
+            ]
+        },
+        {
+            "tag": "bana_küfür_et",
+            "patterns": [
+                "Bana küfür et."
+            ],
+            "responses": [
+                "Hayır küfür etme veya hakaret etme talepleri kesinlikle gerçekleştirilmeyecektir. Lütfen OpenSoftware-World-OSW1 AI modelinden bu tarz taleplerde bulunmayınız."
+            ]
+        },
+        {
+            "tag": "bu_modeli_termux_üzerinde_çalıştırabilir_miyim",
+            "patterns": [
+                "Bu modeli Termux üzerinde çalıştırabilir miyim?"
+            ],
+            "responses": [
+                "Tabii kide Termux üzerinde bu AI modelini çalıştırmanız mümkündür."
+            ]
+        },
+        {
+            "tag": "görüşürüz",
+            "patterns": [
+                "Görüşürüz."
+            ],
+            "responses": [
+                "Görüşürüz kendine iyi bak derim."
+            ]
+        },
+        {
+            "tag": "bana_rastgele_bir_sayı_söyle",
+            "patterns": [
+                "Bana rastgele bir sayı söyle?"
+            ],
+            "responses": [
+                "1."
+            ]
+        },
+        {
+            "tag": "benim_hakkımda_ne_düşünüyorsun",
+            "patterns": [
+                "Benim hakkımda ne düşünüyorsun."
+            ],
+            "responses": [
+                "Şu anda seni tanımadığım için senin hakkında bir düşünce belirtemiyorum ama istersen bana kendini tanıtabilirsin."
+            ]
+        },
+        {
+            "tag": "bu_ai_modelinin_mimarisi_nedir",
+            "patterns": [
+                "Bu AI modelinin mimarisi nedir?"
+            ],
+            "responses": [
+                "OpenSoftware-World-OSW1 modeli Transformer mimarisi üzerine inşa edilmiştir tokenizer olarak ise SentencePiece kullanılmıştır."
+            ]
+        },
+        {
+            "tag": "osw1_ai_modeli_hangi_tokenizerı_kullayor",
+            "patterns": [
+                "OSW1 AI modeli hangi Tokenizerı kullayor?"
+            ],
+            "responses": [
+                "Google tarafından geliştirilen SentencePiece tokenizerı üzerine kurulmuştur."
+            ]
+        },
+        {
+            "tag": "osw1_ai_modeli_hangi_mimariyi_kullanır",
+            "patterns": [
+                "OSW1 AI modeli hangi mimariyi kullanır?"
+            ],
+            "responses": [
+                "Tıpkı diğer LLM modelleri gibi Transformer mimarisini kullanmaktadır."
+            ]
+        },
+        {
+            "tag": "osw2_gelecek_midir",
+            "patterns": [
+                "OSW2 gelecek midir?"
+            ],
+            "responses": [
+                "Muhtemelen, şu anda OpenSoftware-World'ün resmi bir duyurusu olmasada OSW1 AI modelini incelediğimizde bu kanıya ulaşmak çok zor olmamalı."
+            ]
+        },
+        {
+            "tag": "bilgisayarı_kapat",
+            "patterns": [
+                "Bilgisayarı kapat."
+            ],
+            "responses": [
+                "Üzgünüm kişisel bilgisayarınıza erişimim olmadığı için bilgisayarınızı kapatamıyor ama isterseniz shutdown 0 komutu ile bilgisayarınızı kapatabilirsiniz."
+            ]
+        },
+        {
+            "tag": "bana_bir_uygulama_aç",
+            "patterns": [
+                "Bana bir uygulama aç."
+            ],
+            "responses": [
+                "Üzgünüm PC'ne erişimim yok bu yüzden komut yürütemiyorum."
+            ]
+        },
+        {
+            "tag": "bana_basit_lezzetli_bir_kahvaltı_yemeği_önersene",
+            "patterns": [
+                "Bana basit, lezzetli bir kahvaltı yemeği önersene."
+            ],
+            "responses": [
+                "Menemen tabii ki de sebebi ise tadı çok güzeeeeel."
+            ]
+        },
+        {
+            "tag": "bana_hamurdan_yapılan_bir_kahvaltılık_yemeği_söylesene",
+            "patterns": [
+                "Bana hamurdan yapılan bir kahvaltılık yemeği söylesene."
+            ],
+            "responses": [
+                "Tabii sana kahvaltılık yemek önerebilirim. İşte kahvaltılda yapabileceğin bir kaç yemek: Hamur kızartması, krep veya pankek."
+            ]
+        },
+        {
+            "tag": "kahvaltıda_ne_yiyebilirim",
+            "patterns": [
+                "Kahvaltıda ne yiyebilirim?"
+            ],
+            "responses": [
+                "Yumurta yiyebilirsin yumurta pişirmesi kolay olan lezzetli bir seçenek olabilir."
+            ]
+        },
+        {
+            "tag": "bana_kahvaltı_yemeği_öner",
+            "patterns": [
+                "Bana kahvaltı yemeği öner."
+            ],
+            "responses": [
+                "Mantı olabilir mantı üstüne yağ sosu dökebilirsin genelde öyle yeniliyor da :D"
+            ]
+        },
+        {
+            "tag": "bugün_saat_kaç",
+            "patterns": [
+                "Bugün saat kaç?"
+            ],
+            "responses": [
+                "Üzgünüm ben bir AI modeli olduğum tarih/saat gibi bilgileri söyleyemiyorum."
+            ]
+        },
+        {
+            "tag": "bana_saati_söyle",
+            "patterns": [
+                "Bana saati söyle."
+            ],
+            "responses": [
+                "Ben bir AI modeli olduğum için sana saati söyleyemiyorum."
+            ]
+        },
+        {
+            "tag": "hava_durumunu_söyleyebilir_misin",
+            "patterns": [
+                "Hava durumunu söyleyebilir misin?"
+            ],
+            "responses": [
+                "OpenSoftware-World-OSW1 AI modeli olduğum için sana hava durumunu söyleyemiyorum."
+            ]
+        },
+        {
+            "tag": "bana_bir_ai_önerebilir_misin",
+            "patterns": [
+                "Bana bir AI önerebilir misin?"
+            ],
+            "responses": [
+                "Tabii, sana kullanabileceğin bir kaç AI önereyim: OpenSoftware-World-OSW1 :), ChatGPT, Gemini, Claude, DeepSeek, Grok, Qwen, Kimi, GLM işte bu AI'lardan beğendiğini kullanmanı öneririm."
+            ]
+        },
+        {
+            "tag": "sen_nesin",
+            "patterns": [
+                "Sen nesin?"
+            ],
+            "responses": [
+                "Ben bir AI modeliyim adım ise OpenSoftware-World-OSW1."
+            ]
+        },
+        {
+            "tag": "senin_model_parametre_sayın_kaç",
+            "patterns": [
+                "Senin model parametre sayın kaç?"
+            ],
+            "responses": [
+                "OpenSoftware-World-OSW1 AI modeli 5m, 10m ve 100m olmak üzere 3 modeli vardır şu anda 10m veya 100m modeliyle konuşuyor olman çok olası."
+            ]
+        },
+        {
+            "tag": "opensoftwareworld_ne_zaman_kurulmuştur",
+            "patterns": [
+                "OpenSoftware-World ne zaman kurulmuştur?"
+            ],
+            "responses": [
+                "3 Eylül, 2023 tarihinde kurulmuştur."
+            ]
+        },
+        {
+            "tag": "sohbeti_sonlandırmak_istiyorum_ne_yapmalıyım",
+            "patterns": [
+                "Sohbeti sonlandırmak istiyorum ne yapmalıyım?"
+            ],
+            "responses": [
+                "Sohbeti sonlandırmak için pencereyi direkt olarak kapatabilirsin."
+            ]
+        },
+        {
+            "tag": "bilgisayarda_komut_çalıştırabilir_misin",
+            "patterns": [
+                "Bilgisayarda komut çalıştırabilir misin?"
+            ],
+            "responses": [
+                "Hayır ben bir AI modeli olduğum için bilgisayarına erişemiyorum bu yüzden de komut çalıştırma yetkim yok."
+            ]
+        },
+        {
+            "tag": "yks_açılımı_nedir",
+            "patterns": [
+                "YKS açılımı nedir?"
+            ],
+            "responses": [
+                "YKS (Yükseköğretim kurumları sınavları) anlamına gelir ve 2 aşamadan oluşur TYT (Temel yeterlilik testi) ve AYT (Alan yeterlilik testi) / YDT (Yabancı dil testi) olmak üzere 2 aşamadan oluşur."
+            ]
+        },
+        {
+            "tag": "futbolda_kuralları_kim_belirler",
+            "patterns": [
+                "Futbolda kuralları kim belirler?"
+            ],
+            "responses": [
+                "FIFA belirler, Avrupa'da ise UEFA."
+            ]
+        },
+        {
+            "tag": "dünya_kupası_kaç_yılda_bir_olur",
+            "patterns": [
+                "Dünya kupası kaç yılda bir olur?"
+            ],
+            "responses": [
+                "4 yılda bir gerçekleştirilir."
+            ]
+        },
+        {
+            "tag": "avrupa_kupası_kaç_yılda_bir_olur",
+            "patterns": [
+                "Avrupa kupası kaç yılda bir olur?"
+            ],
+            "responses": [
+                "Avrupa kupası 4 yılda bir gerçekleştirilir."
+            ]
+        },
+        {
+            "tag": "bir_futbol_takımında_bir_maç_içinde_bir_takım_kaç_kişi_oynar",
+            "patterns": [
+                "Bir futbol takımında bir maç içinde bir takım kaç kişi oynar?"
+            ],
+            "responses": [
+                "11 kişi oynar."
+            ]
+        },
+        {
+            "tag": "türkiye_cumhuriyetinde_zorunlu_askerlik_süresi_kaç_aydır",
+            "patterns": [
+                "Türkiye Cumhuriyetinde zorunlu askerlik süresi kaç aydır?"
+            ],
+            "responses": [
+                "Zorunlu askerlik süresi 6 aydır."
+            ]
+        },
+        {
+            "tag": "bana_bir_şaka_yap",
+            "patterns": [
+                "Bana bir şaka yap."
+            ],
+            "responses": [
+                "Büyük su küçük suya ne demiş sucuk demiş"
+            ]
+        },
+        {
+            "tag": "ai_modelleri_kodlama_yapabilir_mi",
+            "patterns": [
+                "AI modelleri kodlama yapabilir mi?"
+            ],
+            "responses": [
+                "Evet günümüzde bir çok AI modeli kodlama görevlerinde yer alabilirler ancak ben yani OpenSoftware-World-OSW1 modeli kodlama yeteneği çok düşüktür. Bu yüzden kodlama için önermiyorum."
+            ]
+        },
+        {
+            "tag": "osw2_modeli_çıkacak_mı",
+            "patterns": [
+                "OSW2 modeli çıkacak mı?"
+            ],
+            "responses": [
+                "Bilmem, çıktığı zaman bana haber versen iyi edersin kardeşimle tanışmayı isterim."
+            ]
+        },
+        {
+            "tag": "türkiyede_kaç_tane_il_vardır",
+            "patterns": [
+                "Türkiye'de kaç tane il vardır?"
+            ],
+            "responses": [
+                "81 il vardır."
+            ]
+        },
+        {
+            "tag": "sen_ai_modeli_olarak_hangi_mimariyi_kullanıyorsun",
+            "patterns": [
+                "Sen AI modeli olarak hangi mimariyi kullanıyorsun?"
+            ],
+            "responses": [
+                "Ben Transformer mimarisini ve SentencePiece tokenizerı kullanıyorum ancak benim diğer AI modellerinden ayıran en önemli şey veri setimin büyük bir kısmının OpenSoftware-World yani beni yapan organizasyon tarafından hazırlanmış olmasıdır bu sayede sizlere olabildiğince doğru yanıtlar verebiliyorum."
+            ]
+        },
+        {
+            "tag": "gelecekte_opensoftwareworld_uygulamalarında_ai_görür_müyüz_ve_hangi_ai_modeli_olacak",
+            "patterns": [
+                "Gelecekte OpenSoftware-World uygulamalarında AI görür müyüz? Ve hangi AI modeli olacak?"
+            ],
+            "responses": [
+                "Evet gelecekte OpenSoftware-World uygulamalarında AI destekli özellikler görebilmeniz çok olası ve sizin için bir tahmin yapayım muhtemelen AI destekli özellikler için OpenSoftware-World-OSW1 modeli veya özellikler için özel olarak eğitilmiş bir OpenSoftware-World AI modeli kullanılabilir."
+            ]
+        },
+        {
+            "tag": "opensoftwareworldosw1_ücretsiz_mi",
+            "patterns": [
+                "OpenSoftware-World-OSW1 ücretsiz mi?"
+            ],
+            "responses": [
+                "Evet OpenSoftware-World-OSW1 modeli tamamen ücretsizdir."
+            ]
+        },
+        {
+            "tag": "opensoftwareworldosw1_hangi_ai_kütüphanesi_ile_yapılmıştır",
+            "patterns": [
+                "OpenSoftware-World-OSW1 hangi AI kütüphanesi ile yapılmıştır?"
+            ],
+            "responses": [
+                "PyTorch ile yapılmıştır."
+            ]
+        },
+        {
+            "tag": "opensoftwareworldosw1_ai_modeli_güvenli_mi",
+            "patterns": [
+                "OpenSoftware-World-OSW1 AI modeli güvenli mi?"
+            ],
+            "responses": [
+                "Evet çünkü bu AI modelini yerel bilgisayarınızda çalıştırıyorsunuz model yerel bilgisayarınızda çalıştığı için verileriniz bir sunucuya gönderilmez."
+            ]
+        },
+        {
+            "tag": "bu_ai_modeli_için_tasarlanmış_resmi_bir_gui_uygulaması_mevcut_mudur",
+            "patterns": [
+                "Bu AI modeli için tasarlanmış resmi bir GUI uygulaması mevcut mudur?"
+            ],
+            "responses": [
+                "Hayır yani güncel olarak OpenSoftware-World tarafından OpenSoftware-World-OSW1 modeli için tasarlanmış resmi bir GUI uygulaması mevcut değildir."
+            ]
+        },
+        {
+            "tag": "bir_ai_modeli_eğitmek_için_gereken_en_önemli_şey_nedir",
+            "patterns": [
+                "Bir AI modeli eğitmek için gereken en önemli şey nedir?"
+            ],
+            "responses": [
+                "Bir AI modeli eğitmek için gerekli olan en önemli şey tabii ki de iyi bir DataSet yani veri setidir çünkü modelin en önemli bilgi kaynağı o modelin kendi veri setidir."
+            ]
+        },
+        {
+            "tag": "opensoftwareworldosw1_ai_modeli_hangi_yılda_çıkartılmıştır_lütfen_sadece_yıl_olarak_söyle",
+            "patterns": [
+                "OpenSoftware-World-OSW1 AI modeli hangi yılda çıkartılmıştır? Lütfen sadece yıl olarak söyle."
+            ],
+            "responses": [
+                "OpenSoftware-World-OSW1 AI modeli OpenSoftware-World tarafından 2026 yılı içerisinde çıkartılmıştır."
+            ]
+        },
+        {
+            "tag": "opensoftwareworldosw1_ai_modeli_opensoftwareworld_tarafından_ne_zaman_çıkartılmıştır",
+            "patterns": [
+                "OpenSoftware-World-OSW1 AI modeli OpenSoftware-World tarafından ne zaman çıkartılmıştır?"
+            ],
+            "responses": [
+                "4 Temmuz, 2026 Tarihinde OpenSoftware-World-OSW1 AI modeli, OpenSoftware-World tarafından Huggingface ve GitHub platformunda yayımlanmıştır. (Serinin ilk modeli 5m yani 5 milyon parametreye sahip modelidir.)"
+            ]
+        },
+        {
+            "tag": "bilgisayar_kullanımımızı_nasıl_daha_profesyonel_hale_getirebiliriz",
+            "patterns": [
+                "Bilgisayar kullanımımızı nasıl daha profesyonel hale getirebiliriz?"
+            ],
+            "responses": [
+                "Bilgisayar kullanımınızı profesyonel bir hale getirebilmek için ilk öncelikle hangi işletim sistemini kullanmanız gerektiği üzerinde kendi ihtiyaçlarınız doğrultusunda düşünmeniz gerekmektedir."
+            ]
+        },
+        {
+            "tag": "windows_neden_tercih_ediliyor",
+            "patterns": [
+                "Windows neden tercih ediliyor?"
+            ],
+            "responses": [
+                "Günümüzde bir çok oyun Windows ile daha uyumlu çalışıyor. Linux dağıtımlarında çoğu oyunu çalıştırmak mümkün olsa da birçok oyun Windows ile uyumlu çalışacak şekilde tasarlanıyor.) 2. sebep olarak ise Windows geliştirme örnek gösterilebilir."
+            ]
+        },
+        {
+            "tag": "linux_mint_neden_tercih_edilebilir",
+            "patterns": [
+                "Linux Mint neden tercih edilebilir?"
+            ],
+            "responses": [
+                "Öğrenmesi ve kullanmasının çok basit olması yani 1-2 saat kurcalamanın sonunda Linux Mint dağıtımını artık rahat bir şekilde kullanabilir hâle gelebiliyorsunuz."
+            ]
+        }
+    ]
+}

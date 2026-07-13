@@ -1,0 +1,88 @@
+Bu Kullanım Şartları (“Şartlar”), OpenSoftware-World tarafından geliştirilen
+“Updater” yazılımının kullanımına ilişkin kuralları belirler.
+
+“Updater” yazılımını indirerek, kurarak veya kullanarak bu Şartları kabul etmiş sayılırsınız.
+
+1. TARAFLAR
+
+Bu Şartlar;
+
+* Hizmet Sağlayıcı: OpenSoftware-World
+* Kullanıcı: “Updater” yazılımını kullanan gerçek veya tüzel kişi
+
+arasında düzenlenmiştir.
+
+2. HİZMET TANIMI
+
+“Updater”, sistem güncellemelerini kontrol eden, indiren ve yöneten bir yazılımdır.
+Yazılım, kullanıcıya güncelleme süreçlerini kolaylaştırmak amacıyla sunulmaktadır.
+
+3. KULLANIM KOŞULLARI
+
+Kullanıcı aşağıdaki şartları kabul eder:
+
+* Yazılım yalnızca yasal amaçlarla kullanılabilir
+* Yazılımın çalışmasını engelleyecek veya bozacak işlemler yapılamaz
+* Yazılım tersine mühendislik, parçalama veya analiz amacıyla kötüye kullanılamaz
+* Yazılımın güvenlik sistemleri aşılmaya çalışılamaz
+
+4. LİSANS VE ERİŞİM
+
+* “Updater” açık kaynak lisanslı olabilir ancak kullanım hakkı OpenSoftware-World tarafından sınırlandırılabilir
+* OpenSoftware-World, kullanıcıya sınırlı, geri alınabilir ve devredilemez kullanım hakkı verir
+* Yazılımın erişimi herhangi bir zamanda askıya alınabilir veya sonlandırılabilir
+
+5. GÜNCELLEMELER
+
+* Yazılım zaman zaman otomatik veya manuel güncellemeler alabilir
+* Kullanıcı, bu güncellemelerin yüklenmesini kabul eder
+* Güncellemeler yazılımın işlevini değiştirebilir veya geliştirebilir
+
+6. ÜÇÜNCÜ TARAF BAĞLANTILAR
+
+* Yazılım üçüncü taraf servisler veya bağlantılar içerebilir
+* Bu servislerin içeriklerinden OpenSoftware-World sorumlu değildir
+
+7. SORUMLULUK SINIRI
+
+* Yazılım “OLDUĞU GİBİ” sunulmaktadır
+* OpenSoftware-World aşağıdaki durumlardan sorumlu değildir:
+    - Veri kaybı
+    - Sistem çökmesi
+    - Performans sorunları
+    - Uyumsuzluk problemleri
+
+8. YASAKLI FAALİYETLER
+
+Aşağıdaki faaliyetler kesinlikle yasaktır:
+
+* Yazılımın kötüye kullanılması
+* Zararlı yazılım geliştirmek için kullanılması
+* Yetkisiz erişim girişimleri
+* Lisans sistemini aşmaya yönelik girişimler
+
+9. FESİH
+
+OpenSoftware-World, aşağıdaki durumlarda kullanıcı erişimini sonlandırabilir:
+
+* Şartların ihlali
+* Yasal zorunluluklar
+* Güvenlik riskleri
+
+Fesih durumunda kullanıcı yazılımı kullanmayı derhal durdurmalıdır.
+
+10. FİKRİ MÜLKİYET
+
+* Tüm marka, kod ve içerik hakları OpenSoftware-World’e aittir
+* Kullanıcıya herhangi bir mülkiyet hakkı verilmez
+
+11. DEĞİŞİKLİKLER
+
+* OpenSoftware-World bu Şartları önceden bildirmeksizin değiştirme hakkına sahiptir
+* Güncel sürüm resmi kaynaklarda yayımlanır
+
+12. YÜRÜRLÜK
+
+Bu Kullanım Şartları 26/04/2026 tarihinde yürürlüğe girmiştir.
+
+SON GÜNCELLEME: 26/04/2026

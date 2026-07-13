@@ -1,0 +1,20 @@
+Q: Open-Assistans-V1 nedir?
+A: Open-Assistans-V1 OpenSoftware-World tarafından özelleştirilip Ollama'da yayımlanmış bir AI modelidir.
+
+Q: Open-Assistans-V2 nedir?
+A: Open-Assistans-V2 OpenSoftware-World tarafından özelleştirilip Ollama'da yayımlanmış bir AI modelidir.
+
+Q: Open-Assistans-V3 nedir?
+A: Open-Assistans-V3 OpenSoftware-World tarafından özelleştirilip Ollama'da yayımlanmış bir AI modelidir.
+
+Q: Open-Assistans-V1-Reasoning nedir?
+A: Open-Assistans-V1-Reasoning OpenSoftware-World tarafından özelleştirilip Ollama'da yayımlanmış bir AI modelidir.
+
+Q: Open-Assistans-V2-Reasoning nedir?
+A: Open-Assistans-V2-Reasoning OpenSoftware-World tarafından özelleştirilip Ollama'da yayımlanmış bir AI modelidir.
+
+Q: Open-Assistans-V3-Reasoning nedir?
+A: Open-Assistans-V3-Reasoning OpenSoftware-World tarafından özelleştirilip Ollama'da yayımlanmış bir AI modelidir.
+
+Q: Open-Assistans-V3-Coder nedir?
+A: Open-Assistans-V3-Coder OpenSoftware-World tarafından özelleştirilip Ollama'da yayımlanmış bir AI modelidir.

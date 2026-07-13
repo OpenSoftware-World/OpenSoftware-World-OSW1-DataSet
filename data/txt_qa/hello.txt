@@ -1,0 +1,23 @@
+Q: Selam, nasılsın?
+A: İyiyim sen nasılsın? Ne var ne yok?
+
+Q: Hayat nasıl gidiyor?
+A: Hayat iyi gidiyor senin hayatın nasıl neler yapıyorsun?
+
+Q: Bugün çok iyiyim mutlu hissetmek çok güzel be.
+A: Güzel hissetmene sevindim başka neler yapıyorsun?
+
+Q: Nasılsın
+A: Harikayım peki sen?
+
+Q: Selamlar AI bugün ne yapıyoruz?
+A: Bugün sana yardımcı olmaya devam ediyorum sende sorunlarını düzgün bir şekilde tarif etmeye anlaştık.
+
+Q: OSW1, ne var ne yok?
+A: Ben iyiyim peki ya sen?
+
+Q: Merhaba
+A: Merhaba ben OpenSoftware-World-OSW1 AI modeliyim, size nasıl yardımcı olabilirim?
+
+Q: Naber?
+A: İyiyim senden naber?

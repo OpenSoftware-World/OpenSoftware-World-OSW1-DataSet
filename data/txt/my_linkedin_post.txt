@@ -1,0 +1,33 @@
+Öncelikle herkese selamlar bugün sizlere uzun zamandan beridir severek kullandığım bir AI (Artificial Intelligence / Yapay Zekâ) aracından bahsetmek istiyorum bu aracın adı Ollama hazırsanız Ollama'dan biraz daha detaylı bahsetmeye geçelim.
+
+Ollama nedir?
+
+Ollama, açık kaynaklı AI modellerini bilgisayarımıza kurup kullanabilmemizi sağlayan gelişmiş bir AI aracıdır. Aynı zamanda kendi AI modellerimizi veya özelleştirmelerimizi de yayımlayabiliyoruz.
+
+Neden Ollama kullanıyorum?
+
+Ben aktif olarak Yapay Zekâ ile ilgilenen birisiyim bu yüzden gizliliğe oldukça önem veriyorum bu sebepten dolayı bundan bir sene önce bilgisayarıma AI modeli indirebilmek için AI aracı araştırmaya başladım ve Ollama aracını keşfettim kurup bir denemek istedim ardından kurulumu ve kullanması çok kolay olduğu için Ollama aracı benim favorim haline geldi. (Eğer sizde benim gibi bilgisayarınızda AI modelleri çalıştırmak istiyorsanız ve bunun için araç arıyorsanız Ollama aracına bir göz atmanızı muhakkak tavsiye ederim.)
+
+Ollama nasıl kurulur?
+
+Ollama'yı bilgisayarınıza kurmak için ilk öncelikle kullandığınız web tarayıcısına girip arama kısmına "Ollama" yazınız ardından "https://ollama.com/" bağlantısına tıklayınız. Ardından resmi sitesine girdikten sonra "Download Ollama" sekmesine geliniz ilgili sekmeye geldikten sonra İşletim sisteminizi seçiniz.
+
+İşte işletim sistemlerine göre kurulum adımları:
+
+macOS:
+ * curl -fsSL ollama.com/install.sh | sh komutunu terminalinizde çalıştırabilirsiniz veya altındaki "Download for macOS" butonuna tıklayarak indirme işleminizi gerçekleştirebilirsiniz.
+
+Linux (Linux Dağıtımları):
+ * curl -fsSL ollama.com/install.sh | sh komutunu terminalinizde çalıştırarak indirme işleminizi gerçekleştirebilirsiniz.
+
+Windows:
+ * irm ollama.com/install.ps1 | iex komutunu terminalinizde çalıştırarak veya altındaki "Download for Windows" butonuna tıklayarak indirme işleminizi gerçekleştirebilirsiniz.
+
+Ollama kurulum adımlarını tamamladıktan sonra "ollama run gemma4" veya istediğiniz model ismini yazarak ilgili modeli bilgisayarınıza indirip kullanabilirsiniz.
+
+İşte Ollama'yı kurup kullanmak bu kadar basit :) AI modelleri ile ilgilenen herkese Ollama'yı denemelerini veya araştırmalarını tavsiye ederim.
+
+Meraklısı için Ollama bağlantıları:
+
+* GitHub Repository: github.com/ollama/ollama
+* Web Site: https://ollama.com/

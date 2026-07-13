@@ -1,0 +1,18 @@
+OpenSoftware-World - Web sitesi güncelleme notları
+
+    7/8/2025 - 17:58 (7 Ağustos, 2025):
+
+        Güncellemeler ve Destek sayfası dil çevirisi servis dosyalarında ufak optimizasyonlar yapılmıştır.
+
+    3/8/2025 - 18:11 (3 Ağustos, 2025):
+
+        Destek sayfası yenilenmiştir ve Bootstrap CSS ile yeniden yapılmıştır.
+
+    3/8/2025 - 14:50 (3 Ağustos, 2025):
+
+        Web sitesi için mevcut olan 404 hata sayfası yenilenmiştir ve Bootstrap CSS ile yeniden yapılmıştır.
+        Sözleşmeler sayfasında güncellemeler sayfası için eksik bağlantı eklenmiştir.
+
+    2/8/2025 - 18:12 (2 Ağustos, 2025):
+
+        Artık web sitesi için güncelleme notları sayfası mevcuttur bu sayede kullanıcılar yapılan değişiklikleri görebileceklerdir.

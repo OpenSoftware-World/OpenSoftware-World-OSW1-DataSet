@@ -1,0 +1,35 @@
+Q: Pati Mobile OS nedir ve hangi temel teknoloji üzerine inşa edilmiştir?
+A: Pati Mobile OS, Linux çekirdeği (Kernel) tabanlı olarak geliştirilen deneysel bir mobil işletim sistemi projesidir. Tamamen C programlama dili kullanılarak yazılmaktadır ve "pineapple-ananas" kod adıyla yürütülmektedir.
+
+Q: PatiOS bünyesinde çalışan "Karabaş Servisi" ve "Mamakabı" araçlarının işlevleri nelerdir?
+A: "Karabaş Servisi", sistem içerisindeki prosesleri izleyen özel bir arka plan servisidir. "Mamakabı" ise sisteme entegre olarak çalışan ve anlık RAM (bellek) bilgilerini görüntüleyen yerleşik bir sistem aracıdır.
+
+Q: PatiOS projesinin yapay zeka (AI) kullanım protokolü ve geliştirme felsefesi nedir?
+A: Proje, öğrenme odaklı bir protokolle geliştirilmektedir. Yapay zeka (Claude) yardımı alınırken doğrudan kod kopyalamak yerine, terim araştırması yapılması ve kod mantığının sorgulanması yöntemi tercih edilmektedir.
+
+Q: narcOs işletim sisteminin mimari desteği ve önyükleme (boot) uyumluluğu nasıldır?
+A: narcOs, hem i386 (32-bit) hem de x86_64 (64-bit) mimarilerinde çalışabilen bir hobi işletim sistemidir. Önyükleme katmanında BIOS/Legacy ve UEFI-CSM modlarını destekler; ancak henüz saf UEFI-only önyüklenebilirliği bulunmamaktadır.
+
+Q: narcOs projesinin "Kalıcı Depolama" özelliği nasıl çalışır ve Rufus/DD yazım modlarının etkisi nedir?
+A: Sanal makinede CD-ROM olarak başlatıldığında sistem salt okunurdur ve geçici bir RAM dosya sistemi kullanır. Ancak hibrit ISO yapısı sayesinde Rufus veya dd ile USB'ye yazıldığında (DD Image modu seçilerek), embedded disk imajı yazılabilir bir bölüm olarak dışa açılır ve dosya sistemi üzerindeki değişiklikler kalıcı hale gelir.
+
+Q: narcOs işletim sistemini x86_64 mimarisinde ağ desteği ile QEMU üzerinde çalıştırmak için hangi Ninja komutu kullanılır?
+A: Sistemi ağ desteğiyle birlikte x86_64 mimarisinde simüle etmek için ninja -C build run-x86_64-net komutu koşturulur.
+
+Q: BerkeOS'in mimari yapısı nedir ve projenin geliştirme durumu hakkında güncel bilgi nedir?
+A: BerkeOS, Rust programlama dilinin standart kütüphanesiz (no_std) modu kullanılarak x86_64 (Long Mode) mimarisi için bare-metal geliştirilmiş, DOS yapısından ilham alan monolitik bir hobi işletim sistemidir. Güncel olarak projenin geliştirilmesi durdurulmuş ve tüm çalışmalar halefi olan kapalı kaynaklı "Bros" işletim sistemine taşınmıştır.
+
+Q: BerkeOS'in dosya sistemi bileşeni ve yerleşik kullanıcı araçları nelerdir?
+A: Sistem, ATA PIO disk okuma/yazma desteğine ve 12 sürücü kapasitesine sahip "BerkeFS" isimli özel bir dosya sistemi barındırır. Kullanıcı arayüzünde ise 30'dan fazla komuta sahip "berkesh" kabuğu ve "deno" adında yerleşik bir metin düzenleyici (text editor) yer alır.
+
+Q: BerkeOS'in kod dağılım istatistikleri ve build maliyeti nedir?
+A: Yaklaşık 14.288 satır koda sahip olan projenin %91.4'ü Rust, %6.1'i Shell ve %1.8'i Assembly dilindedir. Kod tabanının %43'ü geliştirici tarafından yazılmış, %57'si ise ücretsiz AI araçları desteğiyle üretilmiştir; bu doğrultuda build maliyeti 0 TL'dir.
+
+Q: Radix Linux kimleri hedeflemektedir ve genel dağıtım özellikleri nelerdir?
+A: Radix Linux, özellikle öğrenciler için tasarlanmış, hafif (lightweight) yapıda ve düşük donanımlı donanımlarda yüksek verimlilikle çalışacak şekilde Linux From Scratch (LFS) felsefesiyle sıfırdan inşa edilmiş, yerleşik Türkçe dil desteğine sahip bağımsız bir Linux dağıtımıdır.
+
+Q: Radix Linux projesinin bağımlılıkları inşa ederken izlediği "Build Pipeline" mantığı ve ilk 3 kritik aşaması nedir?
+A: Dağıtımın temiz bir temel sistem oluşturabilmesi için betikler katı bir sıra ile çalıştırılmalıdır. İlk aşamada derleyici altyapısını kuran Toolchain (toolchain.sh), ikinci aşamada erken bootstrap araçlarını hazırlayan Temporary Tools (temp-tools.sh) ve üçüncü aşamada intermediate yamalama araçlarını içeren Extended Temporary Tools (temp-tools-extra.sh) kurulur.
+
+Q: Radix Linux projesinde Kernel derleme katmanından sonra hangi sistem katmanları sırasıyla inşa edilir?
+A: Çekirdek derlendikten sonra sırasıyla Bootloader kurulumu, Security Layer (güvenlik ve izin sıkılaştırma), General Libraries, Networking Libraries, Text Editors, Programming Tools, Graphics Libraries ve son olarak son kullanıcı araçlarını içeren File Management katmanı inşa edilir.

@@ -1,0 +1,25 @@
+- Artado Search ve Yenilikler Hakkında -
+
+İçerik'te neler mevcut:
+
+    Artado Search Nedir?
+    Artado Search kimler tarafından geliştirildi ve katkıda bulunuldu?
+    Artado Search tanıtım ve özellikler
+    Artado Search gelecek için hedefleri nelerdir?
+
+
+Artado Search Nedir?
+
+Artado Search, "Artado-Project" tarafından geliştirilen ve LinuxUsersLinuxMint(Github Hesabım) tarafından katkıda bulunulan "Google", "Artado (Artado Search ürünü)", "Bing", "Yahoo!", "Youtube", "Izlesene", "Scholar", "Bing News" gibi Arama motorları,video izleme ve haber akışı platformların üzerinde gelişmiş bir şekilde arama yapabilmeyi sağlayan, C#, ASP.NET, Javascript ile programlanmış açık kaynaklı bir Arama Motorudur.
+
+Artado Search kimler tarafından geliştirildi ve katkıda bulunuldu?
+
+Artado Search, Ardatdev, cinaryilmaz tarafından geliştirilmiş ve LinuxUsersLinuxMint(Ben), atakishiyev-yusif ve abulat189 kişileri tarafından katkıda bulunulmuştur.
+
+Artado Search tanıtım ve özellikleri
+
+Artado Search "Google", "Artado (Artado Search ürünü)", "Bing", "Yahoo!", "Youtube", "Izlesene", "Scholar", "Bing News" gibi Arama motorları,video izleme ve haber akışı platformların üzerinde gelişmiş bir şekilde arama yapabilmeyi sağlayan ve bir ayar menüsü içeren Arama motorudur.
+
+Artado Search gelecek için hedefleri nelerdir?
+
+Cevaplayan (Ardatdev): "şu an ana hedefimiz en çok tercih edilen mahremiyet odaklı arama motorlarından biri olmak. ondan sonra da ekosistemimizi geliştirmeye odaklanacağız." cevabını LinuxUsersLinuxMint'e verdi.

@@ -1,0 +1,41 @@
+Öncelikle herkese selamlar bugün sizlere bilgisayar kullanımımızı profesyonel bir hâle getirmenin en önemli adımı olan "Hangi işletim sistemini kullanmalıyım?" sorusu üzerinde konuşacağız.
+
+Öncelikle kendimden bahsedeyim:
+
+Ben bilgisayarımda Dual-boot olarak Windows ve Linux Mint işletim sistemlerini kullanıyorum. İşte hem Windows ve Linux Mint kullanmamın sebepleri:
+
+Windows kullanmamın sebepleri:
+
+* Birçok oyun Windows ile daha uyumlu çalışıyor. (Linux dağıtımlarında çoğu oyunu çalıştırmak mümkün olsa da birçok oyun Windows ile uyumlu çalışacak şekilde tasarlanıyor.)
+* Windows platformu için Python ve C# programlama dillerini kullanarak uygulama geliştiren birisiyim ve C# ile uygulama geliştirmeyi kolaylaştıran Visual Studio IDE'sini kullanıyorum.
+
+Linux Mint kullanmamın sebepleri:
+
+* Öğrenmesi ve kullanmasının çok basit olması yani 1-2 saat kurcalamanın sonunda Linux Mint dağıtımını artık rahat bir şekilde kullanabilir hâle gelebiliyorsunuz.
+* Az sistem kaynağı kullanımı. Linux Mint masaüstü ortamı "Cinnamon" sayesinde olabildiğince az bir RAM kullanımı ile son kullanıcıya güzel bir deneyim sunabiliyor bu da benim Linux Mint dağıtımını tercih etme sebeplerimden bir tanesidir.
+* Birçok Linux dağıtımında olduğu gibi Linux Mint dağıtımı da C/C++, Python geliştirme için hazır/doğal bir ortam sunuyor, özellikle GNU araçları sayesinde programlama deneyimim çok daha olumlu bir hâle geliyor.
+* Birçok Linux dağıtımı gibi Linux Mint gizliliği ve güvenilirliği ön plana çıkartan bir Linux dağıtımıdır zaten kullanmamın en büyük sebeplerinden bir tanesi de Gizlilik/Güvenlik konusudur.
+
+Peki gelelim "Hangi işletim sistemini kullanmalıyım?" sorusuna:
+
+Bu sorunun cevabı tamamen bilgisayarda ne yaptığınıza ve nelere ihtiyaç duyduğunuza göre değişiyor. Mesela günlük kullanıcı iseniz yani sadece internette gezinip basit ofis programları ile ilgileniyorsanız Linux dağıtımı kullanabilirsiniz, eğer tutkulu bir oyuncuysanız Windows kullanmalısınız, Grafik tasarım ve Video düzenleme ile ilgileniyorsanız macOS tercih edebilirsiniz. Hazırsanız bir hayli popüler olan bu 3 işletim sisteminin en iyi olduğu yanlara bakalım.
+
+Windows:
+
+* Günlük kullanım: İnternette dolaşmak gibi basit işlerle ilgileniyorsanız.
+* Oyun oynama: Birçok oyun hâlâ Windows için optimize ediliyor bu yüzden oyun oynamak sizin için öncelikse.
+* Eğer Windows Geliştirme ile ilgileniyorsanız Windows geliştirme için en iyi araçları sunmasından ötürü Windows işletim sistemini kullanmalısınız.
+
+Linux dağıtımları:
+
+* Windows için Lisans ücreti ödemek istemiyorsanız.
+* Gizlilik/Güvenlik sizin için gerçekten önemliyse.
+* C/C++ programlama ile ilgileniyorsanız hazır araç sunması gibi kolaylıklarından ötürü Linux dağıtımlarından birisini kullanmalısınız.
+
+macOS:
+
+* Grafik Tasarım vs. işlerle ilgileniyorsanız.
+* MacBook ve diğer Apple cihazları ile büyük bir uyum içerisinde çalışmasından dolayı.
+* Stabilite sizin için önemliyse.
+
+Daha sonraki gönderilerde görüşmek üzere :)

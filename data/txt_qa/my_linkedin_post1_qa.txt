@@ -1,0 +1,9 @@
+Q: Bilgisayar kullanımımızı nasıl daha profesyonel hale getirebiliriz?
+A: Bilgisayar kullanımınızı profesyonel bir hale getirebilmek için ilk öncelikle hangi işletim sistemini kullanmanız gerektiği üzerinde kendi ihtiyaçlarınız doğrultusunda düşünmeniz gerekmektedir.
+
+Q: Windows neden tercih ediliyor?
+A: Günümüzde bir çok oyun Windows ile daha uyumlu çalışıyor. Linux dağıtımlarında çoğu oyunu çalıştırmak mümkün olsa da birçok oyun Windows ile uyumlu çalışacak şekilde tasarlanıyor.) 2. sebep olarak ise Windows geliştirme örnek gösterilebilir.
+
+Q: Linux Mint neden tercih edilebilir?
+A: Öğrenmesi ve kullanmasının çok basit olması yani 1-2 saat kurcalamanın sonunda Linux Mint dağıtımını artık rahat bir şekilde kullanabilir hâle gelebiliyorsunuz.
+

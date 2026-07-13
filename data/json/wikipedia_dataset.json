@@ -1,0 +1,220 @@
+{
+  "intents": [
+    {
+      "tag": "yapay_zeka",
+      "patterns": [
+        "Yapay zeka açıkla",
+        "Yapay zeka hakkında bilgi ver",
+        "bana yapay zeka anlat",
+        "Bana Yapay zeka anlat",
+        "yapay zeka ne demek?",
+        "Yapay zeka ne demek?",
+        "yapay zeka nedir?",
+        "yapay zeka hakkında bilgi ver",
+        "yapay zeka açıkla",
+        "Yapay zeka nedir?"
+      ],
+      "responses": [
+        "Yapay zekâ (İngilizce: Artificial intelligence, AI); hesaplama sistemlerinin öğrenme, akıl, problem çözme, algılama ve karar verme gibi tipik olarak insan zekâsıyla ilişkilendirilen görevleri yerine getirme yeteneğidir. Dördüncü Sanayi Devrimi'nin en yaygın özelliklerinden biri olarak kabul edilir. İlk ve ikinci kategoriler arasındaki ayrım genellikle seçilen kısaltmayla ortaya çıkar"
+      ]
+    },
+    {
+      "tag": "bilgisayar",
+      "patterns": [
+        "bana bilgisayar anlat",
+        "Bilgisayar açıkla",
+        "bilgisayar nedir?",
+        "bilgisayar ne demek?",
+        "Bilgisayar ne demek?",
+        "bilgisayar açıkla",
+        "Bilgisayar hakkında bilgi ver",
+        "Bana Bilgisayar anlat",
+        "Bilgisayar nedir?",
+        "bilgisayar hakkında bilgi ver"
+      ],
+      "responses": [
+        "Bilgisayar, aritmetik veya mantıksal işlem dizilerini (berim) otomatik olarak yürütmek üzere programlanabilen dijital bir elektronik makinedir. Çağdaş bilgisayarlar, programlar olarak bilinen genel işlem kümelerini gerçekleştirebilir. Bu programlar, bilgisayarların çeşitli görevleri gerçekleştirmesini sağlar"
+      ]
+    },
+    {
+      "tag": "c_programlama_dili",
+      "patterns": [
+        "c (programlama dili) hakkında bilgi ver",
+        "Bana C (programlama dili) anlat",
+        "c (programlama dili) nedir?",
+        "C (programlama dili) hakkında bilgi ver",
+        "c (programlama dili) açıkla",
+        "C (programlama dili) açıkla",
+        "c (programlama dili) ne demek?",
+        "C (programlama dili) ne demek?",
+        "bana c (programlama dili) anlat",
+        "C (programlama dili) nedir?"
+      ],
+      "responses": [
+        "C, yapısal bir programlama dilidir. Bell Laboratuvarları'nda, Ken Thompson ve Dennis Ritchie tarafından UNIX işletim sistemini geliştirebilmek amacıyla B dilinden türetilmiştir. Geliştirilme tarihi 1972 olmasına rağmen yaygınlaşması Brian Kernighan ve Dennis M"
+      ]
+    },
+    {
+      "tag": "java_programlama_dili",
+      "patterns": [
+        "Java (programlama dili) nedir?",
+        "java (programlama dili) hakkında bilgi ver",
+        "Java (programlama dili) açıkla",
+        "Java (programlama dili) ne demek?",
+        "Bana Java (programlama dili) anlat",
+        "java (programlama dili) açıkla",
+        "Java (programlama dili) hakkında bilgi ver",
+        "bana java (programlama dili) anlat",
+        "java (programlama dili) nedir?",
+        "java (programlama dili) ne demek?"
+      ],
+      "responses": [
+        "Java; Sun Microsystems mühendislerinden James Gosling tarafından geliştirilmeye başlanmış açık kaynak kodlu, nesneye yönelik, platform bağımsız, yüksek verimli, çok işlevli, yüksek seviye, hem yorumlanan hem de derlenen bir dildir.\nJava, Sun Microsystems'den James Gosling tarafından geliştirilen bir programlama dilidir ve 1995 yılında Sun Microsystems'in çekirdek bileşeni olarak piyasaya sürülmüştür. Bu dil C ve C++'dan birçok sözdizim türetmesine rağmen bu türevler daha basit nesne modeli ve daha az düşük seviye olanaklar içerir. Java uygulamaları bilgisayar mimarisine bağlı olmadan herhangi bir Java Sanal Makinesi (Java Virtual Machine - JVM) üzerinde çalışabilen tipik bytecode'dur (sınıf dosyası).\nJava'nın sık kullanılan sloganlarından biri olan, çevirisi \"bir defa yaz, her yerde çalıştır\" olan \"write once, run anywhere - WORA\", Java'nın; derlenmiş Java kodunun, Java'yı destekleyen bütün platformlarda tekrar derlenmeye ihtiyacı olmadan çalışabileceğini ima eder (Platform Independent)"
+      ]
+    },
+    {
+      "tag": "pytorch",
+      "patterns": [
+        "PyTorch nedir?",
+        "PyTorch hakkında bilgi ver",
+        "pytorch açıkla",
+        "pytorch ne demek?",
+        "bana pytorch anlat",
+        "PyTorch açıkla",
+        "pytorch hakkında bilgi ver",
+        "Bana PyTorch anlat",
+        "PyTorch ne demek?",
+        "pytorch nedir?"
+      ],
+      "responses": [
+        "PyTorch, Torch kütüphanesine dayanan açık kaynaklı bir makine öğrenme kütüphanesidir, bilgisayarla görme ve doğal dil işleme gibi uygulamalar için kullanılır. Öncelikle Facebook'un AI Araştırma laboratuvarı (FAIR) tarafından geliştirilmiştir. Değiştirilmiş BSD lisansı ile piyasaya sürülen ücretsiz ve açık kaynaklı bir yazılımdır"
+      ]
+    },
+    {
+      "tag": "tensorflow",
+      "patterns": [
+        "TensorFlow nedir?",
+        "Bana TensorFlow anlat",
+        "TensorFlow açıkla",
+        "tensorflow ne demek?",
+        "tensorflow açıkla",
+        "TensorFlow ne demek?",
+        "tensorflow hakkında bilgi ver",
+        "TensorFlow hakkında bilgi ver",
+        "tensorflow nedir?",
+        "bana tensorflow anlat"
+      ],
+      "responses": [
+        "TensorFlow, makine öğrenimi için ücretsiz ve açık kaynaklı bir yazılım kütüphanesidir . Bir dizi görevde kullanılabilir, ancak derin sinir ağlarının eğitimi ve çıkarımına özel olarak odaklanmaktadır.\nTensorflow, veri akışına ve türevlenebilir programlamaya dayalı sembolik bir matematik kitaplığıdır. Google'da hem araştırma hem de üretim için kullanılmaktadır.\nTensorFlow, Google Brain ekibi tarafından Google'ın iç işlerinde kullanımı için geliştirilmiştir"
+      ]
+    },
+    {
+      "tag": "linux",
+      "patterns": [
+        "Bana Linux anlat",
+        "Linux hakkında bilgi ver",
+        "Linux açıkla",
+        "Linux nedir?",
+        "linux hakkında bilgi ver",
+        "bana linux anlat",
+        "Linux ne demek?",
+        "linux ne demek?",
+        "linux nedir?",
+        "linux açıkla"
+      ],
+      "responses": [
+        "Linux (telaffuz: Lin-uks); Linux çekirdeğine dayalı, açık kaynak kodlu, Unix benzeri bir işletim sistemi ailesidir. GNU Genel Kamu Lisansı versiyon 2 ile sunulan ve Linux Vakfı çatısı altında geliştirilen bir özgür yazılım projesidir. Linux ismi ilk geliştiricisi olan Linus Torvalds tarafından 1991 yılında verilmiştir"
+      ]
+    },
+    {
+      "tag": "derin_öğrenme",
+      "patterns": [
+        "derin öğrenme hakkında bilgi ver",
+        "derin öğrenme açıkla",
+        "Bana Derin öğrenme anlat",
+        "derin öğrenme nedir?",
+        "bana derin öğrenme anlat",
+        "Derin öğrenme açıkla",
+        "Derin öğrenme hakkında bilgi ver",
+        "Derin öğrenme nedir?",
+        "Derin öğrenme ne demek?",
+        "derin öğrenme ne demek?"
+      ],
+      "responses": [
+        "Derin öğrenme (aynı zamanda derin yapılandırılmış öğrenme, hiyerarşik öğrenme ya da derin makine öğrenmesi) bir veya daha fazla gizli katman içeren yapay sinir ağları ve benzeri makine öğrenme algoritmalarını kapsayan çalışma alanıdır.\nYani en az bir adet yapay sinir ağının (YSA) kullanıldığı ve birçok algoritma ile, bilgisayarın eldeki verilerden yeni veriler elde etmesidir.\nDerin öğrenme gözetimli, yarı gözetimli veya gözetimsiz olarak gerçekleştirilebilir. Derin yapay sinir ağları pekiştirmeli öğrenme yaklaşımıyla da başarılı sonuçlar vermiştir.\nYapay  sinir ağları, biyolojik sistemlerdeki bilgi işleme ve dağıtılmış iletişim düğümlerinden esinlenilmiştir.\nYapay sinir ağlarının biyolojik beyinlerden çeşitli farklılıkları vardır. Özellikle, sinir ağları statik ve sembolik olma eğilimindeyken, çoğu canlı organizmanın biyolojik beyni dinamik(plastik) ve analogtur."
+      ]
+    },
+    {
+      "tag": "makine_öğrenmesi",
+      "patterns": [
+        "makine öğrenmesi nedir?",
+        "Makine öğrenmesi açıkla",
+        "makine öğrenmesi açıkla",
+        "Bana Makine öğrenmesi anlat",
+        "makine öğrenmesi ne demek?",
+        "Makine öğrenmesi nedir?",
+        "Makine öğrenmesi hakkında bilgi ver",
+        "bana makine öğrenmesi anlat",
+        "makine öğrenmesi hakkında bilgi ver",
+        "Makine öğrenmesi ne demek?"
+      ],
+      "responses": [
+        "Makine öğrenimi (ML), veriden öğrenebilen ve görünmeyen verilere genelleştirebilen ve dolayısıyla açık talimatlar olmadan görevleri yerine getirebilen istatistiksel algoritmaların geliştirilmesi ve incelenmesiyle ilgilenen, yapay zekâda akademik bir disiplindir. Makine öğrenimi, bilgisayarların deneyimlerinden öğrenerek karmaşık görevleri otomatikleştirmeyi sağlayan bir yapay zeka alanıdır. Bu, veri analizi yaparak örüntüler tespit etme ve tahminlerde bulunma yeteneğine dayanır"
+      ]
+    },
+    {
+      "tag": "sinir_ağı",
+      "patterns": [
+        "Sinir ağı nedir?",
+        "bana sinir ağı anlat",
+        "Bana Sinir ağı anlat",
+        "Sinir ağı açıkla",
+        "Sinir ağı ne demek?",
+        "sinir ağı hakkında bilgi ver",
+        "Sinir ağı hakkında bilgi ver",
+        "sinir ağı açıkla",
+        "sinir ağı nedir?",
+        "sinir ağı ne demek?"
+      ],
+      "responses": [
+        "Sinir ağı, terimi geleneksel olarak biyolojik sinir hücrelerinin bir ağ veya devresine atıfta bulunmak için ortaya cikartilmistir ama gelişen teoriler dolayisiyla gunumuzde daha matematiksel kavramlari (Örneğin; ekonometri, sebeke sistemleri, yapay zekâ vb.) kapsamaktadir.\nÇoğunlukla genel kullanımında, yapay sinir hücrelerinden veya düğümlerden ibaret olan, terim sıklıkla yapay sinir ağlarına atıfta bulunmak için kullanılır."
+      ]
+    },
+    {
+      "tag": "i̇şletim_sistemi",
+      "patterns": [
+        "i̇şletim sistemi nedir?",
+        "Bana İşletim sistemi anlat",
+        "i̇şletim sistemi hakkında bilgi ver",
+        "i̇şletim sistemi açıkla",
+        "İşletim sistemi ne demek?",
+        "İşletim sistemi hakkında bilgi ver",
+        "i̇şletim sistemi ne demek?",
+        "İşletim sistemi açıkla",
+        "İşletim sistemi nedir?",
+        "bana i̇şletim sistemi anlat"
+      ],
+      "responses": [
+        "İşletim sistemi (Operating System, OS), bir bilgisayarın donanım kaynaklarını yöneten ve uygulama yazılımlarına hizmet sağlayan yazılım katmanıdır.Donanım ile uygulama yazılımları arasında ara katman görevi görerek, kullanıcıların sisteme erişmesini ve etkileşim kurmasını sağlar.Başlıca örnekleri arasında Microsoft Windows, macOS, GNU/Linux dağıtımları, Android ve iOS yer alır.\nİşletim sistemleri yalnızca kişisel bilgisayarlar, cep telefonları ve web sunucularıyla sınırlı değildir. Dijital işlevlere sahip neredeyse tüm cihazlarda, örneğin motorlu taşıtlarda, beyaz eşyalarda, akıllı saatler de kendi işletim sistemlerine sahiptir.\nİşletim sistemleri, sahip oldukları işlevlerin genişliği ile değil, donanım kaynaklarını verimli kullanma yetenekleriyle değerlendirilmelidir. Modern işletim sistemleri, çoklu görev yönetimi, bellek yönetimi, dosya sistemleri ve kullanıcı arabirimi gibi kritik işlevleri yerine getirir ve cihazların performansını optimize eder."
+      ]
+    },
+    {
+      "tag": "veritabanı",
+      "patterns": [
+        "Veritabanı nedir?",
+        "veritabanı açıkla",
+        "Veritabanı ne demek?",
+        "bana veritabanı anlat",
+        "veritabanı hakkında bilgi ver",
+        "Bana Veritabanı anlat",
+        "veritabanı ne demek?",
+        "Veritabanı hakkında bilgi ver",
+        "Veritabanı açıkla",
+        "veritabanı nedir?"
+      ],
+      "responses": [
+        "Veritabanları, yapılandırılmış bilgi veya verilerin depolandığı alanlardır. Bilgi artışıyla birlikte bilgisayarda bilgi depolama ve bilgiye erişim konularında yeni yöntemlere ihtiyaç duyulmuştur. Veritabanları; büyük miktardaki bilgileri depolamada geleneksel yöntem olan \"dosya-işlem sistemine\" alternatif olarak geliştirilmiştir"
+      ]
+    }
+  ]
+}

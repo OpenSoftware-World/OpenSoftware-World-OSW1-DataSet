@@ -1,0 +1,41 @@
+🕒 Changes:
+
+    Update kernel version and last commit hash
+    OpenKernel 2.0
+    Minor adjustments to the Makefile.
+    The necessary information for the ATA disk driver has been added.
+    New string functions have been added to std/std.h.
+    The files required for memory operations have been included.
+    The OFS file system, developed specifically for OpenKernel, has been added.
+    A Ata disk driver has been added for OpenKernel.
+    New features have been added to the CPU driver.
+    New features have been added to the Keyboard driver.
+    A CPU driver has been added for OpenKernel.
+    New features have been added to the VGA driver.
+    Improvements have been made to the stabilization of the system shutdown function.
+    Add KRNL_LAST_COMMIT definition to openkernel_information.h
+    Improvements have been made to the io.h I/O library, and a logging feature has been added for the QEMU virtual machine.
+    The OpenSoftware-World OS code has been moved to a separate repository; this repository will now contain only the OpenKernel code.
+    The function table imports designed for the exec_func function have been moved to the extern_func.h file.
+    A bug fix for the exec_func() function.
+    The exec_func() function, which enables function hopping via C, has been added.
+    The kernelinfo command, which provides detailed information about the kernel, has been added.
+    The file containing information for OpenKernel has been attached.
+    New data type definitions have been added to the “types.h” file.
+    The grub.cfg file has been placed in the Boot/grub/ folder.
+    A minor adjustment to the multiboot loader file.
+    Configuration files for future use with OpenKernel have been added.
+    The required arguments for the next system status functions available in Shell have been added.
+    Update README.md
+    You will now be able to set a delay before shutting down the system.
+    The variable naming convention for driver identification has been corrected.
+    Missing arguments have been added to the “basic_syscall.h” file.
+    Comment lines have been added to the necessary files.
+    Minor optimizations to the “print_time” function in the “time.c” file and improvements to the functions in the “basic_syscall.c” file, which contains basic system calls.
+    A library used in the “sysmng.c” file is included in the “sysmng.h” file.
+    Update README.md
+    Create README.md
+    16-bit and 32-bit I/O port functions have been added.
+    The name of the vga_screen_clear function has been changed to vga_clear_screen.
+    Using the vga_print_scr_nw function instead of the vga_newline function for OpenKernel Shell.
+

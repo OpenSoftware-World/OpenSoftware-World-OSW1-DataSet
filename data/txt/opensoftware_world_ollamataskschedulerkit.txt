@@ -1,0 +1,1 @@
+Task scheduler kit for local AIs used with Ollama.

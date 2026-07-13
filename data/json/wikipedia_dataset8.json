@@ -1,0 +1,1102 @@
+{
+  "intents": [
+    {
+      "tag": "yapay_zeka",
+      "patterns": [
+        "Yapay zeka açıkla",
+        "Bana Yapay zeka anlat",
+        "yapay zeka nedir?",
+        "yapay zeka hakkında bilgi ver",
+        "yapay zeka açıkla",
+        "Yapay zeka nedir?",
+        "bana yapay zeka anlat",
+        "Yapay zeka ne demek?",
+        "Yapay zeka hakkında bilgi ver",
+        "yapay zeka ne demek?"
+      ],
+      "responses": [
+        "Yapay zekâ (İngilizce: Artificial intelligence, AI); hesaplama sistemlerinin öğrenme, akıl, problem çözme, algılama ve karar verme gibi tipik olarak insan zekâsıyla ilişkilendirilen görevleri yerine getirme yeteneğidir. Dördüncü Sanayi Devrimi'nin en yaygın özelliklerinden biri olarak kabul edilir. İlk ve ikinci kategoriler arasındaki ayrım genellikle seçilen kısaltmayla ortaya çıkar"
+      ]
+    },
+    {
+      "tag": "bilgisayar",
+      "patterns": [
+        "bilgisayar hakkında bilgi ver",
+        "bilgisayar açıkla",
+        "Bilgisayar ne demek?",
+        "bana bilgisayar anlat",
+        "bilgisayar ne demek?",
+        "Bilgisayar nedir?",
+        "Bilgisayar hakkında bilgi ver",
+        "Bilgisayar açıkla",
+        "Bana Bilgisayar anlat",
+        "bilgisayar nedir?"
+      ],
+      "responses": [
+        "Bilgisayar, aritmetik veya mantıksal işlem dizilerini (berim) otomatik olarak yürütmek üzere programlanabilen dijital bir elektronik makinedir. Çağdaş bilgisayarlar, programlar olarak bilinen genel işlem kümelerini gerçekleştirebilir. Bu programlar, bilgisayarların çeşitli görevleri gerçekleştirmesini sağlar"
+      ]
+    },
+    {
+      "tag": "c_programlama_dili",
+      "patterns": [
+        "c (programlama dili) nedir?",
+        "C (programlama dili) hakkında bilgi ver",
+        "c (programlama dili) açıkla",
+        "c (programlama dili) ne demek?",
+        "bana c (programlama dili) anlat",
+        "Bana C (programlama dili) anlat",
+        "C (programlama dili) ne demek?",
+        "C (programlama dili) açıkla",
+        "c (programlama dili) hakkında bilgi ver",
+        "C (programlama dili) nedir?"
+      ],
+      "responses": [
+        "C, yapısal bir programlama dilidir. Bell Laboratuvarları'nda, Ken Thompson ve Dennis Ritchie tarafından UNIX işletim sistemini geliştirebilmek amacıyla B dilinden türetilmiştir. Geliştirilme tarihi 1972 olmasına rağmen yaygınlaşması Brian Kernighan ve Dennis M"
+      ]
+    },
+    {
+      "tag": "java_programlama_dili",
+      "patterns": [
+        "java (programlama dili) nedir?",
+        "Java (programlama dili) nedir?",
+        "java (programlama dili) ne demek?",
+        "Bana Java (programlama dili) anlat",
+        "Java (programlama dili) açıkla",
+        "java (programlama dili) açıkla",
+        "Java (programlama dili) hakkında bilgi ver",
+        "bana java (programlama dili) anlat",
+        "java (programlama dili) hakkında bilgi ver",
+        "Java (programlama dili) ne demek?"
+      ],
+      "responses": [
+        "Java; Sun Microsystems mühendislerinden James Gosling tarafından geliştirilmeye başlanmış açık kaynak kodlu, nesneye yönelik, platform bağımsız, yüksek verimli, çok işlevli, yüksek seviye, hem yorumlanan hem de derlenen bir dildir.\nJava, Sun Microsystems'den James Gosling tarafından geliştirilen bir programlama dilidir ve 1995 yılında Sun Microsystems'in çekirdek bileşeni olarak piyasaya sürülmüştür. Bu dil C ve C++'dan birçok sözdizim türetmesine rağmen bu türevler daha basit nesne modeli ve daha az düşük seviye olanaklar içerir. Java uygulamaları bilgisayar mimarisine bağlı olmadan herhangi bir Java Sanal Makinesi (Java Virtual Machine - JVM) üzerinde çalışabilen tipik bytecode'dur (sınıf dosyası).\nJava'nın sık kullanılan sloganlarından biri olan, çevirisi \"bir defa yaz, her yerde çalıştır\" olan \"write once, run anywhere - WORA\", Java'nın; derlenmiş Java kodunun, Java'yı destekleyen bütün platformlarda tekrar derlenmeye ihtiyacı olmadan çalışabileceğini ima eder (Platform Independent)"
+      ]
+    },
+    {
+      "tag": "pytorch",
+      "patterns": [
+        "PyTorch nedir?",
+        "bana pytorch anlat",
+        "PyTorch ne demek?",
+        "pytorch hakkında bilgi ver",
+        "Bana PyTorch anlat",
+        "PyTorch açıkla",
+        "pytorch nedir?",
+        "pytorch ne demek?",
+        "pytorch açıkla",
+        "PyTorch hakkında bilgi ver"
+      ],
+      "responses": [
+        "PyTorch, Torch kütüphanesine dayanan açık kaynaklı bir makine öğrenme kütüphanesidir, bilgisayarla görme ve doğal dil işleme gibi uygulamalar için kullanılır. Öncelikle Facebook'un AI Araştırma laboratuvarı (FAIR) tarafından geliştirilmiştir. Değiştirilmiş BSD lisansı ile piyasaya sürülen ücretsiz ve açık kaynaklı bir yazılımdır"
+      ]
+    },
+    {
+      "tag": "tensorflow",
+      "patterns": [
+        "Bana TensorFlow anlat",
+        "TensorFlow nedir?",
+        "TensorFlow hakkında bilgi ver",
+        "TensorFlow ne demek?",
+        "bana tensorflow anlat",
+        "tensorflow açıkla",
+        "tensorflow nedir?",
+        "TensorFlow açıkla",
+        "tensorflow hakkında bilgi ver",
+        "tensorflow ne demek?"
+      ],
+      "responses": [
+        "TensorFlow, makine öğrenimi için ücretsiz ve açık kaynaklı bir yazılım kütüphanesidir . Bir dizi görevde kullanılabilir, ancak derin sinir ağlarının eğitimi ve çıkarımına özel olarak odaklanmaktadır.\nTensorflow, veri akışına ve türevlenebilir programlamaya dayalı sembolik bir matematik kitaplığıdır. Google'da hem araştırma hem de üretim için kullanılmaktadır.\nTensorFlow, Google Brain ekibi tarafından Google'ın iç işlerinde kullanımı için geliştirilmiştir"
+      ]
+    },
+    {
+      "tag": "linux",
+      "patterns": [
+        "Bana Linux anlat",
+        "bana linux anlat",
+        "Linux hakkında bilgi ver",
+        "linux ne demek?",
+        "linux açıkla",
+        "linux nedir?",
+        "Linux açıkla",
+        "Linux nedir?",
+        "linux hakkında bilgi ver",
+        "Linux ne demek?"
+      ],
+      "responses": [
+        "Linux (telaffuz: Lin-uks); Linux çekirdeğine dayalı, açık kaynak kodlu, Unix benzeri bir işletim sistemi ailesidir. GNU Genel Kamu Lisansı versiyon 2 ile sunulan ve Linux Vakfı çatısı altında geliştirilen bir özgür yazılım projesidir. Linux ismi ilk geliştiricisi olan Linus Torvalds tarafından 1991 yılında verilmiştir"
+      ]
+    },
+    {
+      "tag": "derin_öğrenme",
+      "patterns": [
+        "Bana Derin öğrenme anlat",
+        "Derin öğrenme hakkında bilgi ver",
+        "derin öğrenme açıkla",
+        "bana derin öğrenme anlat",
+        "Derin öğrenme açıkla",
+        "derin öğrenme nedir?",
+        "Derin öğrenme nedir?",
+        "derin öğrenme ne demek?",
+        "derin öğrenme hakkında bilgi ver",
+        "Derin öğrenme ne demek?"
+      ],
+      "responses": [
+        "Derin öğrenme (aynı zamanda derin yapılandırılmış öğrenme, hiyerarşik öğrenme ya da derin makine öğrenmesi) bir veya daha fazla gizli katman içeren yapay sinir ağları ve benzeri makine öğrenme algoritmalarını kapsayan çalışma alanıdır.\nYani en az bir adet yapay sinir ağının (YSA) kullanıldığı ve birçok algoritma ile, bilgisayarın eldeki verilerden yeni veriler elde etmesidir.\nDerin öğrenme gözetimli, yarı gözetimli veya gözetimsiz olarak gerçekleştirilebilir. Derin yapay sinir ağları pekiştirmeli öğrenme yaklaşımıyla da başarılı sonuçlar vermiştir.\nYapay  sinir ağları, biyolojik sistemlerdeki bilgi işleme ve dağıtılmış iletişim düğümlerinden esinlenilmiştir.\nYapay sinir ağlarının biyolojik beyinlerden çeşitli farklılıkları vardır. Özellikle, sinir ağları statik ve sembolik olma eğilimindeyken, çoğu canlı organizmanın biyolojik beyni dinamik(plastik) ve analogtur."
+      ]
+    },
+    {
+      "tag": "makine_öğrenmesi",
+      "patterns": [
+        "Makine öğrenmesi açıkla",
+        "makine öğrenmesi açıkla",
+        "Bana Makine öğrenmesi anlat",
+        "makine öğrenmesi nedir?",
+        "Makine öğrenmesi ne demek?",
+        "bana makine öğrenmesi anlat",
+        "makine öğrenmesi ne demek?",
+        "makine öğrenmesi hakkında bilgi ver",
+        "Makine öğrenmesi nedir?",
+        "Makine öğrenmesi hakkında bilgi ver"
+      ],
+      "responses": [
+        "Makine öğrenimi (ML), veriden öğrenebilen ve görünmeyen verilere genelleştirebilen ve dolayısıyla açık talimatlar olmadan görevleri yerine getirebilen istatistiksel algoritmaların geliştirilmesi ve incelenmesiyle ilgilenen, yapay zekâda akademik bir disiplindir. Makine öğrenimi, bilgisayarların deneyimlerinden öğrenerek karmaşık görevleri otomatikleştirmeyi sağlayan bir yapay zeka alanıdır. Bu, veri analizi yaparak örüntüler tespit etme ve tahminlerde bulunma yeteneğine dayanır"
+      ]
+    },
+    {
+      "tag": "windows_10",
+      "patterns": [
+        "bana windows 10 anlat",
+        "windows 10 nedir?",
+        "windows 10 açıkla",
+        "windows 10 hakkında bilgi ver",
+        "Bana Windows 10 anlat",
+        "windows 10 ne demek?",
+        "Windows 10 ne demek?",
+        "Windows 10 hakkında bilgi ver",
+        "Windows 10 açıkla",
+        "Windows 10 nedir?"
+      ],
+      "responses": [
+        "Windows 10 (Başlangıçtaki kod adı: Threshold), Microsoft tarafından geliştirilen, Windows NT ailesi bir işletim sistemidir. Windows 8.1'in halefi olan sürüm, 15 Temmuz 2015'te OEM'lerin kullanımına sunuldu ve genel kullanıma ise 29 Temmuz 2015'te sunuldu. Windows 10, MSDN ve Technet aracılığıyla indirilebilindi ve Windows 8.1 ve Windows 7 kullanıcıları için ücretsiz yükseltme teklifi olarak sunuldu"
+      ]
+    },
+    {
+      "tag": "windows_11",
+      "patterns": [
+        "windows 11 açıkla",
+        "windows 11 hakkında bilgi ver",
+        "bana windows 11 anlat",
+        "windows 11 nedir?",
+        "windows 11 ne demek?",
+        "Windows 11 nedir?",
+        "Windows 11 açıkla",
+        "Windows 11 hakkında bilgi ver",
+        "Bana Windows 11 anlat",
+        "Windows 11 ne demek?"
+      ],
+      "responses": [
+        "Windows 11 (kod adı: Sun Valley), Microsoft tarafından geliştirilen Windows NT tabanlı Microsoft Windows ailesinin çıkan son sürümüdür. 5 Ekim 2021 tarihinde piyasaya sürülmüştür. Windows 11 sistem gereksinimlerini karşılayan Windows 10 cihazları için ücretsiz bir yükseltme olarak sunulmuştur."
+      ]
+    },
+    {
+      "tag": "microsoft",
+      "patterns": [
+        "Microsoft ne demek?",
+        "Microsoft nedir?",
+        "Microsoft hakkında bilgi ver",
+        "Microsoft açıkla",
+        "microsoft ne demek?",
+        "microsoft açıkla",
+        "microsoft nedir?",
+        "microsoft hakkında bilgi ver",
+        "bana microsoft anlat",
+        "Bana Microsoft anlat"
+      ],
+      "responses": [
+        "Microsoft Corporation, ABD merkezli çok uluslu teknoloji şirketidir. Bilgisayar yazılımları, elektronik cihazlar, kişisel bilgisayarlar ve bilişim hizmetleri geliştirir, üretir, lisanslar ve satar. Şirketin en çok bilinen yazılımları Microsoft Windows ve MS-DOS işletim sistemi aileleri, Microsoft Office paketi, Bing adlı arama motoru, Internet Explorer ve Edge web tarayıcılarıdır"
+      ]
+    },
+    {
+      "tag": "google",
+      "patterns": [
+        "google açıkla",
+        "google ne demek?",
+        "google hakkında bilgi ver",
+        "Google hakkında bilgi ver",
+        "bana google anlat",
+        "Google ne demek?",
+        "google nedir?",
+        "Google açıkla",
+        "Google nedir?",
+        "Bana Google anlat"
+      ],
+      "responses": [
+        "Google LLC, internet araması, çevrim içi bilgi dağıtımı, reklam teknolojileri ve arama motorları için yatırımlar yapan çok uluslu Amerikan şirketidir. Şirket internet tabanlı hizmet ve ürünler geliştirmektedir. Kârının büyük bir kısmını Google Ads (eski adı ile AdWords) hizmeti üzerinden elde etmektedir"
+      ]
+    },
+    {
+      "tag": "microsoft_office",
+      "patterns": [
+        "Microsoft Office hakkında bilgi ver",
+        "microsoft office açıkla",
+        "bana microsoft office anlat",
+        "microsoft office hakkında bilgi ver",
+        "Microsoft Office nedir?",
+        "microsoft office nedir?",
+        "Microsoft Office ne demek?",
+        "Microsoft Office açıkla",
+        "Bana Microsoft Office anlat",
+        "microsoft office ne demek?"
+      ],
+      "responses": [
+        "Microsoft Office, 1989 yılında Microsoft tarafından tanıtılan, Microsoft Windows ve MacOS işletim sistemlerinde birbiriyle ilişkili masaüstü uygulamaları, sunucular ve hizmetler sunan bir ticari ofis yazılım paketidir.\nNisan 2000 yılında ilk kez olarak o dönemlerde el bilgisayarı, sonradan mobil cihazlar için yazılımın mobil versiyonu Microsoft Office Mobile, Haziran 2010 yılında çevrimiçi hizmeti olan Office Online ve onun bir parçası olan Docs.com, Haziran 2011 yılında ise grup yazılımı ve İnternet paketi olan Office 365 tanıtıldı. Ağustos 2015'te sunum yazılımı Office Sway, 2016 yılın Nisan ayında eğitim platformu Microsoft Classroom, Haziran ayında planlama yazılımı Microsoft Planner, Kasım ayında ise ekip platformu Microsoft Teams sunuldu."
+      ]
+    },
+    {
+      "tag": "libreoffice",
+      "patterns": [
+        "Bana LibreOffice anlat",
+        "libreoffice açıkla",
+        "LibreOffice ne demek?",
+        "libreoffice ne demek?",
+        "LibreOffice açıkla",
+        "LibreOffice hakkında bilgi ver",
+        "libreoffice hakkında bilgi ver",
+        "bana libreoffice anlat",
+        "LibreOffice nedir?",
+        "libreoffice nedir?"
+      ],
+      "responses": [
+        "LibreOffice, The Document Foundation (Belge Vakfı) tarafından geliştirilen açık kaynaklı ve ücretsiz bir ofis yazılımı seti. 2010 yılında, StarOffice'in açık kaynaklı bir türevi olan OpenOffice.org'dan çatallanmıştır. LibreOffice paketi; kelime işlemci, elektronik tablo, slayt gösterisi, çizim, veritabanı ve matematiksel formüller oluşturma programlarını içerir"
+      ]
+    },
+    {
+      "tag": "openai",
+      "patterns": [
+        "OpenAI açıkla",
+        "openai açıkla",
+        "openai ne demek?",
+        "OpenAI nedir?",
+        "bana openai anlat",
+        "openai nedir?",
+        "OpenAI ne demek?",
+        "openai hakkında bilgi ver",
+        "Bana OpenAI anlat",
+        "OpenAI hakkında bilgi ver"
+      ],
+      "responses": [
+        "OpenAI, ABD merkezli yapay zekâ araştırma şirketi. Şirketin genel amacı insanlığa fayda sağlayabilecek yapay zekâ hakkında araştırma yapmaktır. 2015 yılının sonlarında San Francisco'da kurulan şirket, patentlerini ve araştırmalarını halka açık hale getirerek diğer kurum ve araştırmacılarla “serbest iş birliği yapmayı” amaçlamaktadır"
+      ]
+    },
+    {
+      "tag": "chatgpt",
+      "patterns": [
+        "ChatGPT nedir?",
+        "chatgpt nedir?",
+        "ChatGPT açıkla",
+        "bana chatgpt anlat",
+        "chatgpt hakkında bilgi ver",
+        "chatgpt açıkla",
+        "chatgpt ne demek?",
+        "ChatGPT ne demek?",
+        "Bana ChatGPT anlat",
+        "ChatGPT hakkında bilgi ver"
+      ],
+      "responses": [
+        "ChatGPT, OpenAI tarafından geliştirilen ve diyalog konusunda uzmanlaşmış bir üretken yapay zekâ sohbet botudur. Bu sohbet botu, denetimli ve takviyeli öğrenme teknikleriyle ince ayar yapılmış büyük bir dil modeline dayanır. Yapay zeka patlamasını hızlandırdığı kabul edilmektedir"
+      ]
+    },
+    {
+      "tag": "cars",
+      "patterns": [
+        "Cars nedir?",
+        "bana cars anlat",
+        "Cars hakkında bilgi ver",
+        "Cars açıkla",
+        "cars hakkında bilgi ver",
+        "cars ne demek?",
+        "cars açıkla",
+        "Bana Cars anlat",
+        "Cars ne demek?",
+        "cars nedir?"
+      ],
+      "responses": [
+        "Araba veya Arabalar şu anlamlara gelebilir:\n\nAraba\nOtomobil\nAraba (albüm)\nArabalar (film)\nArabalar 2\nArabalar 3\nArabalar (film müzikleri)"
+      ]
+    },
+    {
+      "tag": "bmw",
+      "patterns": [
+        "BMW ne demek?",
+        "bmw açıkla",
+        "bmw nedir?",
+        "bana bmw anlat",
+        "BMW hakkında bilgi ver",
+        "bmw ne demek?",
+        "Bana BMW anlat",
+        "bmw hakkında bilgi ver",
+        "BMW açıkla",
+        "BMW nedir?"
+      ],
+      "responses": [
+        "Bayerische Motoren Werke AG (Türkçe: Bavyera Motor Fabrikaları Anonim Şirketi) genellikle anılan kısaltmasıyla BMW, 1916 yılında kurulan Alman otomobil, motosiklet, motor ve bisiklet üreticisidir. BMW ayrıca, Mini ve Rolls-Royce, otomobil şirketlerinin sahibidir. BMW, 2024'te 2,45 milyon araç üretmiştir"
+      ]
+    },
+    {
+      "tag": "ferrari",
+      "patterns": [
+        "bana ferrari anlat",
+        "Ferrari hakkında bilgi ver",
+        "ferrari hakkında bilgi ver",
+        "Ferrari nedir?",
+        "ferrari ne demek?",
+        "ferrari açıkla",
+        "ferrari nedir?",
+        "Bana Ferrari anlat",
+        "Ferrari açıkla",
+        "Ferrari ne demek?"
+      ],
+      "responses": [
+        "Ferrari S.p.A., İtalya'nın Maranello kentinde bulunan bir İtalyan lüks spor otomobil üreticisidir. 1939 yılında Enzo Ferrari tarafından kurulan şirket, ilk otomobilini 1940'ta üretmiş, mevcut adını 1945'te almış ve günümüzdeki yol otomobili serisini 1947'de üretmeye başlamıştır. Ferrari 1960 yılında halka açık bir şirket haline gelmiş ve 1963'ten 2014'e kadar Fiat S.p.A.'nın bir yan kuruluşu olmuştur"
+      ]
+    },
+    {
+      "tag": "lamborghini",
+      "patterns": [
+        "Bana Lamborghini anlat",
+        "bana lamborghini anlat",
+        "Lamborghini açıkla",
+        "Lamborghini ne demek?",
+        "Lamborghini nedir?",
+        "lamborghini açıkla",
+        "lamborghini ne demek?",
+        "lamborghini nedir?",
+        "Lamborghini hakkında bilgi ver",
+        "lamborghini hakkında bilgi ver"
+      ],
+      "responses": [
+        "Lamborghini, İtalya'nın Sant'Agata Bolognese kentinde bulunan lüks spor otomobil ve SUV üreten bir markadır. Şirket, Volkswagen Grubu'na ait olup Audi yan kuruluşu aracılığıyla yönetilmektedir.\nİtalyan bir sanayi patronu olan Ferruccio Lamborghini, 1963 yılında Ferrari ile rekabet etmek amacıyla Automobili Lamborghini'yi kurmuştur. Şirket arkadan ortadan motorlu ve arkadan itişli araç tasarımıyla tanınmıştır"
+      ]
+    },
+    {
+      "tag": "audi",
+      "patterns": [
+        "audi hakkında bilgi ver",
+        "audi açıkla",
+        "Bana Audi anlat",
+        "bana audi anlat",
+        "audi ne demek?",
+        "Audi hakkında bilgi ver",
+        "Audi ne demek?",
+        "Audi nedir?",
+        "Audi açıkla",
+        "audi nedir?"
+      ],
+      "responses": [
+        "Audi, Alman menşeli bir otomobil şirketi ve Volkswagen grubunun bir markasıdır. Şirketin merkezi Ingolstadt, Bavyera'da bulunmaktadır.\nAudi'nin geçmişi 20. yüzyılın başlarına, mühendis August Horch tarafından kurulan Horch ve Audiwerke girişimlerine kadar uzanmaktadır"
+      ]
+    },
+    {
+      "tag": "bentley",
+      "patterns": [
+        "bentley açıkla",
+        "Bana Bentley anlat",
+        "Bentley hakkında bilgi ver",
+        "bentley ne demek?",
+        "Bentley ne demek?",
+        "Bentley açıkla",
+        "Bentley nedir?",
+        "bana bentley anlat",
+        "bentley nedir?",
+        "bentley hakkında bilgi ver"
+      ],
+      "responses": [
+        "Bentley, Volkswagen AG yan kuruluşu olan İngiliz lüks araç üreticisidir. Bentley İngiltere'de 18 Ocak 1919 yılında Walter Owen Bentley tarafından kurulmuştur. Başlangıçta sadece motor ve şasi üretimi yapan şirket I"
+      ]
+    },
+    {
+      "tag": "rolls-royce",
+      "patterns": [
+        "Rolls-Royce nedir?",
+        "bana rolls-royce anlat",
+        "rolls-royce ne demek?",
+        "Bana Rolls-Royce anlat",
+        "rolls-royce hakkında bilgi ver",
+        "Rolls-Royce ne demek?",
+        "rolls-royce açıkla",
+        "Rolls-Royce hakkında bilgi ver",
+        "rolls-royce nedir?",
+        "Rolls-Royce açıkla"
+      ],
+      "responses": [
+        "Rolls-Royce bir İngiliz markasıdır;\n\nRolls-Royce Limited, 1906 yılında kurulmuştur, 1973 yılında Rolls-Royce plc ve Rolls-Royce Motors olarak ikiye bölünmüştür.\nRolls-Royce Holdings, havacılık, güç sistemleri ve savunma şirketi.\nRolls-Royce Almanya\nRolls-Royce Marine Power Operations Ltd\nRolls-Royce Kuzey Amerika\nRolls-Royce Corporation\nRolls-Royce Turbomeca Ltd.\nRolls-Royce AB, KaMeWa AB, Vickers plc'nin bir parçası\nRolls-Royce Motors, Rolls-Royce ve Bentley marka bölümü, 1973 yılında Rolls-Royce Limited'den ayrılmıştır.1998 yılında Rolls-Royce ve Bentley birbirinden ayrılmış Bentley Motors Limited Volkswagen grubu'na; Rolls-Royce, Rolls-Royce Motor Cars olarak BMW kontrolüne geçmiştir.\nRolls-Royce Motor Cars, 1998 yılından bu yana Rolls-Royce otomobil üreticisidir BMW kontrolündedir."
+      ]
+    },
+    {
+      "tag": "bugatti",
+      "patterns": [
+        "Bugatti hakkında bilgi ver",
+        "bugatti nedir?",
+        "bugatti hakkında bilgi ver",
+        "Bana Bugatti anlat",
+        "Bugatti ne demek?",
+        "bana bugatti anlat",
+        "Bugatti nedir?",
+        "bugatti ne demek?",
+        "Bugatti açıkla",
+        "bugatti açıkla"
+      ],
+      "responses": [
+        "Bugatti, Volkswagen AG yan kuruluşu olan Fransız asıllı lüks spor otomobili, performanslı araba, süperspor otomobil, spor otomobil markasıdır. 1909 yılında yüksek performanslı otomobiller üretmek için Ettore Bugatti tarafından Fransa'da Molsheim ilçesinde kuruldu. \nII"
+      ]
+    },
+    {
+      "tag": "togg",
+      "patterns": [
+        "Bana TOGG anlat",
+        "TOGG hakkında bilgi ver",
+        "bana togg anlat",
+        "TOGG nedir?",
+        "TOGG ne demek?",
+        "togg açıkla",
+        "togg nedir?",
+        "togg hakkında bilgi ver",
+        "togg ne demek?",
+        "TOGG açıkla"
+      ],
+      "responses": [
+        "Türkiye'nin Otomobili Girişim Grubu veya kısaca TOGG, Türkiye merkezli bir otomobil üretici şirkettir. Şirket, fikrî mülkiyet haklarına sahip olduğu ilk otomobili 29 Ekim 2022 tarihinde seri üretime hazır hâle getirdi. Yapılan bir araştırmaya göre aracın maliyetinin Eylül 2022 itibarıyla 750 bin Türk lirası olduğu tahmin edilmekteydi"
+      ]
+    },
+    {
+      "tag": "gemini",
+      "patterns": [
+        "Gemini açıkla",
+        "Gemini hakkında bilgi ver",
+        "Bana Gemini anlat",
+        "gemini ne demek?",
+        "gemini hakkında bilgi ver",
+        "Gemini ne demek?",
+        "Gemini nedir?",
+        "gemini nedir?",
+        "bana gemini anlat",
+        "gemini açıkla"
+      ],
+      "responses": [
+        "Gemini sıklıkla şu anlamlara gelir:\n\nGemini (takımyıldız), zodyak takımyıldızlarından biri\nGemini (astroloji), bir astrolojik burç\nGemini (dil modeli), Google tarafından geliştirilen büyük dil modelleri serisi\nGoogle Gemini, sohbet botu\nGemini ayrıca şu anlamlara da gelebilir:"
+      ]
+    },
+    {
+      "tag": "yapay_sinir_ağı",
+      "patterns": [
+        "Yapay sinir ağı hakkında bilgi ver",
+        "Yapay sinir ağı açıkla",
+        "yapay sinir ağı açıkla",
+        "yapay sinir ağı ne demek?",
+        "yapay sinir ağı hakkında bilgi ver",
+        "Yapay sinir ağı nedir?",
+        "Yapay sinir ağı ne demek?",
+        "bana yapay sinir ağı anlat",
+        "yapay sinir ağı nedir?",
+        "Bana Yapay sinir ağı anlat"
+      ],
+      "responses": [
+        "Yapay sinir ağları (YSA), insan beyninin bilgi işleme tekniğinden esinlenerek geliştirilmiş bir sinir ağı ve bilgi işlem teknolojisidir. YSA ile basit biyolojik sinir sisteminin çalışma şekli taklit edilir. Yani biyolojik sinir hücrelerinin ve bu hücrelerin birbirleri ile arasında kurduğu sinaptik bağın dijital olarak modellenmesidir"
+      ]
+    },
+    {
+      "tag": "sinir_ağı",
+      "patterns": [
+        "sinir ağı nedir?",
+        "Sinir ağı hakkında bilgi ver",
+        "Sinir ağı açıkla",
+        "Bana Sinir ağı anlat",
+        "Sinir ağı ne demek?",
+        "sinir ağı ne demek?",
+        "sinir ağı açıkla",
+        "sinir ağı hakkında bilgi ver",
+        "Sinir ağı nedir?",
+        "bana sinir ağı anlat"
+      ],
+      "responses": [
+        "Sinir ağı, terimi geleneksel olarak biyolojik sinir hücrelerinin bir ağ veya devresine atıfta bulunmak için ortaya cikartilmistir ama gelişen teoriler dolayisiyla gunumuzde daha matematiksel kavramlari (Örneğin; ekonometri, sebeke sistemleri, yapay zekâ vb.) kapsamaktadir.\nÇoğunlukla genel kullanımında, yapay sinir hücrelerinden veya düğümlerden ibaret olan, terim sıklıkla yapay sinir ağlarına atıfta bulunmak için kullanılır."
+      ]
+    },
+    {
+      "tag": "os",
+      "patterns": [
+        "Bana OS anlat",
+        "os hakkında bilgi ver",
+        "OS açıkla",
+        "os ne demek?",
+        "OS nedir?",
+        "OS hakkında bilgi ver",
+        "bana os anlat",
+        "OS ne demek?",
+        "os açıkla",
+        "os nedir?"
+      ],
+      "responses": [
+        "İşletim sistemi (Operating System, OS), bir bilgisayarın donanım kaynaklarını yöneten ve uygulama yazılımlarına hizmet sağlayan yazılım katmanıdır.Donanım ile uygulama yazılımları arasında ara katman görevi görerek, kullanıcıların sisteme erişmesini ve etkileşim kurmasını sağlar.Başlıca örnekleri arasında Microsoft Windows, macOS, GNU/Linux dağıtımları, Android ve iOS yer alır.\nİşletim sistemleri yalnızca kişisel bilgisayarlar, cep telefonları ve web sunucularıyla sınırlı değildir. Dijital işlevlere sahip neredeyse tüm cihazlarda, örneğin motorlu taşıtlarda, beyaz eşyalarda, akıllı saatler de kendi işletim sistemlerine sahiptir.\nİşletim sistemleri, sahip oldukları işlevlerin genişliği ile değil, donanım kaynaklarını verimli kullanma yetenekleriyle değerlendirilmelidir. Modern işletim sistemleri, çoklu görev yönetimi, bellek yönetimi, dosya sistemleri ve kullanıcı arabirimi gibi kritik işlevleri yerine getirir ve cihazların performansını optimize eder."
+      ]
+    },
+    {
+      "tag": "makine_öğrenmesi",
+      "patterns": [
+        "Makine öğrenmesi açıkla",
+        "makine öğrenmesi açıkla",
+        "Bana Makine öğrenmesi anlat",
+        "makine öğrenmesi nedir?",
+        "Makine öğrenmesi ne demek?",
+        "bana makine öğrenmesi anlat",
+        "makine öğrenmesi ne demek?",
+        "makine öğrenmesi hakkında bilgi ver",
+        "Makine öğrenmesi nedir?",
+        "Makine öğrenmesi hakkında bilgi ver"
+      ],
+      "responses": [
+        "Makine öğrenimi (ML), veriden öğrenebilen ve görünmeyen verilere genelleştirebilen ve dolayısıyla açık talimatlar olmadan görevleri yerine getirebilen istatistiksel algoritmaların geliştirilmesi ve incelenmesiyle ilgilenen, yapay zekâda akademik bir disiplindir. Makine öğrenimi, bilgisayarların deneyimlerinden öğrenerek karmaşık görevleri otomatikleştirmeyi sağlayan bir yapay zeka alanıdır. Bu, veri analizi yaparak örüntüler tespit etme ve tahminlerde bulunma yeteneğine dayanır"
+      ]
+    },
+    {
+      "tag": "i̇şletim_sistemi",
+      "patterns": [
+        "İşletim sistemi hakkında bilgi ver",
+        "i̇şletim sistemi ne demek?",
+        "İşletim sistemi ne demek?",
+        "i̇şletim sistemi hakkında bilgi ver",
+        "i̇şletim sistemi nedir?",
+        "İşletim sistemi nedir?",
+        "İşletim sistemi açıkla",
+        "Bana İşletim sistemi anlat",
+        "i̇şletim sistemi açıkla",
+        "bana i̇şletim sistemi anlat"
+      ],
+      "responses": [
+        "İşletim sistemi (Operating System, OS), bir bilgisayarın donanım kaynaklarını yöneten ve uygulama yazılımlarına hizmet sağlayan yazılım katmanıdır.Donanım ile uygulama yazılımları arasında ara katman görevi görerek, kullanıcıların sisteme erişmesini ve etkileşim kurmasını sağlar.Başlıca örnekleri arasında Microsoft Windows, macOS, GNU/Linux dağıtımları, Android ve iOS yer alır.\nİşletim sistemleri yalnızca kişisel bilgisayarlar, cep telefonları ve web sunucularıyla sınırlı değildir. Dijital işlevlere sahip neredeyse tüm cihazlarda, örneğin motorlu taşıtlarda, beyaz eşyalarda, akıllı saatler de kendi işletim sistemlerine sahiptir.\nİşletim sistemleri, sahip oldukları işlevlerin genişliği ile değil, donanım kaynaklarını verimli kullanma yetenekleriyle değerlendirilmelidir. Modern işletim sistemleri, çoklu görev yönetimi, bellek yönetimi, dosya sistemleri ve kullanıcı arabirimi gibi kritik işlevleri yerine getirir ve cihazların performansını optimize eder."
+      ]
+    },
+    {
+      "tag": "veritabanı",
+      "patterns": [
+        "Veritabanı nedir?",
+        "veritabanı açıkla",
+        "veritabanı hakkında bilgi ver",
+        "veritabanı nedir?",
+        "Veritabanı hakkında bilgi ver",
+        "Veritabanı ne demek?",
+        "bana veritabanı anlat",
+        "Bana Veritabanı anlat",
+        "veritabanı ne demek?",
+        "Veritabanı açıkla"
+      ],
+      "responses": [
+        "Veritabanları, yapılandırılmış bilgi veya verilerin depolandığı alanlardır. Bilgi artışıyla birlikte bilgisayarda bilgi depolama ve bilgiye erişim konularında yeni yöntemlere ihtiyaç duyulmuştur. Veritabanları; büyük miktardaki bilgileri depolamada geleneksel yöntem olan \"dosya-işlem sistemine\" alternatif olarak geliştirilmiştir"
+      ]
+    },
+    {
+      "tag": "tarih",
+      "patterns": [
+        "tarih ne demek?",
+        "Bana Tarih anlat",
+        "Tarih nedir?",
+        "Tarih açıkla",
+        "Tarih hakkında bilgi ver",
+        "tarih açıkla",
+        "bana tarih anlat",
+        "tarih hakkında bilgi ver",
+        "tarih nedir?",
+        "Tarih ne demek?"
+      ],
+      "responses": [
+        "Tarih, geçmiş zamanın incelenmesi bilimidir. \"Tarih\", geçmişte yaşanan olayların incelenmesinin yanı sıra, bu olaylarla ilgili bilgilerin keşfi, toplanması, organizasyonu, sunumu ve yorumlanması ile ilgilenen disiplindir.\nİnsan veya insan dışı farkı gözetmeksizin, yer ve zaman aralığının kestirildiği bir geçmiş zaman diliminde, sebep-sonuç ilişkisi kurup, yazılı veya yazısız belge ve bulgular eşliğinde bilgiler toplayan bir akademik disiplin olan tarih, herhangi bir bilim kümesine dahil edilmez; çünkü tarih, her alanın geçmişini inceleyebilecek kadar geniş bir disiplindir. Örneğin, antik çağlardan günümüze bilimin ve bilimsel bilginin evrimini ve gelişimini incelemek isteyen kişi \"bilim tarihi\"ne, insanlığın dinî duygularını, düşüncelerini ve yeryüzündeki dinleri benzer ve farklı yönleri ile karşılaştırmalı olarak incelemek isteyen kişi \"dinler tarihi\"ne, insanlık tarihi boyunca süregelen ve savaş olarak adlandırabileceğimiz silahlı olayları ve bunların toplumlar, kültürler ve ekonomiler üzerindeki etkisini araştırmak isteyen kişi ise \"askerî tarih\"e başvurur.\nTarihî inceleme, geçmiş zamandaki olaylara ilişkin tüm bilgilerin, olayların vuku bulduğu dönemin şartları göz önüne alınarak, mümkün olduğunca nesnel bir şekilde sunulması ile oluşur"
+      ]
+    },
+    {
+      "tag": "bilim",
+      "patterns": [
+        "bilim açıkla",
+        "Bilim açıkla",
+        "Bana Bilim anlat",
+        "bana bilim anlat",
+        "Bilim nedir?",
+        "bilim hakkında bilgi ver",
+        "Bilim ne demek?",
+        "bilim ne demek?",
+        "Bilim hakkında bilgi ver",
+        "bilim nedir?"
+      ],
+      "responses": [
+        "Bilim veya ilim, nedensellik, merak ve amaç besleyen, olguları ve iddiaları deney, gözlem ve düşünce aracılığıyla sistematik bir şekilde inceleyen entelektüel ve uygulamalı disiplinler bütünüdür. Bilimi sınıflandıran bilim felsefecileri bilimi formal bilimler, sosyal bilimler ve doğa bilimleri olmak üzere üçe ayırır. Bilimin diğer tüm dallardan en ayırt edici özelliği, savunmalarını somut kanıtlarla sunmasıdır"
+      ]
+    },
+    {
+      "tag": "fizik",
+      "patterns": [
+        "Fizik hakkında bilgi ver",
+        "Bana Fizik anlat",
+        "fizik ne demek?",
+        "fizik nedir?",
+        "Fizik nedir?",
+        "Fizik ne demek?",
+        "fizik açıkla",
+        "bana fizik anlat",
+        "fizik hakkında bilgi ver",
+        "Fizik açıkla"
+      ],
+      "responses": [
+        "Fizik; maddeyi, maddenin uzayzaman içinde hareketini, enerji ve kuvvetleri inceleyen doğa bilimi. Fizik, temel bilimlerden biridir. Temel amacı evrenin işleyişini araştırmaktır"
+      ]
+    },
+    {
+      "tag": "kimya",
+      "patterns": [
+        "Kimya açıkla",
+        "Kimya nedir?",
+        "bana kimya anlat",
+        "kimya nedir?",
+        "Bana Kimya anlat",
+        "kimya açıkla",
+        "kimya ne demek?",
+        "Kimya hakkında bilgi ver",
+        "kimya hakkında bilgi ver",
+        "Kimya ne demek?"
+      ],
+      "responses": [
+        "Kimya, maddenin yapısını, özelliklerini, birleşimlerini, etkileşimlerini, tepkimelerini araştıran ve uygulayan bilim dalıdır. Kimya bilimi daha kapsamlı bir ifadeyle maddelerin özellikleriyle, sınıflandırılmasıyla, atomlarla, atom teorisiyle, kimyasal bileşiklerle, kimyasal tepkimelerle, maddenin hâlleriyle, moleküller arası ve moleküler kuvvetlerle, kimyasal bağlarla, tepkime kinetiğiyle, kimyasal dengenin prensipleriyle vb. konularla ilgilenir"
+      ]
+    },
+    {
+      "tag": "biyoloji",
+      "patterns": [
+        "Biyoloji nedir?",
+        "biyoloji hakkında bilgi ver",
+        "biyoloji nedir?",
+        "biyoloji açıkla",
+        "Biyoloji hakkında bilgi ver",
+        "Biyoloji açıkla",
+        "biyoloji ne demek?",
+        "bana biyoloji anlat",
+        "Bana Biyoloji anlat",
+        "Biyoloji ne demek?"
+      ],
+      "responses": [
+        "Biyoloji ya da dirim bilimi, yaşamın bilimsel olarak incelenmesidir. Geniş bir kapsama sahip bir doğa bilimidir ancak onu tek ve tutarlı bir alan olarak birbirine bağlayan birkaç birleştirici teması vardır. Örneğin, tüm organizmalar, gelecek nesillere aktarılabilen genlerde kodlanmış kalıtsal bilgileri işleyen hücrelerden oluşur"
+      ]
+    },
+    {
+      "tag": "matematik",
+      "patterns": [
+        "Bana Matematik anlat",
+        "bana matematik anlat",
+        "Matematik ne demek?",
+        "matematik nedir?",
+        "Matematik hakkında bilgi ver",
+        "matematik ne demek?",
+        "Matematik nedir?",
+        "Matematik açıkla",
+        "matematik açıkla",
+        "matematik hakkında bilgi ver"
+      ],
+      "responses": [
+        "Matematik (Yunanca μάθημα máthēma, \"bilgi, çalışma, öğrenme\"); sayılar, felsefe, uzay ve fizik gibi konularla ilgilenir. Matematikçiler ve filozoflar arasında matematiğin kesin kapsamı ve tanımı konusunda görüş ayrılığı vardır.\nMatematikçiler örüntüleri araştırır ve bunları yeni konjektürler formüle etmekte kullanırlar. Bu konjektürlerin doğruluğunu veya yanlışlığını matematiksel ispat yoluyla çözmeye çalışırlar"
+      ]
+    },
+    {
+      "tag": "bilgisayar_bilimi",
+      "patterns": [
+        "Bilgisayar bilimi ne demek?",
+        "bilgisayar bilimi nedir?",
+        "bilgisayar bilimi hakkında bilgi ver",
+        "Bana Bilgisayar bilimi anlat",
+        "bana bilgisayar bilimi anlat",
+        "bilgisayar bilimi ne demek?",
+        "Bilgisayar bilimi nedir?",
+        "Bilgisayar bilimi açıkla",
+        "bilgisayar bilimi açıkla",
+        "Bilgisayar bilimi hakkında bilgi ver"
+      ],
+      "responses": [
+        "Bilgisayar bilimi, bilgisayarların tasarımı ve kullanımı için temel oluşturan teori, deney ve mühendislik çalışmasıdır. Hesaplamaya ve uygulamalarına bilimsel ve pratik bir yaklaşımdır. Bilgisayar bilimi; edinim, temsil, işleme, depolama, iletişim ve erişimin altında yatan yönteme dayalı prosedürlerin veya algoritmaların fizibilitesi, yapısı, ifadesi ve mekanizasyonunun sistematik çalışmasıdır"
+      ]
+    },
+    {
+      "tag": "yapay_zeka",
+      "patterns": [
+        "Yapay zeka açıkla",
+        "Bana Yapay zeka anlat",
+        "yapay zeka nedir?",
+        "yapay zeka hakkında bilgi ver",
+        "yapay zeka açıkla",
+        "Yapay zeka nedir?",
+        "bana yapay zeka anlat",
+        "Yapay zeka ne demek?",
+        "Yapay zeka hakkında bilgi ver",
+        "yapay zeka ne demek?"
+      ],
+      "responses": [
+        "Yapay zekâ (İngilizce: Artificial intelligence, AI); hesaplama sistemlerinin öğrenme, akıl, problem çözme, algılama ve karar verme gibi tipik olarak insan zekâsıyla ilişkilendirilen görevleri yerine getirme yeteneğidir. Dördüncü Sanayi Devrimi'nin en yaygın özelliklerinden biri olarak kabul edilir. İlk ve ikinci kategoriler arasındaki ayrım genellikle seçilen kısaltmayla ortaya çıkar"
+      ]
+    },
+    {
+      "tag": "programlama_dilleri",
+      "patterns": [
+        "Programlama dilleri ne demek?",
+        "programlama dilleri nedir?",
+        "programlama dilleri hakkında bilgi ver",
+        "Programlama dilleri hakkında bilgi ver",
+        "bana programlama dilleri anlat",
+        "Programlama dilleri açıkla",
+        "programlama dilleri ne demek?",
+        "Programlama dilleri nedir?",
+        "Bana Programlama dilleri anlat",
+        "programlama dilleri açıkla"
+      ],
+      "responses": [
+        "Programlama dili, yazılımcının bir algoritmayı ifade etmek amacıyla, bir bilgisayara ne yapmasını istediğini anlatmasının tektipleştirilmiş yoludur. Programlama dilleri, yazılımcının bilgisayara hangi veri üzerinde işlem yapacağını, verinin nasıl depolanıp iletileceğini, hangi koşullarda hangi işlemlerin yapılacağını tam olarak anlatmasını sağlar.\nŞu ana kadar 250'den fazla programlama dili geliştirilmiştir. Bunlardan bazıları Pascal, Basic, C, C#, C++, Java, JavaScript, Cobol, Perl, PHP, Python, Ada, Fortran, Delphi ve Swift'tir."
+      ]
+    },
+    {
+      "tag": "i̇şletim_sistemleri",
+      "patterns": [
+        "i̇şletim sistemleri nedir?",
+        "İşletim sistemleri hakkında bilgi ver",
+        "İşletim sistemleri nedir?",
+        "bana i̇şletim sistemleri anlat",
+        "Bana İşletim sistemleri anlat",
+        "İşletim sistemleri ne demek?",
+        "i̇şletim sistemleri ne demek?",
+        "i̇şletim sistemleri açıkla",
+        "i̇şletim sistemleri hakkında bilgi ver",
+        "İşletim sistemleri açıkla"
+      ],
+      "responses": [
+        "İşletim sistemi (Operating System, OS), bir bilgisayarın donanım kaynaklarını yöneten ve uygulama yazılımlarına hizmet sağlayan yazılım katmanıdır.Donanım ile uygulama yazılımları arasında ara katman görevi görerek, kullanıcıların sisteme erişmesini ve etkileşim kurmasını sağlar.Başlıca örnekleri arasında Microsoft Windows, macOS, GNU/Linux dağıtımları, Android ve iOS yer alır.\nİşletim sistemleri yalnızca kişisel bilgisayarlar, cep telefonları ve web sunucularıyla sınırlı değildir. Dijital işlevlere sahip neredeyse tüm cihazlarda, örneğin motorlu taşıtlarda, beyaz eşyalarda, akıllı saatler de kendi işletim sistemlerine sahiptir.\nİşletim sistemleri, sahip oldukları işlevlerin genişliği ile değil, donanım kaynaklarını verimli kullanma yetenekleriyle değerlendirilmelidir. Modern işletim sistemleri, çoklu görev yönetimi, bellek yönetimi, dosya sistemleri ve kullanıcı arabirimi gibi kritik işlevleri yerine getirir ve cihazların performansını optimize eder."
+      ]
+    },
+    {
+      "tag": "bilgisayar_ağları",
+      "patterns": [
+        "Bana Bilgisayar ağları anlat",
+        "bilgisayar ağları ne demek?",
+        "bana bilgisayar ağları anlat",
+        "bilgisayar ağları hakkında bilgi ver",
+        "bilgisayar ağları açıkla",
+        "bilgisayar ağları nedir?",
+        "Bilgisayar ağları açıkla",
+        "Bilgisayar ağları nedir?",
+        "Bilgisayar ağları ne demek?",
+        "Bilgisayar ağları hakkında bilgi ver"
+      ],
+      "responses": [
+        "Bilgisayar ağı, küçük bir alan içerisindeki veya uzak mesafelerdeki bilgisayarların ve/veya iletişim cihazını iletişim hatları aracılığıyla birbirine bağlandığı, dolayısıyla bilgi ve sistem kaynaklarının farklı kullanıcılar tarafından paylaşıldığı, bir yerden başka bir yere veri aktarımının mümkün olduğu iletişim sistemidir. En az iki bilgisayarı birbirine bağlayarak bir ağ oluşturulur. 1980'li yıllarla birlikte, Ethernet ve LAN teknolojisinin gelişmesiyle, kişisel bilgisayarlar ve ofisler bilgisayar ağlarına kavuşmuştur"
+      ]
+    },
+    {
+      "tag": "bilgisayar_güvenliği",
+      "patterns": [
+        "Bilgisayar güvenliği ne demek?",
+        "bilgisayar güvenliği ne demek?",
+        "bana bilgisayar güvenliği anlat",
+        "Bilgisayar güvenliği hakkında bilgi ver",
+        "Bana Bilgisayar güvenliği anlat",
+        "Bilgisayar güvenliği nedir?",
+        "Bilgisayar güvenliği açıkla",
+        "bilgisayar güvenliği nedir?",
+        "bilgisayar güvenliği hakkında bilgi ver",
+        "bilgisayar güvenliği açıkla"
+      ],
+      "responses": [
+        "Bilgisayar güvenliği, elektronik ortamlarda verilerin veya bilgilerin saklanması ve taşınması esnasında bilgilerin bütünlüğü bozulmadan, izinsiz erişimlerden korunması için, güvenli bir bilgi işleme platformu oluşturma çabalarının tümüdür. Bunun sağlanması için duruma uygun güvenlik politikasının belirlenmesi ve uygulanması gereklidir.\nBu politikalar;\n\nEtkinliklerin sorgulanması\nErişimlerin izlenmesi\nDeğişikliklerin kayıtlarının tutulup değerlendirilmesi\nSilme işlemlerinin sınırlandırılması\ngibi bazı kullanım şekillerine indirgenebilmektedir.\nBilgisayar teknolojilerinde yer alan bilgisayar güvenliğinin amacı ise: \"Kişi ve kurumların bu teknolojilerini kullanırken karşılaşabilecekleri tehdit ve tehlikelerin incelemelerinin yapılarak gerekli önlemlerin önceden alınmasıdır\". Bilgi ve bilgisayar güvenliği daha genel anlamda, güvenlik konularını detaylı olarak ele alan \"güvenlik mühendisliği\"nin bir alt alanı olarak görülmektedir.\nBilgisayar güvenliği geniş anlamda bir koruyucu mekanizma olarak düşünüldüğünde, kişisel veya kurumsal bilgisayarlar için genel olarak aşağıdaki maddelerin hepsinini veya bazılarının uygulanması gerekmektedir:\n\nVirüs koruma yazılımlarının kurulu olması\nBu yazılımların ve işletim sistemi hizmet paketlerinin ve hata düzeltme ve güncellemelerinin düzenli aralıklarla yapılması\nBilgisayarda şifre korumalı ekran koruyucu kullanılması\nKurmuş olduğunuz yazılımların paylaşıma açık olup olmadığının kontrol edilmesi\nBilgisayar başından uzun süreliğine ayrı kalındığında sistemden çıkılması\nKullanılan parolaların tahmininin zor olacak şekilde belirlenmesi\nBu parolaların gizli tutulması ve belirli aralıklarla değiştirilmesi\nDisk paylaşımlarında dikkatli olunması\nİnternet üzerinden indirilen veya e-posta ile gelen dosyalara dikkat edilmesi\nÖnemli belgelerin parola ile korunması veya şifreli olarak saklanması\nGizli veya önemli bilgilerin e-posta, güvenlik sertifikasız siteler gibi güvenli olmayan yollarla gönderilmemesi\nKullanılmadığı zaman İnternet erişiminin kapatılması\nÖnemli bilgi ve belgelerin düzenli aralıklarla yedeklerinin alınması\nEğer Windows kullanıyorsanız güncellemeleri yapmanız\ngibi önlemler, basit gibi gözükebilecek ama hayat kurtaracak önlemlerden bazılarıdır."
+      ]
+    },
+    {
+      "tag": "astronomi",
+      "patterns": [
+        "Astronomi nedir?",
+        "astronomi nedir?",
+        "bana astronomi anlat",
+        "Astronomi ne demek?",
+        "astronomi ne demek?",
+        "Bana Astronomi anlat",
+        "astronomi açıkla",
+        "Astronomi hakkında bilgi ver",
+        "astronomi hakkında bilgi ver",
+        "Astronomi açıkla"
+      ],
+      "responses": [
+        "Astronomi, gök bilimi ya da gökbilim gök cisimlerinin kökenlerini, evrimlerini, fiziksel ve kimyasal özelliklerini açıklamaya çalışan doğa bilimi dalıdır. Astronominin sınırlı ve özel bir alanı olan gök mekaniği ile karıştırılmaması gerekir. Astronomi daha açık bir deyişle, yörüngesel cisimleri ve Dünya atmosferinin dışında gerçekleşen, yıldızlar, gezegenler, kuyruklu yıldızlar, kutup ışıkları, gökadalar ve kozmik mikrodalga arkaalan ışınımı gibi gözlemlenebilir tüm olay ve olguları inceleyen bilim dalıdır.\nAstronomi terimi Eski Yunanca'daki astron ve nomos (άστρον ve νόμος) sözcüklerinden türetilmiş olup \"yıldızların yasası\" anlamına gelir"
+      ]
+    },
+    {
+      "tag": "coğrafya",
+      "patterns": [
+        "coğrafya hakkında bilgi ver",
+        "coğrafya nedir?",
+        "Coğrafya ne demek?",
+        "Coğrafya hakkında bilgi ver",
+        "Coğrafya nedir?",
+        "Coğrafya açıkla",
+        "coğrafya açıkla",
+        "Bana Coğrafya anlat",
+        "bana coğrafya anlat",
+        "coğrafya ne demek?"
+      ],
+      "responses": [
+        "Coğrafya; beşerî (insanî) sistemleri ve yeryüzünü araştıran, bunlar arasındaki ilişkiyi neden-sonuç ve dağılış ilkesine bağlı olarak inceleyen ve sorgulayan bir bilim dalıdır. Yer ve insanlar arasındaki ilişkiler coğrafyanın konusunu oluşturur. Coğrafya sözcüğü Yunanca “γεωγραφία” gaia (yer) ve gráphein (yazmak, betimlemek) sözcüklerinden türemiştir"
+      ]
+    },
+    {
+      "tag": "jeoloji",
+      "patterns": [
+        "Jeoloji hakkında bilgi ver",
+        "jeoloji hakkında bilgi ver",
+        "Jeoloji açıkla",
+        "Bana Jeoloji anlat",
+        "Jeoloji ne demek?",
+        "jeoloji açıkla",
+        "jeoloji ne demek?",
+        "Jeoloji nedir?",
+        "bana jeoloji anlat",
+        "jeoloji nedir?"
+      ],
+      "responses": [
+        "Jeoloji ya da yer bilimi, geniş anlamda Yerküreyi, dar anlamda yerkabuğunu oluşum, bileşim, yapı, hareket, değişiklikler ve değişiklikleri yaratan nedenler ve tarihsel evrim açısından inceleyen, yeraltı zenginliklerinin bulunması, doğal afetlerle savaşımda katkı sunulması gibi amaçları olan bir bilimdir. Jeolojinin temel konusu Dünya olmakla birlikte yer benzeri gezegenler (Mars, Venüs, Merkür) ve doğal uyduların incelenmesini de içerir. Yer bilimleri bünyesinde ele alınır.\nJeoloji, dar anlamı ile ya da çoğunlukla algılandığı biçimiyle, bütün yeryuvarlağının değil, özellikle ortalama kalınlığı 35 km olan katı yerkabuğunun bilimidir"
+      ]
+    },
+    {
+      "tag": "ekonomi",
+      "patterns": [
+        "Ekonomi açıkla",
+        "Bana Ekonomi anlat",
+        "bana ekonomi anlat",
+        "Ekonomi ne demek?",
+        "ekonomi nedir?",
+        "ekonomi açıkla",
+        "ekonomi hakkında bilgi ver",
+        "Ekonomi nedir?",
+        "Ekonomi hakkında bilgi ver",
+        "ekonomi ne demek?"
+      ],
+      "responses": [
+        "Ekonomi, üretim, ticaret, dağıtım ve tüketim, ithalat ve ihracattan oluşan insan etkinliğidir. İnsanın ihtiyaçlarını karşılamada yapılan her türlü faaliyeti içerir.\nEkonomi belli bir bölge içindeki ekonomik sistemden oluşur. Bu sistem o bölgedeki iş gücünü, sermayeyi, doğal kaynakları; üretim, ticaret ile dağıtımda rol alan ekonomik kuruluşları ve o bölgedeki mal ile hizmetlerin tüketimini içerir"
+      ]
+    },
+    {
+      "tag": "hukuk",
+      "patterns": [
+        "hukuk nedir?",
+        "hukuk ne demek?",
+        "Hukuk açıkla",
+        "Hukuk ne demek?",
+        "Hukuk nedir?",
+        "bana hukuk anlat",
+        "Bana Hukuk anlat",
+        "hukuk hakkında bilgi ver",
+        "hukuk açıkla",
+        "Hukuk hakkında bilgi ver"
+      ],
+      "responses": [
+        "Hukuk ya da tüze birey, toplum ve devletin hareketlerini, birbirleriyle olan ilişkilerini; yetkili organlar tarafından usulüne uygun olarak çıkarılan, kamu gücüyle desteklenen, muhatabına genel olarak nasıl davranması yahut nasıl davranmaması gerektiğini gösteren ve bunun için ilgili bütün olasılıkları yürürlükte olan normlarla düzenleyen normatif bir bilimdir. Ayrıca, toplumu düzen altına alan ve kişiler arası ilişkileri düzenleyen, ortak yaşamın huzur ve güven içinde akışını sağlayan, gerektiğinde adaleti yerine getiren, kamu gücü ile desteklenen ve devlet tarafından yaptırımlarla güvence altına alınan kurallar bütünüdür. Hukuk, birey-toplum-devlet ilişkilerinde ortak iyilik ve ortak menfaati gözetir.\nHukuk sistemindeki genel farklılık yasama organının hukuk yaptığı Kara Avrupası Hukuk Sistemi ve hâkim kararlarının hukuku oluşturduğu Ortak Hukuk Hukuk Sistemi çevresinde oluşur"
+      ]
+    },
+    {
+      "tag": "psikoloji",
+      "patterns": [
+        "Psikoloji nedir?",
+        "Psikoloji hakkında bilgi ver",
+        "psikoloji açıkla",
+        "bana psikoloji anlat",
+        "psikoloji nedir?",
+        "psikoloji ne demek?",
+        "psikoloji hakkında bilgi ver",
+        "Bana Psikoloji anlat",
+        "Psikoloji ne demek?",
+        "Psikoloji açıkla"
+      ],
+      "responses": [
+        "Psikoloji veya ruh bilimi, içgüdüsel davranışları ve zihni inceleyen bilimdir. Bilinçli ve bilinçsiz olayların yanı sıra daha çok duygu ve düşüncenin incelemesini içeren psikoloji, çok kapsamlı bir bilimsel alandır. Bu alanda uzman olan ve aynı zamanda bilgi araştırması yapanlara psikolog denir"
+      ]
+    },
+    {
+      "tag": "felsefe",
+      "patterns": [
+        "felsefe açıkla",
+        "Felsefe nedir?",
+        "Felsefe açıkla",
+        "felsefe hakkında bilgi ver",
+        "Felsefe ne demek?",
+        "Bana Felsefe anlat",
+        "felsefe nedir?",
+        "bana felsefe anlat",
+        "felsefe ne demek?",
+        "Felsefe hakkında bilgi ver"
+      ],
+      "responses": [
+        "Felsefe veya düşünbilim; varlık, bilgi, değerler, gerçek, doğruluk, zihin ve dil gibi konularla ilgili soyut, genel ve temel problemlere ilişkin yapılan sistematik çalışmalardır. Felsefe ile uğraşan kişilere filozof denir.\nFelsefe sorular bakımından evrensel, cevaplar bakımından ise öznel olan; kesinliği bulunmayan, bireysel ve toplumsal birçok işleve sahip, sistemli, tutarlı ve refleksif bir uğraşlar bütünüdür.\nTarihe bakıldığında felsefenin; fizik, psikoloji, dilbilim gibi günümüzde kendinden ayrı olarak ele alınan çoğu disiplini kapsadığı görülebilir. Örneğin, Newton'ın günümüzde fizik kitabı olarak sınıflandırılan 1687 tarihli eserinin ismi, Doğa Felsefesinin Matematiksel İlkeleri'dir; fakat 19"
+      ]
+    },
+    {
+      "tag": "din",
+      "patterns": [
+        "din açıkla",
+        "Din ne demek?",
+        "din nedir?",
+        "din ne demek?",
+        "Din nedir?",
+        "bana din anlat",
+        "din hakkında bilgi ver",
+        "Bana Din anlat",
+        "Din açıkla",
+        "Din hakkında bilgi ver"
+      ],
+      "responses": [
+        "Din, genellikle doğaüstü, transandantal ve cansal unsurlarla ilişkilendirilmiş, çeşitli ayinler ve uygulamaları içeren, ahlak, dünya görüşleri, kutsal metinler ve yerler, kehanetler, etik kuruluşlarından oluşan bir sosyo-kültürel sistemdir.\nZaman zaman inanç sözcüğünün yerine kullanıldığı gibi bazen de inanç sözcüğü din sözcüğünün yerine kullanılır. Dinler tarihine bakıldığında farklı kültür, topluluk ve bireylerde din kavramının farklı biçimlere sahip olduğu, dinlerin mensupları tarafından her çağda coğrafya ve kültür değerlerine göre yeniden tasarlandığı görülür. Arapça kökenli bir sözcük olan din sözcüğü, köken itibarıyla \"yol, karar, ödül\" gibi anlamlara da sahiptir."
+      ]
+    },
+    {
+      "tag": "tıp",
+      "patterns": [
+        "Tıp ne demek?",
+        "Tıp hakkında bilgi ver",
+        "tıp nedir?",
+        "tıp hakkında bilgi ver",
+        "tıp açıkla",
+        "Bana Tıp anlat",
+        "bana tıp anlat",
+        "tıp ne demek?",
+        "Tıp açıkla",
+        "Tıp nedir?"
+      ],
+      "responses": [
+        "Tıp, bir hastaya bakma, teşhis, prognoz, önleme, tedavi, yaralanma veya hastalıklarının palyasyonunu yönetme ve sağlığını geliştirme bilimi ve uygulamasıdır. Tıp, hastalıkların önlenmesi ve tedavisi yoluyla sağlığı korumak ve iyileştirmek için geliştirilen çeşitli sağlık uygulamalarını kapsar. Çağdaş tıp, yaralanma ve hastalıkları teşhis etmek, tedavi etmek ve önlemek için biyomedikal bilimleri, biyomedikal araştırmaları, genetiği ve tıbbi teknolojiyi, tipik olarak farmasötikler veya cerrahi yoluyla, ancak aynı zamanda psikoterapi, harici ateller ve traksiyon, tıbbi cihazlar, biyolojikler ve iyonlaştırıcı radyasyon gibi çeşitli tedaviler yoluyla uygular.\nTıp, tarih öncesi çağlardan beri uygulanmaktadır ve bu zamanın çoğunda bir sanat (bir yaratıcılık ve beceri alanı) olmuştur ve sıklıkla yerel kültürün dini ve felsefi inançlarıyla bağlantıları vardır"
+      ]
+    },
+    {
+      "tag": "müzik",
+      "patterns": [
+        "Bana Müzik anlat",
+        "müzik açıkla",
+        "müzik ne demek?",
+        "müzik nedir?",
+        "Müzik hakkında bilgi ver",
+        "bana müzik anlat",
+        "Müzik nedir?",
+        "Müzik ne demek?",
+        "müzik hakkında bilgi ver",
+        "Müzik açıkla"
+      ],
+      "responses": [
+        "Müzik, insanın doğaya eklediği uyumlu seslerdir. Ses, bir doğa olayıdır. Müzik, bu doğal ve etkin olaydan bilinçli bir çalışma ve emek ile bir sanat yapıtı yaratmak, sesi bilimsel ve estetik bir temele oturtmaktır."
+      ]
+    },
+    {
+      "tag": "sinema",
+      "patterns": [
+        "Sinema açıkla",
+        "Bana Sinema anlat",
+        "Sinema nedir?",
+        "sinema açıkla",
+        "sinema nedir?",
+        "sinema ne demek?",
+        "sinema hakkında bilgi ver",
+        "bana sinema anlat",
+        "Sinema ne demek?",
+        "Sinema hakkında bilgi ver"
+      ],
+      "responses": [
+        "Sinema veya Sinema sanatı, kamera aracılığı ile elde edilmiş görüntülerin bir ışık aracılığı ile beyaz renkte bir perdeye yansıtılarak film adı verilen sesli veya sessiz hareketli videolar elde edilmesi işidir. Üretilen bu filmler, sinema salonu adı verilen özel binalarda gösterilmektedir. Sinema sanatı genel olarak diyalog, kurgu, sahnenin düzeni, ışık, ses ve dekor gibi şeyleri yapılan filme uygun şekilde dizayn edilir"
+      ]
+    },
+    {
+      "tag": "sanat",
+      "patterns": [
+        "Bana Sanat anlat",
+        "sanat nedir?",
+        "Sanat açıkla",
+        "Sanat ne demek?",
+        "Sanat hakkında bilgi ver",
+        "sanat ne demek?",
+        "sanat açıkla",
+        "Sanat nedir?",
+        "bana sanat anlat",
+        "sanat hakkında bilgi ver"
+      ],
+      "responses": [
+        "Sanat, en genel anlamıyla yaratıcılığın ve hayal gücünün ifadesi olarak anlaşılır. Tarih boyunca neyin sanat olarak adlandırılacağına dair fikirler sürekli değişmiş, bu geniş anlama zaman içinde değişik kısıtlamalar getirilip yeni tanımlar yaratılmıştır. Bu tanımlardan en yaygın kabul göreni sanatın edebiyat, resim, müzik, tiyatro, sinema, mimari ve heykel alt türlerinden oluştuğu görüşüdür"
+      ]
+    },
+    {
+      "tag": "edebiyat",
+      "patterns": [
+        "bana edebiyat anlat",
+        "Edebiyat nedir?",
+        "Bana Edebiyat anlat",
+        "Edebiyat ne demek?",
+        "Edebiyat hakkında bilgi ver",
+        "edebiyat hakkında bilgi ver",
+        "edebiyat açıkla",
+        "Edebiyat açıkla",
+        "edebiyat ne demek?",
+        "edebiyat nedir?"
+      ],
+      "responses": [
+        "Edebiyat, yazın veya literatür, dil aracılığıyla; duygu, düşünce, hayal, olay, durum veya herhangi bir olgunun edebî bir tarzda ve etkili bir şekilde yazılı veya sözlü anlatımını gerçekleştiren; malzemesi söz ve ses; muhatabı insan olan bir sanat dalıdır. Edebî yazılar yazan sanatçılara edebiyatçı denir. Daha kısıtlayıcı bir tanımla, edebiyatın; bir sanat formu olarak oluşturulan yazılar olduğu düşünülmüştür"
+      ]
+    },
+    {
+      "tag": "spor",
+      "patterns": [
+        "Spor açıkla",
+        "spor açıkla",
+        "spor nedir?",
+        "Spor ne demek?",
+        "spor ne demek?",
+        "spor hakkında bilgi ver",
+        "Spor hakkında bilgi ver",
+        "Spor nedir?",
+        "Bana Spor anlat",
+        "bana spor anlat"
+      ],
+      "responses": [
+        "Spor, önceden belirlenmiş kurallara göre bireysel veya takım halinde yapılan, genellikle rekabete dayalı yarışma ve kişisel eğlence veya mükemmelliğe ulaşmak için yapılan fiziksel veya zihinsel aktivite. Sporları kabaca homo sapiens türünün medeniyete ulaşmadan önce doğayla veya diğer canlılarla yaptığı fiziksel mücadelelerin günümüzdeki medeni karşılığı olarak da tanımlayabiliriz. Sporlar güç, kardiyovasküler dayanıklılık ve esneklik bazlı veya bunların heterojen birleşiminden oluşmuş kompleks aktiviteler olabilir"
+      ]
+    },
+    {
+      "tag": "hayvanlar",
+      "patterns": [
+        "hayvanlar hakkında bilgi ver",
+        "hayvanlar açıkla",
+        "Hayvanlar ne demek?",
+        "Hayvanlar hakkında bilgi ver",
+        "Hayvanlar açıkla",
+        "hayvanlar nedir?",
+        "Bana Hayvanlar anlat",
+        "bana hayvanlar anlat",
+        "hayvanlar ne demek?",
+        "Hayvanlar nedir?"
+      ],
+      "responses": [
+        "Hayvan, canlılar dünyasının ökaryotlar (Eukaryota) üst âlemindeki hayvanlar (Animalia) âleminde sınıflanan canlıların ortak adıdır. Arapça \"canlı varlık\" anlamındaki ḥayevān sözcüğünden Türkçeye geçmiş olan \"hayvan\" sözcüğü, günlük kullanımda esasen insan dışı, nefes alan ve hareket eden canlıları ifade etmek için kullanılsa da, biyolojik bağlamda insanı da içerir. Anadolu ağızlarında hayvan anlamında bav, bobos, böçü, çer, çokgal, dölük, evcimen, evlük, karaböcü, karaltı, medek, tereke, töm gibi sözcükler kullanılmaktadır"
+      ]
+    },
+    {
+      "tag": "bitkiler",
+      "patterns": [
+        "Bana Bitkiler anlat",
+        "Bitkiler hakkında bilgi ver",
+        "bitkiler ne demek?",
+        "Bitkiler açıkla",
+        "Bitkiler ne demek?",
+        "bana bitkiler anlat",
+        "Bitkiler nedir?",
+        "bitkiler hakkında bilgi ver",
+        "bitkiler nedir?",
+        "bitkiler açıkla"
+      ],
+      "responses": [
+        "Bitkiler, ağırlıklı olarak fotosentetik ökaryot canlılardır. Tarihsel olarak bitkiler alemi, algler ve mantarlar da dahil olmak üzere hayvan olmayan tüm canlıları kapsarken, günümüzde mevcut tüm tanımlamalar prokaryotları, mantarları ve bazı algleri hariç tutar. Tanımlamalardan birine göre: Çiçekli bitkiler, kozalaklı bitkiler ve diğer açık tohumlular, eğrelti otları ve benzerleri, boynuz otları, ciğer otları, kara yosunları ve yeşil algler hep birlikte Viridiplantae (Latince \"yeşil bitkiler\") adı verilen kladı oluştururlar"
+      ]
+    }
+  ]
+}

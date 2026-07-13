@@ -1,0 +1,31 @@
+
+- LinuxUsersLinuxMint Web sitesinde farklı dillerdeki içeriklere erişim sağlamak için konum değiştirme -
+
+İçerik'te neler mevcut:
+
+    LinuxUsersLinuxMint Web sitesi için konum değiştirmek neden önemli?
+    Konum değiştirme
+
+
+LinuxUsersLinuxMint Web sitesi için konum değiştirmek neden önemli?
+
+LinuxUsersLinuxMint Web sitesi Türkçe ve İngilizce olmak üzere içerik desteği sunar. Ancak bir dil kullanılıyorsa diğer dilin içeriğine erişilemez ancak diğer dilin içeriğine erişmek istiyorsanız bunun için konum değiştirmelisiniz.
+
+Konum değiştirme
+
+Web tarayıcınızdaki sağ üstteki üç nokta'ya tıklayınız. (Ardından "Ayarlar" menüsüne tıklayınız.)
+1.webp
+
+Açılan "Ayarlar" sayfasından "Diller" menüsüne tıklayınız.
+2.webp
+
+Açılan "Diller" bölümünde "Dil Ekle" butonuna tıklayınız ve istediğiniz dili eklemek için "Ülke/Dil" adı yazınız örnek: "English"
+3.webp
+
+Ardından eklediğiniz "Ülke/Dil'e" sağ tık yapıp "Google Chrome'u bu dilde görüntüle." yazısına tıklayınız.
+4.webp
+
+Seçtiğiniz dil'de Google Chrome'u görüntülemek için tarayıcıyı yeniden başlatınız.
+5.webp
+
+Evet Konum/Görüntüleme dili değiştirildi Artık "LinuxUsersLinuxMint" Web sitesi için seçtiğiniz "Ülke/Konum"'da içerik görüntüleyebilir veya inceleyebilirsiniz.

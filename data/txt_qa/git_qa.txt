@@ -1,0 +1,5 @@
+Q: Yazılım geliştirirken Git kullanmak bizleri hızlandırır mı?
+A: Git kullanmak yazılım geliştirme süreçlerinizi oldukça hızlandırır ve GUI olmadan yalnızca terminal komutlarıyla çok daha hızlı bir şekilde projelerinizi yönetmenize olanak sağlar.
+
+Q: Git ile GitHub projelerimi yönetebilir miyim?
+A: Tabii ki de Git aracılığıyla Git kullanan yani Git tabanlı repository sistemini kullanan bütün platformlardaki projelerinizi çok kolay bir şekilde yönetebilirsiniz.

@@ -1,0 +1,688 @@
+{
+  "intents": [
+    {
+      "tag": "artificial_intelligence",
+      "patterns": [
+        "Define Artificial intelligence",
+        "Explain Artificial intelligence",
+        "define artificial intelligence",
+        "tell me about artificial intelligence",
+        "explain artificial intelligence",
+        "Can you explain Artificial intelligence?",
+        "what is artificial intelligence?",
+        "can you explain artificial intelligence?",
+        "Tell me about Artificial intelligence",
+        "What is Artificial intelligence?"
+      ],
+      "responses": [
+        "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in engineering, mathematics and computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.\nHigh-profile applications of AI include advanced web search engines, chatbots, virtual assistants, autonomous vehicles, and play and analysis in strategy games (e.g., chess and Go). Since the 2020s, generative AI has become widely available to generate images, audio, and videos from text prompts.\nThe traditional goals of AI research include learning, reasoning, knowledge representation, planning, natural language processing, and perception, as well as support for robotics"
+      ]
+    },
+    {
+      "tag": "computer",
+      "patterns": [
+        "What is Computer?",
+        "Can you explain Computer?",
+        "Explain Computer",
+        "explain computer",
+        "define computer",
+        "tell me about computer",
+        "Define Computer",
+        "what is computer?",
+        "can you explain computer?",
+        "Tell me about Computer"
+      ],
+      "responses": [
+        "A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (computation). Modern digital electronic computers can perform generic sets of operations known as programs, which enable computers to perform a wide range of tasks. The term computer system may refer to a nominally complete computer that includes the hardware, operating system, software, and peripheral equipment needed and used for full operation, or to a group of computers that are linked and function together, such as a computer network or computer cluster.\nNumbering only a few in the 1930s, today computers are ubiquitous over a broad range of industrial and consumer products that use computers as control systems"
+      ]
+    },
+    {
+      "tag": "python_programming_language",
+      "patterns": [
+        "tell me about python (programming language)",
+        "Can you explain Python (programming language)?",
+        "Tell me about Python (programming language)",
+        "explain python (programming language)",
+        "define python (programming language)",
+        "Explain Python (programming language)",
+        "Define Python (programming language)",
+        "what is python (programming language)?",
+        "What is Python (programming language)?",
+        "can you explain python (programming language)?"
+      ],
+      "responses": [
+        "Python is a high-level, general-purpose programming language that emphasizes code readability, simplicity, and ease-of-writing with the use of significant indentation, an extensive (\"batteries-included\") standard library, and garbage collection. Python supports multiple programming paradigms but with an emphasis on object-oriented programming and dynamic typing.\nGuido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language. Python 3.0, released in 2008, was a major revision and not completely backward-compatible with earlier versions"
+      ]
+    },
+    {
+      "tag": "c_programming_language",
+      "patterns": [
+        "explain c (programming language)",
+        "can you explain c (programming language)?",
+        "What is C (programming language)?",
+        "Define C (programming language)",
+        "Tell me about C (programming language)",
+        "what is c (programming language)?",
+        "define c (programming language)",
+        "tell me about c (programming language)",
+        "Explain C (programming language)",
+        "Can you explain C (programming language)?"
+      ],
+      "responses": [
+        "C is a general-purpose programming language created in the 1970s by Dennis Ritchie. By design, C gives programmers relatively direct access to the features of typical CPU architectures, customized for the target instruction set. It has been and continues to be used to implement operating systems (especially kernels), device drivers, and protocol stacks, though its use in application software is decreasing"
+      ]
+    },
+    {
+      "tag": "java_programming_language",
+      "patterns": [
+        "What is Java (programming language)?",
+        "Tell me about Java (programming language)",
+        "Explain Java (programming language)",
+        "tell me about java (programming language)",
+        "explain java (programming language)",
+        "what is java (programming language)?",
+        "can you explain java (programming language)?",
+        "Define Java (programming language)",
+        "define java (programming language)",
+        "Can you explain Java (programming language)?"
+      ],
+      "responses": [
+        "Java is a high-level, general-purpose, memory-safe, object-oriented programming language. It is intended to let programmers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need to recompile. Java applications are usually compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture"
+      ]
+    },
+    {
+      "tag": "c++_programming_language",
+      "patterns": [
+        "tell me about c++ (programming language)",
+        "can you explain c++ (programming language)?",
+        "explain c++ (programming language)",
+        "define c++ (programming language)",
+        "Explain C++ (programming language)",
+        "Tell me about C++ (programming language)",
+        "Define C++ (programming language)",
+        "Can you explain C++ (programming language)?",
+        "what is c++ (programming language)?",
+        "What is C++ (programming language)?"
+      ],
+      "responses": [
+        "C++ is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup. First released in 1985 as an extension of the C programming language, adding object-oriented (OOP) features, it has since expanded significantly over time adding more OOP and other features; as of 1997/C++98 standardization, C++ has added functional features, in addition to facilities for low-level memory manipulation for systems like microcomputers or to make operating systems like Linux or Windows, and even later came features like generic programming (through the use of  templates). C++ is usually implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM.\nC++ was designed with systems programming and embedded, resource-constrained software and large systems in mind, with performance, efficiency, and flexibility of use as its design highlights"
+      ]
+    },
+    {
+      "tag": "javascript_programming_language",
+      "patterns": [
+        "Explain JavaScript (programming language)",
+        "What is JavaScript (programming language)?",
+        "can you explain javascript (programming language)?",
+        "what is javascript (programming language)?",
+        "Can you explain JavaScript (programming language)?",
+        "explain javascript (programming language)",
+        "Tell me about JavaScript (programming language)",
+        "tell me about javascript (programming language)",
+        "define javascript (programming language)",
+        "Define JavaScript (programming language)"
+      ],
+      "responses": [
+        "JavaScript (JS) is a programming language and core technology of the Web, alongside HTML and CSS. Created by Brendan Eich in 1995, it is maintained by Ecma International's TC39 technical committee, with related Web APIs maintained by W3C and WHATWG. As of 2025, JavaScript is the most widely used programming language on GitHub.\nWeb browsers have a dedicated JavaScript engine that executes the client code"
+      ]
+    },
+    {
+      "tag": "pytorch",
+      "patterns": [
+        "define pytorch",
+        "Define PyTorch",
+        "What is PyTorch?",
+        "Can you explain PyTorch?",
+        "what is pytorch?",
+        "can you explain pytorch?",
+        "Explain PyTorch",
+        "Tell me about PyTorch",
+        "tell me about pytorch",
+        "explain pytorch"
+      ],
+      "responses": [
+        "PyTorch is an open-source deep learning library, originally developed by Meta Platforms and currently developed with support from the Linux Foundation. The successor to Torch, PyTorch provides a high-level API that builds upon optimised, low-level implementations of deep learning algorithms and architectures, such as the Transformer, or SGD. Notably, this API simplifies model training and inference to a few lines of code"
+      ]
+    },
+    {
+      "tag": "tensorflow",
+      "patterns": [
+        "Can you explain TensorFlow?",
+        "what is tensorflow?",
+        "explain tensorflow",
+        "What is TensorFlow?",
+        "Define TensorFlow",
+        "can you explain tensorflow?",
+        "tell me about tensorflow",
+        "Tell me about TensorFlow",
+        "Explain TensorFlow",
+        "define tensorflow"
+      ],
+      "responses": [
+        "TensorFlow is a software library for machine learning and artificial intelligence. It can be used across a range of tasks, but is used mainly for training and inference of neural networks. It is one of the most popular deep learning frameworks, alongside others such as PyTorch"
+      ]
+    },
+    {
+      "tag": "linux",
+      "patterns": [
+        "what is linux?",
+        "What is Linux?",
+        "Can you explain Linux?",
+        "can you explain linux?",
+        "explain linux",
+        "tell me about linux",
+        "Tell me about Linux",
+        "Define Linux",
+        "define linux",
+        "Explain Linux"
+      ],
+      "responses": [
+        "Linux ( LIN-uuks) is a family of free and open-source software Unix-like operating systems based on the Linux kernel, which was first released on 17 September 1991 by Linus Torvalds. Some members of the family are typically packaged as a distribution (a.k.a. distro), which includes the kernel alongside supporting system software and libraries developed by third parties—such as GNU, Red Hat, and X.Org—to create a complete operating system; however, not all Linux-based operating systems are considered distros, with Android being an example"
+      ]
+    },
+    {
+      "tag": "deep_learning",
+      "patterns": [
+        "What is Deep learning?",
+        "define deep learning",
+        "what is deep learning?",
+        "Can you explain Deep learning?",
+        "tell me about deep learning",
+        "can you explain deep learning?",
+        "Tell me about Deep learning",
+        "explain deep learning",
+        "Define Deep learning",
+        "Explain Deep learning"
+      ],
+      "responses": [
+        "In machine learning, deep learning (DL) focuses on utilizing multilayered neural networks to perform tasks such as classification, regression, and representation learning. The field takes inspiration from biological neuroscience and revolves around stacking artificial neurons into layers and \"training\" them to process data. The adjective \"deep\" refers to the use of multiple layers (ranging from three to several hundred or thousands) in the network"
+      ]
+    },
+    {
+      "tag": "assembly_language",
+      "patterns": [
+        "explain assembly language",
+        "can you explain assembly language?",
+        "What is Assembly language?",
+        "Explain Assembly language",
+        "Define Assembly language",
+        "Can you explain Assembly language?",
+        "Tell me about Assembly language",
+        "define assembly language",
+        "what is assembly language?",
+        "tell me about assembly language"
+      ],
+      "responses": [
+        "In computing, assembly language (alternatively assembler language or symbolic machine code), often referred to simply as assembly and commonly abbreviated as ASM or asm, is any low-level programming language with a very strong correspondence between the instructions in the language and the architecture's machine code instructions. Assembly language usually has one statement per machine code instruction (1:1), but  constants, comments, assembler directives, symbolic labels of, e.g., memory locations, registers, and macros are generally also supported.\nThe first assembly code in which a language is used to represent machine code instructions is found in Kathleen and Andrew Donald Booth's 1947 work, Coding for A.R.C.. Assembly code is converted into executable machine code by a utility program referred to as an assembler"
+      ]
+    },
+    {
+      "tag": "neural_network",
+      "patterns": [
+        "Explain Neural network",
+        "tell me about neural network",
+        "define neural network",
+        "What is Neural network?",
+        "explain neural network",
+        "Define Neural network",
+        "can you explain neural network?",
+        "what is neural network?",
+        "Can you explain Neural network?",
+        "Tell me about Neural network"
+      ],
+      "responses": [
+        "A neural network is a group of interconnected units called neurons that send signals to one another. Neurons can be either biological cells or mathematical models. While individual neurons are simple, many of them together in a network can perform complex tasks"
+      ]
+    },
+    {
+      "tag": "windows_10",
+      "patterns": [
+        "explain windows 10",
+        "tell me about windows 10",
+        "Explain Windows 10",
+        "can you explain windows 10?",
+        "Tell me about Windows 10",
+        "What is Windows 10?",
+        "what is windows 10?",
+        "Define Windows 10",
+        "define windows 10",
+        "Can you explain Windows 10?"
+      ],
+      "responses": [
+        "Windows 10 is a major release of the Windows NT operating system developed by Microsoft. The successor to Windows 8.1, it was released to manufacturing on July 15, 2015, became generally available on July 29, 2015, and was a free upgrade to users of Windows 7, 8, and 8.1. Its server counterparts are Windows Server 2016, 2019, and 2022"
+      ]
+    },
+    {
+      "tag": "windows_11",
+      "patterns": [
+        "Can you explain Windows 11?",
+        "what is windows 11?",
+        "What is Windows 11?",
+        "Tell me about Windows 11",
+        "Define Windows 11",
+        "can you explain windows 11?",
+        "explain windows 11",
+        "define windows 11",
+        "Explain Windows 11",
+        "tell me about windows 11"
+      ],
+      "responses": [
+        "Windows 11 is the current major release of Microsoft's Windows NT operating system, released on October 5, 2021, as the successor to Windows 10 (2015). It is available as a free upgrade for devices running Windows 10 that meet its system requirements. The Windows Server counterpart, Windows Server 2025, was released in 2024"
+      ]
+    },
+    {
+      "tag": "microsoft",
+      "patterns": [
+        "Define Microsoft",
+        "what is microsoft?",
+        "tell me about microsoft",
+        "explain microsoft",
+        "Tell me about Microsoft",
+        "can you explain microsoft?",
+        "What is Microsoft?",
+        "Can you explain Microsoft?",
+        "Explain Microsoft",
+        "define microsoft"
+      ],
+      "responses": [
+        "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud computing, artificial intelligence, video gaming, and more. A Big Tech company, Microsoft is the largest software company by revenue, one of the most valuable public companies, and one of the most valuable brands globally.\nFounded in 1975 by Bill Gates and Paul Allen to market BASIC interpreters for the Altair 8800, Microsoft rose to dominate the PC operating system market with MS-DOS in the mid-1980s, followed by Windows"
+      ]
+    },
+    {
+      "tag": "google",
+      "patterns": [
+        "explain google",
+        "Can you explain Google?",
+        "Tell me about Google",
+        "Define Google",
+        "tell me about google",
+        "can you explain google?",
+        "What is Google?",
+        "what is google?",
+        "Explain Google",
+        "define google"
+      ],
+      "responses": [
+        "Google LLC ( , GOO-gəl) is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI). It has been referred to as \"the most powerful company in the world\" by the BBC, and is one of the world's most valuable brands. Google's parent company Alphabet Inc"
+      ]
+    },
+    {
+      "tag": "openai",
+      "patterns": [
+        "Tell me about OpenAI",
+        "explain openai",
+        "Define OpenAI",
+        "tell me about openai",
+        "can you explain openai?",
+        "What is OpenAI?",
+        "Can you explain OpenAI?",
+        "Explain OpenAI",
+        "define openai",
+        "what is openai?"
+      ],
+      "responses": [
+        "OpenAI is an American artificial intelligence (AI) research organization headquartered in San Francisco, consisting of OpenAI Group PBC, a for-profit public benefit corporation (PBC), partially controlled by OpenAI Foundation, a nonprofit. OpenAI develops generative AI models, particularly the GPT series of large language models. Its release of ChatGPT in November 2022 has been credited with catalyzing the AI boom, and widespread interest in generative AI.\nOpenAI was founded in 2015 in Delaware as a nonprofit"
+      ]
+    },
+    {
+      "tag": "microsoft_office",
+      "patterns": [
+        "define microsoft office",
+        "can you explain microsoft office?",
+        "Can you explain Microsoft Office?",
+        "What is Microsoft Office?",
+        "Tell me about Microsoft Office",
+        "explain microsoft office",
+        "what is microsoft office?",
+        "Define Microsoft Office",
+        "tell me about microsoft office",
+        "Explain Microsoft Office"
+      ],
+      "responses": [
+        "Microsoft Office, MS Office, or simply Office, is an office suite and (formerly) a family of client software, server software, and services developed by Microsoft. The first version of the Office suite, announced by Bill Gates on August 1, 1988, at COMDEX, contained Microsoft Word, Microsoft Excel, and Microsoft PowerPoint, all three of which remain core products in Office. Over time, the Office suite has grown substantially, adding programs such as OneNote and Outlook; the suite has also been made highly extensible with the use of the VBA scripting language.\nThe suite currently includes a word processor (Word), a spreadsheet program (Excel), a presentation program (PowerPoint), a note-taking program (OneNote), and an email client (Outlook); the Windows version also includes a database management system (Access)"
+      ]
+    },
+    {
+      "tag": "libreoffice",
+      "patterns": [
+        "What is LibreOffice?",
+        "Explain LibreOffice",
+        "tell me about libreoffice",
+        "what is libreoffice?",
+        "explain libreoffice",
+        "Can you explain LibreOffice?",
+        "can you explain libreoffice?",
+        "define libreoffice",
+        "Define LibreOffice",
+        "Tell me about LibreOffice"
+      ],
+      "responses": [
+        "LibreOffice () is a free and open-source office productivity software suite developed by The Document Foundation (TDF). It was created in 2010 as a fork of OpenOffice.org, itself a successor to the defunct StarOffice. The suite includes applications for word processing (Writer), spreadsheets (Calc), presentations (Impress), vector graphics (Draw), database management (Base), and formula editing (Math)"
+      ]
+    },
+    {
+      "tag": "chatgpt",
+      "patterns": [
+        "Define ChatGPT",
+        "Tell me about ChatGPT",
+        "can you explain chatgpt?",
+        "What is ChatGPT?",
+        "explain chatgpt",
+        "tell me about chatgpt",
+        "Explain ChatGPT",
+        "Can you explain ChatGPT?",
+        "what is chatgpt?",
+        "define chatgpt"
+      ],
+      "responses": [
+        "ChatGPT is a generative artificial intelligence chatbot developed by OpenAI. Originally released in November 2022, the product uses large language models—specifically generative pre-trained transformers (GPTs)—to generate text, speech, and images in response to user prompts. ChatGPT accelerated the AI boom, an ongoing period marked by rapid investment and public attention toward the field of artificial intelligence (AI)"
+      ]
+    },
+    {
+      "tag": "gemini",
+      "patterns": [
+        "Define Gemini",
+        "What is Gemini?",
+        "what is gemini?",
+        "can you explain gemini?",
+        "Tell me about Gemini",
+        "define gemini",
+        "tell me about gemini",
+        "Can you explain Gemini?",
+        "Explain Gemini",
+        "explain gemini"
+      ],
+      "responses": [
+        "Gemini most often refers to:\n\nGemini (constellation), one of the constellations of the zodiac\nGemini (astrology), an astrological sign\nGemini (language model), series of large language models developed by Google\nGoogle Gemini, chatbot\nGemini may also refer to:"
+      ]
+    },
+    {
+      "tag": "artificial_neural_network",
+      "patterns": [
+        "Explain Artificial neural network",
+        "explain artificial neural network",
+        "Tell me about Artificial neural network",
+        "Can you explain Artificial neural network?",
+        "what is artificial neural network?",
+        "Define Artificial neural network",
+        "What is Artificial neural network?",
+        "define artificial neural network",
+        "tell me about artificial neural network",
+        "can you explain artificial neural network?"
+      ],
+      "responses": [
+        "In machine learning, a neural network (NN) or neural net, is a computational model inspired by the structure and functions of biological neural networks.\nA neural network consists of connected units or nodes called artificial neurons, which loosely model the neurons in the brain. Artificial neuron models that mimic biological neurons more closely have also been recently investigated and shown to significantly improve performance. These are connected by edges, which model the synapses in the brain"
+      ]
+    },
+    {
+      "tag": "deep_neural_network",
+      "patterns": [
+        "what is deep neural network?",
+        "Can you explain Deep neural network?",
+        "Define Deep neural network",
+        "explain deep neural network",
+        "Tell me about Deep neural network",
+        "define deep neural network",
+        "can you explain deep neural network?",
+        "What is Deep neural network?",
+        "Explain Deep neural network",
+        "tell me about deep neural network"
+      ],
+      "responses": [
+        "In machine learning, deep learning (DL) focuses on utilizing multilayered neural networks to perform tasks such as classification, regression, and representation learning. The field takes inspiration from biological neuroscience and revolves around stacking artificial neurons into layers and \"training\" them to process data. The adjective \"deep\" refers to the use of multiple layers (ranging from three to several hundred or thousands) in the network"
+      ]
+    },
+    {
+      "tag": "office_suite",
+      "patterns": [
+        "can you explain office suite?",
+        "define office suite",
+        "explain office suite",
+        "What is Office suite?",
+        "Tell me about Office suite",
+        "Can you explain Office suite?",
+        "Define Office suite",
+        "what is office suite?",
+        "tell me about office suite",
+        "Explain Office suite"
+      ],
+      "responses": [
+        "Productivity software (also called personal productivity software or office productivity software) is application software used for producing information (such as documents, presentations, worksheets, databases, charts, graphs, digital paintings, electronic music and digital video). Its names arose from it increasing productivity, especially of individual office workers, from typists to knowledge workers, although its scope is now wider than that. Office suites, which brought word processing, spreadsheet, and relational database programs to the desktop in the 1980s, are the core example of productivity software"
+      ]
+    },
+    {
+      "tag": "cars",
+      "patterns": [
+        "define cars",
+        "Explain Cars",
+        "Can you explain Cars?",
+        "explain cars",
+        "Tell me about Cars",
+        "can you explain cars?",
+        "What is Cars?",
+        "what is cars?",
+        "tell me about cars",
+        "Define Cars"
+      ],
+      "responses": [
+        "A car, or an automobile, is a motor vehicle with wheels. Most definitions of cars state that they run primarily on roads, seat 1-8 people, have four wheels, and mainly transport people rather than cargo. There are over 1.6 billion cars in use worldwide as of  2025.\nThe French inventor Nicolas-Joseph Cugnot built the first steam-powered road vehicle in 1769, while the Swiss inventor François Isaac de Rivaz designed and constructed the first internal combustion-powered automobile in 1808"
+      ]
+    },
+    {
+      "tag": "bmw",
+      "patterns": [
+        "explain bmw",
+        "Explain BMW",
+        "Tell me about BMW",
+        "Define BMW",
+        "Can you explain BMW?",
+        "what is bmw?",
+        "define bmw",
+        "What is BMW?",
+        "tell me about bmw",
+        "can you explain bmw?"
+      ],
+      "responses": [
+        "Bayerische Motoren Werke Aktiengesellschaft (BMW AG), trading as BMW Group (commonly abbreviated to BMW (German pronunciation: [ˌbeːʔɛmˈveː] ), sometimes anglicised as Bavarian Motor Works), is a German multinational conglomerate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Germany. The moniker \"BMW \" first came into use when the German firm Rapp Motorenwerke changed its name to Bayerische Motoren Werke GmbH (BMW GmbH) in 1917. Thereafter, in 1922, the name and assets of BMW GmbH were transferred to the aircraft manufacturer Bayerische Flugzeugwerke AG (formerly Otto Flugmaschinenfabrik), thereby giving rise to the company known today as BMW AG.\nBMW AG's automobiles are marketed under the BMW, Mini, and Rolls-Royce brands while its motorcycles are marketed under the BMW Motorrad brand"
+      ]
+    },
+    {
+      "tag": "ferrari",
+      "patterns": [
+        "tell me about ferrari",
+        "Explain Ferrari",
+        "can you explain ferrari?",
+        "what is ferrari?",
+        "Can you explain Ferrari?",
+        "explain ferrari",
+        "define ferrari",
+        "Define Ferrari",
+        "Tell me about Ferrari",
+        "What is Ferrari?"
+      ],
+      "responses": [
+        "Ferrari S.p.A. (; Italian: [ferˈraːri]) is an Italian luxury sports car manufacturer based in Maranello, Italy. Founded in 1939 by Enzo Ferrari (1898–1988), the company built its first car in 1940, adopted its current name in 1945, and began to produce its current line of road cars in 1947"
+      ]
+    },
+    {
+      "tag": "tesla",
+      "patterns": [
+        "Tell me about Tesla",
+        "explain tesla",
+        "tell me about tesla",
+        "Define Tesla",
+        "Explain Tesla",
+        "define tesla",
+        "can you explain tesla?",
+        "What is Tesla?",
+        "what is tesla?",
+        "Can you explain Tesla?"
+      ],
+      "responses": [
+        "Tesla most commonly refers to:\n\nNikola Tesla (1856–1943), a Serbian-American electrical engineer and inventor\nTesla, Inc., an American electric vehicle and clean energy company, formerly Tesla Motors, Inc.\nTesla (unit) (symbol: T), the SI-derived unit of magnetic flux density\nTesla may also refer to:"
+      ]
+    },
+    {
+      "tag": "lamborghini",
+      "patterns": [
+        "define lamborghini",
+        "Define Lamborghini",
+        "tell me about lamborghini",
+        "What is Lamborghini?",
+        "can you explain lamborghini?",
+        "explain lamborghini",
+        "what is lamborghini?",
+        "Explain Lamborghini",
+        "Tell me about Lamborghini",
+        "Can you explain Lamborghini?"
+      ],
+      "responses": [
+        "Lamborghini (officially Automobili Lamborghini S.p.A. and colloquially Lambo) is an Italian manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese. The company is owned by the Volkswagen Group through its subsidiary Audi.\nFerruccio Lamborghini (1916–1993), an Italian manufacturing magnate, founded Automobili Ferruccio Lamborghini S.p.A"
+      ]
+    },
+    {
+      "tag": "audi",
+      "patterns": [
+        "Tell me about Audi",
+        "define audi",
+        "Can you explain Audi?",
+        "what is audi?",
+        "Explain Audi",
+        "Define Audi",
+        "What is Audi?",
+        "tell me about audi",
+        "can you explain audi?",
+        "explain audi"
+      ],
+      "responses": [
+        "Audi AG is a German automotive manufacturer of luxury vehicles headquartered in Ingolstadt, Bavaria, Germany. As a wholly owned subsidiary of the Volkswagen Group, Audi produces vehicles in nine production facilities worldwide.\nThe origins of the company are complex, dating back to the early 20th century and the initial enterprises (Horch and the Audiwerke) founded by engineer August Horch. Two other manufacturers (DKW and Wanderer) also contributed to the foundation of Auto Union in 1932"
+      ]
+    },
+    {
+      "tag": "bentley",
+      "patterns": [
+        "What is Bentley?",
+        "Define Bentley",
+        "define bentley",
+        "tell me about bentley",
+        "what is bentley?",
+        "explain bentley",
+        "Tell me about Bentley",
+        "can you explain bentley?",
+        "Can you explain Bentley?",
+        "Explain Bentley"
+      ],
+      "responses": [
+        "Bentley Motors Limited is a British designer, manufacturer and marketer of luxury cars and SUVs. Headquartered in Crewe, England, the company was founded by W. O"
+      ]
+    },
+    {
+      "tag": "rolls-royce",
+      "patterns": [
+        "explain rolls-royce",
+        "Can you explain Rolls-Royce?",
+        "Tell me about Rolls-Royce",
+        "can you explain rolls-royce?",
+        "what is rolls-royce?",
+        "tell me about rolls-royce",
+        "Explain Rolls-Royce",
+        "What is Rolls-Royce?",
+        "Define Rolls-Royce",
+        "define rolls-royce"
+      ],
+      "responses": [
+        "Rolls-Royce may refer to:\n\nRolls-Royce Limited, a British manufacturer of cars and later aircraft engines, founded in 1906, now defunct\nRolls-Royce Motors, owner of the former car division incorporated in 1973 and folded in 1998\nRolls-Royce Motor Cars, the current car manufacturing company incorporated in 1998, a subsidiary of BMW Group\nRolls-Royce Holdings plc, an aerospace, power systems and defence company and Rolls-Royce's current principal operating company\nRolls-Royce Controls and Data Services\nRolls-Royce Deutschland\nRolls-Royce Power Systems\nRolls-Royce North America\nRolls-Royce Submarines\nRolls-Royce Turbomeca"
+      ]
+    },
+    {
+      "tag": "bugatti",
+      "patterns": [
+        "Tell me about Bugatti",
+        "Can you explain Bugatti?",
+        "Explain Bugatti",
+        "tell me about bugatti",
+        "explain bugatti",
+        "define bugatti",
+        "What is Bugatti?",
+        "Define Bugatti",
+        "can you explain bugatti?",
+        "what is bugatti?"
+      ],
+      "responses": [
+        "Automobiles Ettore Bugatti was a French manufacturer of high-performance automobiles. The company was founded in 1909 in the then-German city of Molsheim, Alsace, by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and numerous race victories"
+      ]
+    },
+    {
+      "tag": "togg",
+      "patterns": [
+        "define togg",
+        "What is TOGG?",
+        "Can you explain TOGG?",
+        "Explain TOGG",
+        "explain togg",
+        "Define TOGG",
+        "tell me about togg",
+        "what is togg?",
+        "Tell me about TOGG",
+        "can you explain togg?"
+      ],
+      "responses": [
+        "TOGG (stylised as Togg), acronym of Türkiye'nin Otomobili Girişim Grubu (lit. 'Turkey's Automobile Joint Venture Group'), is a Turkish automotive manufacturer of electric cars headquartered in Gebze, Kocaeli Province, Turkey. The company was founded as a joint venture by five Turkish companies in 2018. An assembly plant was opened in 2022 in Gemlik, Bursa province, next to Togg's subsidiary Siro which produces the lithium-ion batteries"
+      ]
+    },
+    {
+      "tag": "machine_learning",
+      "patterns": [
+        "define machine learning",
+        "Tell me about Machine learning",
+        "tell me about machine learning",
+        "What is Machine learning?",
+        "explain machine learning",
+        "what is machine learning?",
+        "Define Machine learning",
+        "Can you explain Machine learning?",
+        "can you explain machine learning?",
+        "Explain Machine learning"
+      ],
+      "responses": [
+        "Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from  data and generalize to unseen data, and thus perform tasks without being explicitly programmed. Advances in the field of deep learning have allowed neural networks, a class of statistical algorithms, to surpass many previous machine learning approaches in performance.\nStatistics and mathematical optimisation methods compose the foundations of machine learning. Data mining is a related field of study, focusing on exploratory data analysis (EDA) through unsupervised learning.\nFrom a theoretical viewpoint, probably approximately correct learning provides a mathematical and statistical framework for describing machine learning"
+      ]
+    },
+    {
+      "tag": "operating_system",
+      "patterns": [
+        "Explain Operating system",
+        "define operating system",
+        "What is Operating system?",
+        "Tell me about Operating system",
+        "what is operating system?",
+        "tell me about operating system",
+        "can you explain operating system?",
+        "Define Operating system",
+        "explain operating system",
+        "Can you explain Operating system?"
+      ],
+      "responses": [
+        "An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs.\nTime-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, peripherals, and other resources.\nFor hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware, although the application code is usually executed directly by the hardware and frequently makes system calls to an OS function or is interrupted by it. Operating systems are found on many devices that contain a computer – from cellular phones and video game consoles to web servers and supercomputers.\nAs of November 2025, Android is the most popular operating system, with a 38% market share, followed by Microsoft Windows at 33%, iOS and iPadOS at 15%, macOS at 4%, and Linux at 1%. Android, iOS, and iPadOS are operating systems for mobile devices such as smartphones, while Windows, macOS, and Linux are for desktop computers"
+      ]
+    },
+    {
+      "tag": "database",
+      "patterns": [
+        "What is Database?",
+        "tell me about database",
+        "Tell me about Database",
+        "Define Database",
+        "Can you explain Database?",
+        "explain database",
+        "can you explain database?",
+        "define database",
+        "what is database?",
+        "Explain Database"
+      ],
+      "responses": [
+        "In computing, a database is an organized collection of data or a type of data store based on the use of a database management system (DBMS), the software that interacts with end users, applications, and the database itself to capture and analyze the data. The DBMS additionally encompasses the core facilities provided to administer the database. The sum total of the database, the DBMS and the associated applications can be referred to as a database system"
+      ]
+    }
+  ]
+}

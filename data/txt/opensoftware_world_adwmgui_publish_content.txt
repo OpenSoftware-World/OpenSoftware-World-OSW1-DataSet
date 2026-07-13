@@ -1,0 +1,15 @@
+- AdWMGUI (Advanced Windows Manager GUI) Bugün yayınlanıcaktır -
+
+İçerik'te neler mevcut:
+
+    AdWMGUI hangi tarihte yayımlanacak?
+    AdWMGUI ilk olarak hangi platformdan indirilebilir olucak?
+
+
+AdWMGUI hangi tarihte yayımlanacak?
+
+AdWM yazılımının yeni sürümü olan AdWMGUI 01/29/2024 00:00 (29 Ocak, 2024) tarihinde yayınlanacaktır.
+
+AdWMGUI ilk olarak hangi platformdan indirilebilir olucak?
+
+AdWMGUI sürümü yayımlandığı andan itibaren (01/29/2024 00:00 (29 Ocak, 2024)) 03/01/2024 (1 Mart, 2024) Tarihine kadar sadece LinuxUsersLinuxMint web sitesinden indirilebilir olucaktır ardından 03/01/2024 (1 Mart, 2024) Tarihinde ise GitHub'dan da indirilebilir olucaktır.

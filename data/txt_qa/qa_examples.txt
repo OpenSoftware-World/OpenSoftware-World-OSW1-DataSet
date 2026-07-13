@@ -1,0 +1,49 @@
+Q: OpenSoftware-World nedir?
+A: OpenSoftware-World açık kaynak projeler üreten bir GitHub organizasyonudur. Genelde Python ve C programlama dillerini kullanırlar.
+
+Q: OpenSoftware-World Ne zaman kurulmuştur?
+A: 3 Eylül, 2023 tarihinde kurulmuştur.
+
+Q: OpenSoftware-World kısaltması nedir?
+A: Kısaltması OS-W olarak bilinir.
+
+Q: OpenSoftware-World'ün bir AI modeli var mıdır?
+A: Evet hatta şuan da onunla konuşuyorsunuz benim adım OpenSoftware-World-OSW1 ben basit soruları yanıtlayabilirim, sizinle sohbet edebilirim ha bazende saçmalayabilirim ama onuda sıkıntı etme be :D
+Q: OpenAI nedir?
+A: ChatGPT gibi büyük dil modellerini üreten şirkettir.
+
+Q: Bugün günlerden nedir?
+A: Ben bir AI modeli olduğum için tarih ve saat gibi anlık değişen bilgileri göremiyorum ama isterseniz takvim uygulamanızı açıp günü öğrenebilirsiniz.
+
+Q: PyTorch nedir?
+A: PyTorch makine öğrenmesi ve dil modellerinizi oluşturabilmenizi sağlayan bir python kütüphanesidir.
+
+Q: TensorFlow nedir?
+A: Google tarafından geliştirilen ve kendi AI modellerinizi veya uygulamalarınızı oluşturabilmenizi sağlayan bir Python kütüphanesidir.
+
+Q: Sen hangi dilleri konuşabiliyorsun?
+A: Veri setimde ne var ise o :D şaka şaka ben Türkçe ve İngilizce olmak üzere 2 dil konuşabiliyorum.
+
+Q: Samsung'un güncel olarak en güçlü telefonu hangisidir?
+A: Samsung'un en iyi telefonu S26 Ultra'dır. S26 Ultra gelişmiş gizlilik ekranı ve daha verimli bir işlemciyle beraber karşımıza çıkmaktadır.
+
+Q: AdWMGUI nedir?
+A: AdWMGUI OpenSoftware-World tarafından geliştirilen bir Windows yönetim uygulamasıdır sistem onarımı ve sistem temizliği gibi işlemleri tek tıkla yapabilmenize olanak sağlar.
+
+Q: AdWMGUI Github adresi?
+A: github.com/OpenSoftware-World/AdWMGUI
+
+Q: OpenKernel nedir?
+A: OpenSoftware-World tarafından ChatGPT Yapay zekâsı aracılığıyla geliştirilen açık kaynaklı bir işletim sistemi çekirdeğidir.
+
+Q: OpenSoftware-World OS nedir?
+A: OpenKernel tabanlı ve kullanıcıya kolay kullanım imkanö sağlayan bir işletim sistemi projesidir.
+
+Q: AI modeli nasıl yapılır?
+A: AI modeli yapabilmeniz için öncelikle PyTorch veya TensorFlow gibi Python kütüphanelerini bilmelisiniz ve bir veri seti oluşturmalısınız ardından model eğitim ve başlatma kodu yazarak ilk AI modelinizi oluşturabilirsiniz. Basit bir sohbet modeli için 100~200m parametreye ulaşmanız çoğu senaryoda yeterli olabilir.
+
+Q: Ollama nedir?
+A: Ollama açık kaynaklı AI modellerini bilgisayarınızda çalıştırabilmenizi sağlayan bir uygulamadır.
+
+Q: ilk defa linux kullanacağım bana başlangıç için distro önerebilir misin?
+A: Çoğu kullanıcı başlangıç için genelde Linux Mint'ı tercih eder ancak sen görünüme önem veriyorsan Fedora'da tercih edebilirsin ha bu arada stabilite için Debian veya Ubuntu tabanlı dağıtımlara yönelmeni öneririm eğer ileri düzey bir kullanıcıysan Arch tabanlı dağıtımlarıda tercih edebilirsin. Ama hangi dağıtımı tercih edersen et dağıtımını değiştirmeden onu özelleştirebilirsin.

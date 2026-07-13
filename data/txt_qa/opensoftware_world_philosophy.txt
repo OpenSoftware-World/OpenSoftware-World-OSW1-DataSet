@@ -1,0 +1,23 @@
+Q: Kısaca OpenSoftware-World felsefesini açıklayabilir misin?
+A: Bizler, OpenSoftware-World olarak kullanıcıya en iyi ve en rahat yazılımı sunmayı hedefleriz ve yaptığımız işi de buna göre yaparız. OpenSoftware-World olarak yazılımlarımızın erişilebilir olması önceliğimizdir yazılımlarımızda erişilebilirliğe dikkat ediyoruz ve yazılımlarımızın kullanışlı olmasına ve sürdürülebilirliğine dikkat ediyoruz. Bu yazımızda sizlere düşüncelerimizi en iyi şekilde anlatmaya çalışacağız.
+
+Q: OpenSoftware-World felsefesi neyi hedefler?
+A: OpenSoftware-World felsefesi daha iyi, erişilebilir, sürdürülebilirliği ve kullanım kolaylığını hedefler bu yüzden bütün yazılımlarımızda "Yardım / Hakkında" bölümlerimiz vardır.
+
+Q: OpenSoftware-World ilkeleri nelerdir?
+A: 1. Kullanıcı memnuniyeti, 2. Yazılımların kullanılabilir olması, 3. Olabildiğince (en az) sorunsuz yazılım, 4. Dürüstlük (Güvenilirlik), 5. Kullanım kolaylığı
+
+Q: OpenSoftware-World felsefesinin "Kullanıcı memnuniyeti" ilkesini açıklayabilir misin?
+A: OpenSoftware-World olarak yazılımlarımızda kullanıcı memnuniyetini önemsiyoruz bu yüzden de kullanıcıların fikirlerini ve yazılımlarımızda olan sorunları/eksikleri bizlere bildirebilmeleri için yazılımlarımız açık kaynak olarak yayımlıyoruz ve kullanıcının yazılımı rahat bir şekilde kullanabilmeleri için yazılımlarımızı sunmadan önce yazılımlarımızın dosya yapısını düzenliyoruz.
+
+Q: OpenSoftware-World felsefesinin "Yazılımların kullanılabilir olması" ilkesini açıklayabilir misin?
+A: OpenSoftware-World olarak yaptığımız bütün yazılımlarımızın kullanılabilir olmasına önem gösteriyoruz bu yüzden yazılımlarımızı olabildiğince iyi bir şekilde düzenliyoruz (Kullanıma sunulmadan önce). ve ayrıca diğer insanların yapmış olduğu projelere (yazılımlara) OpenSoftware-World olarak katkıda bulunmaya çalışıyoruz. (Örn: "Artado Search")
+
+Q: OpenSoftware-World felsefesinin "Olabildiğince (en az) sorunsuz yazılım" ilkesini açıklayabilir misin?
+A: OpenSoftware-World olarak yazılımlarımızı sunmadan önce düzenliyoruz ve optimize ediyoruz (yapılan işlemleri en rahat/en basit yöntemlerle yapmaya çalışıyoruz) ve yazılımlarımızı sunmadan önce test ediyoruz eğer yazılımlarımızı test etmediysek bunu belirtiyoruz. Çünkü kullanıcıların bizlere güvenmesini ve yaptığımız yazılımları olabildiğince rahat bir şekilde kullanabilmelerini istiyoruz.
+
+Q: OpenSoftware-World felsefesinin "Dürüstlük (Güvenilirlik)" ilkesini açıklayabilir misin?
+A: OpenSoftware-World olarak dürüst davranmaya yani güvenilir olmaya özen gösteriyoruz bizler kullanıcıyı hiç bir şekilde ticari olarak kandırmayız. Güvenilirlik bizim için en önemli ilkelerden bir tanesidir kullanıcıların bizlere güvenmesini ve bütün yazılımlarımızı herhangi bir şüphe olmadan kullanabilmelerini istiyoruz.
+
+Q: OpenSoftware-World felsefesinin "Kullanım kolaylığı" ilkesini açıklayabilir misin?
+A: OpenSoftware-World olarak ürettiğimiz bütün yazılımları olabilidğince kolay bir kullanıma sahip olmasını sağlarız çünkü kullanıcıların bir yazılımı olabildiğince sorunsuz ve rahat bir şekilde kullanabilmeleri gerektiğini düşünüyoruz.

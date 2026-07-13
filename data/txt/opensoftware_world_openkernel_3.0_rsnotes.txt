@@ -1,0 +1,39 @@
+🕒 Changes:
+
+    OpenKernel 3.0 has been released.
+    Improvements have been made to the publishing workflow system.
+    The necessary files have been added to make it easier to develop an OS using OpenKernel.
+    A simple VFS (Virtual File System) has been added for OpenKernel.
+    The FAT12, FAT16, and FAT32 file systems have been added to OpenKernel.
+    The mouse driver has been added, the VGA driver has been made compatible with the mouse driver, and the sb16 audio driver information has been added to the “openkernel_driver_desc.h” file.
+    Intel E1000, Realtek 8139 hardware drivers, the Ethernet layer driver, and the PCI bus driver have been added.
+    The sb16 audio driver has been added for OpenKernel. (There are some bugs.)
+    Fix typo.
+    Bug fix.
+    Simple paging has been added for OpenKernel.
+    New features and macros have been added to the types.h library.
+    Variables have been added to store information related to OpenKernel hardware drivers.
+    The necessary information for the task management library has been added, and variables have been added to store information about all libraries for the “OpenKernel System Libraries” system package.
+    The necessary information for the serial (COM1_PORT) driver has been added.
+    Support for kernel panic error codes and a more user-friendly interface design.
+    An error screen has been added for OpenKernel.
+    A serial (COM1_PORT) driver has been added for OpenKernel.
+    The “qemu_log_message” function has been added to the QEMU I/O library to simplify the logging process.
+    Minor adjustments to the I/O libraries.
+    The names of the “basic_syscall.h” and “basic_syscall.c” files have been changed to “syscall.h” and “syscall.c”.
+    A number of optimizations have been made for OpenKernel.
+    A fake task manager library has been added for OpenKernel.
+    Enhance vga_cursor_mode with parameter comments.
+    The structure created to store information about hardware driver modules developed for OpenKernel has been updated.
+    Variables have been created for the necessary definitions added for the system libraries developed for OpenKernel.
+    The necessary definitions for the system libraries developed for OpenKernel have been added.
+    The structure created to store information about the system library modules developed for OpenKernel has been updated.
+    The inclusion method used in the “log.h” file has been changed.
+    Add Star History section to README.
+    Stabilization and performance improvements to the log_message function.
+    Fix include path and formatting in header file.
+    Add driver_author to openkernel_drivers_information struct
+    The inclusion method has been changed for all files.
+    The functions in the “basic_syscall.h” file have been moved to their respective categories, and a simple system call system has been created for OpenKernel. (Preliminary work for SDK development)
+    A NOP function has been added for the CPU driver.
+

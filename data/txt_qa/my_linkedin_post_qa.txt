@@ -1,0 +1,23 @@
+Q: Ollama nedir?
+A: Ollama, açık kaynaklı AI modellerini bilgisayarımıza kurup kullanabilmemizi sağlayan gelişmiş bir AI aracıdır. Aynı zamanda kendi AI modellerimizi veya özelleştirmelerimizi de yayımlayabiliyoruz.
+
+Q: Neden Ollama kullanılmalı?
+A: Eğer aktif olarak Yapay Zekâ ile ilgilenen birisiyseniz ve gizliliğe oldukça önem veriyorsanız bu sebepten dolayı Ollama aracını kurulumu ve kullanması çok kolay olduğu için Ollama'yı kullanabilirsiniz.
+
+Q: Ollama nasıl kurulur?
+A: Ollama'yı bilgisayarınıza kurmak için ilk öncelikle kullandığınız web tarayıcısına girip arama kısmına "Ollama" yazınız ardından "https://ollama.com/" bağlantısına tıklayınız. Ardından resmi sitesine girdikten sonra "Download Ollama" sekmesine geliniz ilgili sekmeye geldikten sonra İşletim sisteminizi seçiniz.
+
+Q: macOS'a Ollama nasıl kurulur?
+A: macOS: * curl -fsSL ollama.com/install.sh | sh komutunu terminalinizde çalıştırabilirsiniz veya altındaki "Download for macOS" butonuna tıklayarak indirme işleminizi gerçekleştirebilirsiniz.
+
+Q: Linux'a Ollama nasıl kurulur?
+A: Linux (Linux Dağıtımları): * curl -fsSL ollama.com/install.sh | sh komutunu terminalinizde çalıştırarak indirme işleminizi gerçekleştirebilirsiniz.
+
+Q: Windows'a Ollama nasıl kurulur?
+A: Windows: * irm ollama.com/install.ps1 | iex komutunu terminalinizde çalıştırarak veya altındaki "Download for Windows" butonuna tıklayarak indirme işleminizi gerçekleştirebilirsiniz.
+
+Q: Ollama resmi web sitesi.
+A: https://ollama.com/
+
+Q: Ollama github deposu
+A: github.com/ollama/ollama

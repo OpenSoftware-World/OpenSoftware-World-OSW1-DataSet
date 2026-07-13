@@ -1,0 +1,1192 @@
+{
+  "intents": [
+    {
+      "tag": "artificial_intelligence",
+      "patterns": [
+        "tell me about artificial intelligence",
+        "explain artificial intelligence",
+        "what is artificial intelligence?",
+        "Define Artificial intelligence",
+        "define artificial intelligence",
+        "Can you explain Artificial intelligence?",
+        "What is Artificial intelligence?",
+        "can you explain artificial intelligence?",
+        "Tell me about Artificial intelligence",
+        "Explain Artificial intelligence"
+      ],
+      "responses": [
+        "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in engineering, mathematics and computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.\nHigh-profile applications of AI include advanced web search engines, chatbots, virtual assistants, autonomous vehicles, and play and analysis in strategy games (e.g., chess and Go). Since the 2020s, generative AI has become widely available to generate images, audio, and videos from text prompts.\nThe traditional goals of AI research include learning, reasoning, knowledge representation, planning, natural language processing, and perception, as well as support for robotics"
+      ]
+    },
+    {
+      "tag": "computer",
+      "patterns": [
+        "tell me about computer",
+        "Tell me about Computer",
+        "what is computer?",
+        "What is Computer?",
+        "explain computer",
+        "Define Computer",
+        "Can you explain Computer?",
+        "can you explain computer?",
+        "Explain Computer",
+        "define computer"
+      ],
+      "responses": [
+        "A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (computation). Modern digital electronic computers can perform generic sets of operations known as programs, which enable computers to perform a wide range of tasks. The term computer system may refer to a nominally complete computer that includes the hardware, operating system, software, and peripheral equipment needed and used for full operation, or to a group of computers that are linked and function together, such as a computer network or computer cluster.\nNumbering only a few in the 1930s, today computers are ubiquitous over a broad range of industrial and consumer products that use computers as control systems"
+      ]
+    },
+    {
+      "tag": "python_programming_language",
+      "patterns": [
+        "Can you explain Python (programming language)?",
+        "Tell me about Python (programming language)",
+        "define python (programming language)",
+        "Define Python (programming language)",
+        "Explain Python (programming language)",
+        "What is Python (programming language)?",
+        "what is python (programming language)?",
+        "explain python (programming language)",
+        "tell me about python (programming language)",
+        "can you explain python (programming language)?"
+      ],
+      "responses": [
+        "Python is a high-level, general-purpose programming language that emphasizes code readability, simplicity, and ease-of-writing with the use of significant indentation, an extensive (\"batteries-included\") standard library, and garbage collection. Python supports multiple programming paradigms but with an emphasis on object-oriented programming and dynamic typing.\nGuido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language. Python 3.0, released in 2008, was a major revision and not completely backward-compatible with earlier versions"
+      ]
+    },
+    {
+      "tag": "c_programming_language",
+      "patterns": [
+        "Can you explain C (programming language)?",
+        "can you explain c (programming language)?",
+        "explain c (programming language)",
+        "Explain C (programming language)",
+        "what is c (programming language)?",
+        "tell me about c (programming language)",
+        "What is C (programming language)?",
+        "define c (programming language)",
+        "Tell me about C (programming language)",
+        "Define C (programming language)"
+      ],
+      "responses": [
+        "C is a general-purpose programming language created in the 1970s by Dennis Ritchie. By design, C gives programmers relatively direct access to the features of typical CPU architectures, customized for the target instruction set. It has been and continues to be used to implement operating systems (especially kernels), device drivers, and protocol stacks, though its use in application software is decreasing"
+      ]
+    },
+    {
+      "tag": "java_programming_language",
+      "patterns": [
+        "Define Java (programming language)",
+        "what is java (programming language)?",
+        "Can you explain Java (programming language)?",
+        "define java (programming language)",
+        "Tell me about Java (programming language)",
+        "What is Java (programming language)?",
+        "Explain Java (programming language)",
+        "can you explain java (programming language)?",
+        "tell me about java (programming language)",
+        "explain java (programming language)"
+      ],
+      "responses": [
+        "Java is a high-level, general-purpose, memory-safe, object-oriented programming language. It is intended to let programmers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need to recompile. Java applications are usually compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture"
+      ]
+    },
+    {
+      "tag": "c++_programming_language",
+      "patterns": [
+        "Explain C++ (programming language)",
+        "what is c++ (programming language)?",
+        "What is C++ (programming language)?",
+        "Tell me about C++ (programming language)",
+        "can you explain c++ (programming language)?",
+        "Define C++ (programming language)",
+        "Can you explain C++ (programming language)?",
+        "explain c++ (programming language)",
+        "tell me about c++ (programming language)",
+        "define c++ (programming language)"
+      ],
+      "responses": [
+        "C++ is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup. First released in 1985 as an extension of the C programming language, adding object-oriented (OOP) features, it has since expanded significantly over time adding more OOP and other features; as of 1997/C++98 standardization, C++ has added functional features, in addition to facilities for low-level memory manipulation for systems like microcomputers or to make operating systems like Linux or Windows, and even later came features like generic programming (through the use of  templates). C++ is usually implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM.\nC++ was designed with systems programming and embedded, resource-constrained software and large systems in mind, with performance, efficiency, and flexibility of use as its design highlights"
+      ]
+    },
+    {
+      "tag": "javascript_programming_language",
+      "patterns": [
+        "Define JavaScript (programming language)",
+        "Explain JavaScript (programming language)",
+        "Tell me about JavaScript (programming language)",
+        "what is javascript (programming language)?",
+        "can you explain javascript (programming language)?",
+        "What is JavaScript (programming language)?",
+        "define javascript (programming language)",
+        "explain javascript (programming language)",
+        "tell me about javascript (programming language)",
+        "Can you explain JavaScript (programming language)?"
+      ],
+      "responses": [
+        "JavaScript (JS) is a programming language and core technology of the Web, alongside HTML and CSS. Created by Brendan Eich in 1995, it is maintained by Ecma International's TC39 technical committee, with related Web APIs maintained by W3C and WHATWG. As of 2025, JavaScript is the most widely used programming language on GitHub.\nWeb browsers have a dedicated JavaScript engine that executes the client code"
+      ]
+    },
+    {
+      "tag": "pytorch",
+      "patterns": [
+        "Can you explain PyTorch?",
+        "Explain PyTorch",
+        "Define PyTorch",
+        "what is pytorch?",
+        "What is PyTorch?",
+        "define pytorch",
+        "explain pytorch",
+        "can you explain pytorch?",
+        "tell me about pytorch",
+        "Tell me about PyTorch"
+      ],
+      "responses": [
+        "PyTorch is an open-source deep learning library, originally developed by Meta Platforms and currently developed with support from the Linux Foundation. The successor to Torch, PyTorch provides a high-level API that builds upon optimised, low-level implementations of deep learning algorithms and architectures, such as the Transformer, or SGD. Notably, this API simplifies model training and inference to a few lines of code"
+      ]
+    },
+    {
+      "tag": "tensorflow",
+      "patterns": [
+        "explain tensorflow",
+        "define tensorflow",
+        "Explain TensorFlow",
+        "can you explain tensorflow?",
+        "what is tensorflow?",
+        "What is TensorFlow?",
+        "tell me about tensorflow",
+        "Define TensorFlow",
+        "Tell me about TensorFlow",
+        "Can you explain TensorFlow?"
+      ],
+      "responses": [
+        "TensorFlow is a software library for machine learning and artificial intelligence. It can be used across a range of tasks, but is used mainly for training and inference of neural networks. It is one of the most popular deep learning frameworks, alongside others such as PyTorch"
+      ]
+    },
+    {
+      "tag": "linux",
+      "patterns": [
+        "What is Linux?",
+        "Explain Linux",
+        "explain linux",
+        "Tell me about Linux",
+        "define linux",
+        "what is linux?",
+        "can you explain linux?",
+        "tell me about linux",
+        "Can you explain Linux?",
+        "Define Linux"
+      ],
+      "responses": [
+        "Linux ( LIN-uuks) is a family of free and open-source software Unix-like operating systems based on the Linux kernel, which was first released on 17 September 1991 by Linus Torvalds. Some members of the family are typically packaged as a distribution (a.k.a. distro), which includes the kernel alongside supporting system software and libraries developed by third parties—such as GNU, Red Hat, and X.Org—to create a complete operating system; however, not all Linux-based operating systems are considered distros, with Android being an example"
+      ]
+    },
+    {
+      "tag": "deep_learning",
+      "patterns": [
+        "Explain Deep learning",
+        "Define Deep learning",
+        "can you explain deep learning?",
+        "Tell me about Deep learning",
+        "What is Deep learning?",
+        "what is deep learning?",
+        "explain deep learning",
+        "tell me about deep learning",
+        "Can you explain Deep learning?",
+        "define deep learning"
+      ],
+      "responses": [
+        "In machine learning, deep learning (DL) focuses on utilizing multilayered neural networks to perform tasks such as classification, regression, and representation learning. The field takes inspiration from biological neuroscience and revolves around stacking artificial neurons into layers and \"training\" them to process data. The adjective \"deep\" refers to the use of multiple layers (ranging from three to several hundred or thousands) in the network"
+      ]
+    },
+    {
+      "tag": "assembly_language",
+      "patterns": [
+        "define assembly language",
+        "tell me about assembly language",
+        "can you explain assembly language?",
+        "What is Assembly language?",
+        "what is assembly language?",
+        "Tell me about Assembly language",
+        "Define Assembly language",
+        "explain assembly language",
+        "Can you explain Assembly language?",
+        "Explain Assembly language"
+      ],
+      "responses": [
+        "In computing, assembly language (alternatively assembler language or symbolic machine code), often referred to simply as assembly and commonly abbreviated as ASM or asm, is any low-level programming language with a very strong correspondence between the instructions in the language and the architecture's machine code instructions. Assembly language usually has one statement per machine code instruction (1:1), but  constants, comments, assembler directives, symbolic labels of, e.g., memory locations, registers, and macros are generally also supported.\nThe first assembly code in which a language is used to represent machine code instructions is found in Kathleen and Andrew Donald Booth's 1947 work, Coding for A.R.C.. Assembly code is converted into executable machine code by a utility program referred to as an assembler"
+      ]
+    },
+    {
+      "tag": "neural_network",
+      "patterns": [
+        "tell me about neural network",
+        "Can you explain Neural network?",
+        "explain neural network",
+        "can you explain neural network?",
+        "Explain Neural network",
+        "Tell me about Neural network",
+        "What is Neural network?",
+        "Define Neural network",
+        "what is neural network?",
+        "define neural network"
+      ],
+      "responses": [
+        "A neural network is a group of interconnected units called neurons that send signals to one another. Neurons can be either biological cells or mathematical models. While individual neurons are simple, many of them together in a network can perform complex tasks"
+      ]
+    },
+    {
+      "tag": "windows_10",
+      "patterns": [
+        "explain windows 10",
+        "Define Windows 10",
+        "Can you explain Windows 10?",
+        "Tell me about Windows 10",
+        "define windows 10",
+        "what is windows 10?",
+        "can you explain windows 10?",
+        "What is Windows 10?",
+        "tell me about windows 10",
+        "Explain Windows 10"
+      ],
+      "responses": [
+        "Windows 10 is a major release of the Windows NT operating system developed by Microsoft. The successor to Windows 8.1, it was released to manufacturing on July 15, 2015, became generally available on July 29, 2015, and was a free upgrade to users of Windows 7, 8, and 8.1. Its server counterparts are Windows Server 2016, 2019, and 2022"
+      ]
+    },
+    {
+      "tag": "windows_11",
+      "patterns": [
+        "can you explain windows 11?",
+        "What is Windows 11?",
+        "explain windows 11",
+        "tell me about windows 11",
+        "define windows 11",
+        "Explain Windows 11",
+        "what is windows 11?",
+        "Define Windows 11",
+        "Tell me about Windows 11",
+        "Can you explain Windows 11?"
+      ],
+      "responses": [
+        "Windows 11 is the current major release of Microsoft's Windows NT operating system, released on October 5, 2021, as the successor to Windows 10 (2015). It is available as a free upgrade for devices running Windows 10 that meet its system requirements. The Windows Server counterpart, Windows Server 2025, was released in 2024"
+      ]
+    },
+    {
+      "tag": "microsoft",
+      "patterns": [
+        "What is Microsoft?",
+        "explain microsoft",
+        "can you explain microsoft?",
+        "what is microsoft?",
+        "Tell me about Microsoft",
+        "Define Microsoft",
+        "define microsoft",
+        "Explain Microsoft",
+        "Can you explain Microsoft?",
+        "tell me about microsoft"
+      ],
+      "responses": [
+        "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud computing, artificial intelligence, video gaming, and more. A Big Tech company, Microsoft is the largest software company by revenue, one of the most valuable public companies, and one of the most valuable brands globally.\nFounded in 1975 by Bill Gates and Paul Allen to market BASIC interpreters for the Altair 8800, Microsoft rose to dominate the PC operating system market with MS-DOS in the mid-1980s, followed by Windows"
+      ]
+    },
+    {
+      "tag": "google",
+      "patterns": [
+        "can you explain google?",
+        "Define Google",
+        "What is Google?",
+        "what is google?",
+        "Can you explain Google?",
+        "Tell me about Google",
+        "Explain Google",
+        "tell me about google",
+        "define google",
+        "explain google"
+      ],
+      "responses": [
+        "Google LLC ( , GOO-gəl) is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI). It has been referred to as \"the most powerful company in the world\" by the BBC, and is one of the world's most valuable brands. Google's parent company Alphabet Inc"
+      ]
+    },
+    {
+      "tag": "openai",
+      "patterns": [
+        "Can you explain OpenAI?",
+        "Explain OpenAI",
+        "tell me about openai",
+        "can you explain openai?",
+        "Define OpenAI",
+        "What is OpenAI?",
+        "Tell me about OpenAI",
+        "what is openai?",
+        "explain openai",
+        "define openai"
+      ],
+      "responses": [
+        "OpenAI is an American artificial intelligence (AI) research organization headquartered in San Francisco, consisting of OpenAI Group PBC, a for-profit public benefit corporation (PBC), partially controlled by OpenAI Foundation, a nonprofit. OpenAI develops generative AI models, particularly the GPT series of large language models. Its release of ChatGPT in November 2022 has been credited with catalyzing the AI boom, and widespread interest in generative AI.\nOpenAI was founded in 2015 in Delaware as a nonprofit"
+      ]
+    },
+    {
+      "tag": "microsoft_office",
+      "patterns": [
+        "What is Microsoft Office?",
+        "Define Microsoft Office",
+        "define microsoft office",
+        "tell me about microsoft office",
+        "explain microsoft office",
+        "Tell me about Microsoft Office",
+        "Explain Microsoft Office",
+        "what is microsoft office?",
+        "Can you explain Microsoft Office?",
+        "can you explain microsoft office?"
+      ],
+      "responses": [
+        "Microsoft Office, MS Office, or simply Office, is an office suite and (formerly) a family of client software, server software, and services developed by Microsoft. The first version of the Office suite, announced by Bill Gates on August 1, 1988, at COMDEX, contained Microsoft Word, Microsoft Excel, and Microsoft PowerPoint, all three of which remain core products in Office. Over time, the Office suite has grown substantially, adding programs such as OneNote and Outlook; the suite has also been made highly extensible with the use of the VBA scripting language.\nThe suite currently includes a word processor (Word), a spreadsheet program (Excel), a presentation program (PowerPoint), a note-taking program (OneNote), and an email client (Outlook); the Windows version also includes a database management system (Access)"
+      ]
+    },
+    {
+      "tag": "libreoffice",
+      "patterns": [
+        "tell me about libreoffice",
+        "Can you explain LibreOffice?",
+        "Define LibreOffice",
+        "what is libreoffice?",
+        "can you explain libreoffice?",
+        "define libreoffice",
+        "What is LibreOffice?",
+        "Tell me about LibreOffice",
+        "explain libreoffice",
+        "Explain LibreOffice"
+      ],
+      "responses": [
+        "LibreOffice () is a free and open-source office productivity software suite developed by The Document Foundation (TDF). It was created in 2010 as a fork of OpenOffice.org, itself a successor to the defunct StarOffice. The suite includes applications for word processing (Writer), spreadsheets (Calc), presentations (Impress), vector graphics (Draw), database management (Base), and formula editing (Math)"
+      ]
+    },
+    {
+      "tag": "chatgpt",
+      "patterns": [
+        "explain chatgpt",
+        "can you explain chatgpt?",
+        "Can you explain ChatGPT?",
+        "Define ChatGPT",
+        "What is ChatGPT?",
+        "tell me about chatgpt",
+        "Explain ChatGPT",
+        "what is chatgpt?",
+        "define chatgpt",
+        "Tell me about ChatGPT"
+      ],
+      "responses": [
+        "ChatGPT is a generative artificial intelligence chatbot developed by OpenAI. Originally released in November 2022, the product uses large language models—specifically generative pre-trained transformers (GPTs)—to generate text, speech, and images in response to user prompts. ChatGPT accelerated the AI boom, an ongoing period marked by rapid investment and public attention toward the field of artificial intelligence (AI)"
+      ]
+    },
+    {
+      "tag": "gemini",
+      "patterns": [
+        "Define Gemini",
+        "What is Gemini?",
+        "Tell me about Gemini",
+        "what is gemini?",
+        "define gemini",
+        "tell me about gemini",
+        "explain gemini",
+        "can you explain gemini?",
+        "Explain Gemini",
+        "Can you explain Gemini?"
+      ],
+      "responses": [
+        "Gemini most often refers to:\n\nGemini (constellation), one of the constellations of the zodiac\nGemini (astrology), an astrological sign\nGemini (language model), series of large language models developed by Google\nGoogle Gemini, chatbot\nGemini may also refer to:"
+      ]
+    },
+    {
+      "tag": "artificial_neural_network",
+      "patterns": [
+        "explain artificial neural network",
+        "Explain Artificial neural network",
+        "Tell me about Artificial neural network",
+        "What is Artificial neural network?",
+        "what is artificial neural network?",
+        "Define Artificial neural network",
+        "can you explain artificial neural network?",
+        "Can you explain Artificial neural network?",
+        "tell me about artificial neural network",
+        "define artificial neural network"
+      ],
+      "responses": [
+        "In machine learning, a neural network (NN) or neural net, is a computational model inspired by the structure and functions of biological neural networks.\nA neural network consists of connected units or nodes called artificial neurons, which loosely model the neurons in the brain. Artificial neuron models that mimic biological neurons more closely have also been recently investigated and shown to significantly improve performance. These are connected by edges, which model the synapses in the brain"
+      ]
+    },
+    {
+      "tag": "deep_neural_network",
+      "patterns": [
+        "explain deep neural network",
+        "what is deep neural network?",
+        "Tell me about Deep neural network",
+        "define deep neural network",
+        "Define Deep neural network",
+        "tell me about deep neural network",
+        "can you explain deep neural network?",
+        "Can you explain Deep neural network?",
+        "Explain Deep neural network",
+        "What is Deep neural network?"
+      ],
+      "responses": [
+        "In machine learning, deep learning (DL) focuses on utilizing multilayered neural networks to perform tasks such as classification, regression, and representation learning. The field takes inspiration from biological neuroscience and revolves around stacking artificial neurons into layers and \"training\" them to process data. The adjective \"deep\" refers to the use of multiple layers (ranging from three to several hundred or thousands) in the network"
+      ]
+    },
+    {
+      "tag": "office_suite",
+      "patterns": [
+        "define office suite",
+        "can you explain office suite?",
+        "what is office suite?",
+        "Define Office suite",
+        "Explain Office suite",
+        "Tell me about Office suite",
+        "explain office suite",
+        "tell me about office suite",
+        "Can you explain Office suite?",
+        "What is Office suite?"
+      ],
+      "responses": [
+        "Productivity software (also called personal productivity software or office productivity software) is application software used for producing information (such as documents, presentations, worksheets, databases, charts, graphs, digital paintings, electronic music and digital video). Its names arose from it increasing productivity, especially of individual office workers, from typists to knowledge workers, although its scope is now wider than that. Office suites, which brought word processing, spreadsheet, and relational database programs to the desktop in the 1980s, are the core example of productivity software"
+      ]
+    },
+    {
+      "tag": "cars",
+      "patterns": [
+        "what is cars?",
+        "Explain Cars",
+        "Tell me about Cars",
+        "explain cars",
+        "Can you explain Cars?",
+        "tell me about cars",
+        "can you explain cars?",
+        "define cars",
+        "What is Cars?",
+        "Define Cars"
+      ],
+      "responses": [
+        "A car, or an automobile, is a motor vehicle with wheels. Most definitions of cars state that they run primarily on roads, seat 1-8 people, have four wheels, and mainly transport people rather than cargo. There are over 1.6 billion cars in use worldwide as of  2025.\nThe French inventor Nicolas-Joseph Cugnot built the first steam-powered road vehicle in 1769, while the Swiss inventor François Isaac de Rivaz designed and constructed the first internal combustion-powered automobile in 1808"
+      ]
+    },
+    {
+      "tag": "bmw",
+      "patterns": [
+        "what is bmw?",
+        "Define BMW",
+        "Can you explain BMW?",
+        "What is BMW?",
+        "can you explain bmw?",
+        "explain bmw",
+        "Tell me about BMW",
+        "Explain BMW",
+        "define bmw",
+        "tell me about bmw"
+      ],
+      "responses": [
+        "Bayerische Motoren Werke Aktiengesellschaft (BMW AG), trading as BMW Group (commonly abbreviated to BMW (German pronunciation: [ˌbeːʔɛmˈveː] ), sometimes anglicised as Bavarian Motor Works), is a German multinational conglomerate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Germany. The moniker \"BMW \" first came into use when the German firm Rapp Motorenwerke changed its name to Bayerische Motoren Werke GmbH (BMW GmbH) in 1917. Thereafter, in 1922, the name and assets of BMW GmbH were transferred to the aircraft manufacturer Bayerische Flugzeugwerke AG (formerly Otto Flugmaschinenfabrik), thereby giving rise to the company known today as BMW AG.\nBMW AG's automobiles are marketed under the BMW, Mini, and Rolls-Royce brands while its motorcycles are marketed under the BMW Motorrad brand"
+      ]
+    },
+    {
+      "tag": "ferrari",
+      "patterns": [
+        "what is ferrari?",
+        "Can you explain Ferrari?",
+        "Explain Ferrari",
+        "What is Ferrari?",
+        "Define Ferrari",
+        "define ferrari",
+        "explain ferrari",
+        "can you explain ferrari?",
+        "tell me about ferrari",
+        "Tell me about Ferrari"
+      ],
+      "responses": [
+        "Ferrari S.p.A. (; Italian: [ferˈraːri]) is an Italian luxury sports car manufacturer based in Maranello, Italy. Founded in 1939 by Enzo Ferrari (1898–1988), the company built its first car in 1940, adopted its current name in 1945, and began to produce its current line of road cars in 1947"
+      ]
+    },
+    {
+      "tag": "tesla",
+      "patterns": [
+        "Tell me about Tesla",
+        "tell me about tesla",
+        "what is tesla?",
+        "Define Tesla",
+        "Can you explain Tesla?",
+        "What is Tesla?",
+        "can you explain tesla?",
+        "explain tesla",
+        "Explain Tesla",
+        "define tesla"
+      ],
+      "responses": [
+        "Tesla most commonly refers to:\n\nNikola Tesla (1856–1943), a Serbian-American electrical engineer and inventor\nTesla, Inc., an American electric vehicle and clean energy company, formerly Tesla Motors, Inc.\nTesla (unit) (symbol: T), the SI-derived unit of magnetic flux density\nTesla may also refer to:"
+      ]
+    },
+    {
+      "tag": "lamborghini",
+      "patterns": [
+        "tell me about lamborghini",
+        "what is lamborghini?",
+        "Can you explain Lamborghini?",
+        "What is Lamborghini?",
+        "Explain Lamborghini",
+        "define lamborghini",
+        "can you explain lamborghini?",
+        "explain lamborghini",
+        "Define Lamborghini",
+        "Tell me about Lamborghini"
+      ],
+      "responses": [
+        "Lamborghini (officially Automobili Lamborghini S.p.A. and colloquially Lambo) is an Italian manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese. The company is owned by the Volkswagen Group through its subsidiary Audi.\nFerruccio Lamborghini (1916–1993), an Italian manufacturing magnate, founded Automobili Ferruccio Lamborghini S.p.A"
+      ]
+    },
+    {
+      "tag": "audi",
+      "patterns": [
+        "tell me about audi",
+        "what is audi?",
+        "Tell me about Audi",
+        "Explain Audi",
+        "Define Audi",
+        "define audi",
+        "explain audi",
+        "can you explain audi?",
+        "Can you explain Audi?",
+        "What is Audi?"
+      ],
+      "responses": [
+        "Audi AG is a German automotive manufacturer of luxury vehicles headquartered in Ingolstadt, Bavaria, Germany. As a wholly owned subsidiary of the Volkswagen Group, Audi produces vehicles in nine production facilities worldwide.\nThe origins of the company are complex, dating back to the early 20th century and the initial enterprises (Horch and the Audiwerke) founded by engineer August Horch. Two other manufacturers (DKW and Wanderer) also contributed to the foundation of Auto Union in 1932"
+      ]
+    },
+    {
+      "tag": "bentley",
+      "patterns": [
+        "explain bentley",
+        "Explain Bentley",
+        "what is bentley?",
+        "define bentley",
+        "What is Bentley?",
+        "tell me about bentley",
+        "Can you explain Bentley?",
+        "Define Bentley",
+        "can you explain bentley?",
+        "Tell me about Bentley"
+      ],
+      "responses": [
+        "Bentley Motors Limited is a British designer, manufacturer and marketer of luxury cars and SUVs. Headquartered in Crewe, England, the company was founded by W. O"
+      ]
+    },
+    {
+      "tag": "rolls-royce",
+      "patterns": [
+        "Explain Rolls-Royce",
+        "tell me about rolls-royce",
+        "Tell me about Rolls-Royce",
+        "can you explain rolls-royce?",
+        "What is Rolls-Royce?",
+        "Can you explain Rolls-Royce?",
+        "explain rolls-royce",
+        "define rolls-royce",
+        "Define Rolls-Royce",
+        "what is rolls-royce?"
+      ],
+      "responses": [
+        "Rolls-Royce may refer to:\n\nRolls-Royce Limited, a British manufacturer of cars and later aircraft engines, founded in 1906, now defunct\nRolls-Royce Motors, owner of the former car division incorporated in 1973 and folded in 1998\nRolls-Royce Motor Cars, the current car manufacturing company incorporated in 1998, a subsidiary of BMW Group\nRolls-Royce Holdings plc, an aerospace, power systems and defence company and Rolls-Royce's current principal operating company\nRolls-Royce Controls and Data Services\nRolls-Royce Deutschland\nRolls-Royce Power Systems\nRolls-Royce North America\nRolls-Royce Submarines\nRolls-Royce Turbomeca"
+      ]
+    },
+    {
+      "tag": "bugatti",
+      "patterns": [
+        "Can you explain Bugatti?",
+        "what is bugatti?",
+        "Define Bugatti",
+        "can you explain bugatti?",
+        "What is Bugatti?",
+        "explain bugatti",
+        "Explain Bugatti",
+        "Tell me about Bugatti",
+        "tell me about bugatti",
+        "define bugatti"
+      ],
+      "responses": [
+        "Automobiles Ettore Bugatti was a French manufacturer of high-performance automobiles. The company was founded in 1909 in the then-German city of Molsheim, Alsace, by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and numerous race victories"
+      ]
+    },
+    {
+      "tag": "togg",
+      "patterns": [
+        "What is TOGG?",
+        "tell me about togg",
+        "Explain TOGG",
+        "Tell me about TOGG",
+        "Define TOGG",
+        "explain togg",
+        "Can you explain TOGG?",
+        "define togg",
+        "what is togg?",
+        "can you explain togg?"
+      ],
+      "responses": [
+        "TOGG (stylised as Togg), acronym of Türkiye'nin Otomobili Girişim Grubu (lit. 'Turkey's Automobile Joint Venture Group'), is a Turkish automotive manufacturer of electric cars headquartered in Gebze, Kocaeli Province, Turkey. The company was founded as a joint venture by five Turkish companies in 2018. An assembly plant was opened in 2022 in Gemlik, Bursa province, next to Togg's subsidiary Siro which produces the lithium-ion batteries"
+      ]
+    },
+    {
+      "tag": "machine_learning",
+      "patterns": [
+        "tell me about machine learning",
+        "What is Machine learning?",
+        "Can you explain Machine learning?",
+        "what is machine learning?",
+        "explain machine learning",
+        "Tell me about Machine learning",
+        "Explain Machine learning",
+        "Define Machine learning",
+        "can you explain machine learning?",
+        "define machine learning"
+      ],
+      "responses": [
+        "Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from  data and generalize to unseen data, and thus perform tasks without being explicitly programmed. Advances in the field of deep learning have allowed neural networks, a class of statistical algorithms, to surpass many previous machine learning approaches in performance.\nStatistics and mathematical optimisation methods compose the foundations of machine learning. Data mining is a related field of study, focusing on exploratory data analysis (EDA) through unsupervised learning.\nFrom a theoretical viewpoint, probably approximately correct learning provides a mathematical and statistical framework for describing machine learning"
+      ]
+    },
+    {
+      "tag": "operating_system",
+      "patterns": [
+        "define operating system",
+        "Tell me about Operating system",
+        "what is operating system?",
+        "Explain Operating system",
+        "can you explain operating system?",
+        "tell me about operating system",
+        "Can you explain Operating system?",
+        "What is Operating system?",
+        "Define Operating system",
+        "explain operating system"
+      ],
+      "responses": [
+        "An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs.\nTime-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, peripherals, and other resources.\nFor hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware, although the application code is usually executed directly by the hardware and frequently makes system calls to an OS function or is interrupted by it. Operating systems are found on many devices that contain a computer – from cellular phones and video game consoles to web servers and supercomputers.\nAs of November 2025, Android is the most popular operating system, with a 38% market share, followed by Microsoft Windows at 33%, iOS and iPadOS at 15%, macOS at 4%, and Linux at 1%. Android, iOS, and iPadOS are operating systems for mobile devices such as smartphones, while Windows, macOS, and Linux are for desktop computers"
+      ]
+    },
+    {
+      "tag": "database",
+      "patterns": [
+        "can you explain database?",
+        "what is database?",
+        "What is Database?",
+        "Can you explain Database?",
+        "explain database",
+        "Define Database",
+        "define database",
+        "tell me about database",
+        "Explain Database",
+        "Tell me about Database"
+      ],
+      "responses": [
+        "In computing, a database is an organized collection of data or a type of data store based on the use of a database management system (DBMS), the software that interacts with end users, applications, and the database itself to capture and analyze the data. The DBMS additionally encompasses the core facilities provided to administer the database. The sum total of the database, the DBMS and the associated applications can be referred to as a database system"
+      ]
+    },
+    {
+      "tag": "history",
+      "patterns": [
+        "define history",
+        "What is History?",
+        "tell me about history",
+        "explain history",
+        "can you explain history?",
+        "what is history?",
+        "Explain History",
+        "Define History",
+        "Can you explain History?",
+        "Tell me about History"
+      ],
+      "responses": [
+        "History is the systematic study of the past, focusing primarily on the human past. As an academic discipline, it analyses and interprets evidence to construct narratives about what happened and explain why it happened. Some theorists categorize history as a social science, while others see it as part of the humanities or consider it a hybrid discipline"
+      ]
+    },
+    {
+      "tag": "science",
+      "patterns": [
+        "explain science",
+        "What is Science?",
+        "Define Science",
+        "Tell me about Science",
+        "what is science?",
+        "tell me about science",
+        "Can you explain Science?",
+        "define science",
+        "Explain Science",
+        "can you explain science?"
+      ],
+      "responses": [
+        "Science is a systematic discipline that builds and organises knowledge in the form of testable explanations about nature and society. It is driven by the scientific method: an empirical cycle that typically involves making observations, producing hypotheses, testing them with evidence, and drawing conclusions. Science encompasses this process and the body of knowledge it produces, which the scientific community continuously challenges, validates, and organises.\nModern science is typically divided into two – or three – major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies"
+      ]
+    },
+    {
+      "tag": "physics",
+      "patterns": [
+        "Define Physics",
+        "Can you explain Physics?",
+        "can you explain physics?",
+        "Explain Physics",
+        "Tell me about Physics",
+        "what is physics?",
+        "tell me about physics",
+        "define physics",
+        "What is Physics?",
+        "explain physics"
+      ],
+      "responses": [
+        "Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist.\nPhysics is one of the oldest academic disciplines"
+      ]
+    },
+    {
+      "tag": "chemistry",
+      "patterns": [
+        "can you explain chemistry?",
+        "Explain Chemistry",
+        "explain chemistry",
+        "What is Chemistry?",
+        "define chemistry",
+        "Can you explain Chemistry?",
+        "what is chemistry?",
+        "Tell me about Chemistry",
+        "tell me about chemistry",
+        "Define Chemistry"
+      ],
+      "responses": [
+        "Chemistry is the scientific study of the properties and behavior of matter. It is a physical science within the natural sciences that studies matter: composition, structure, properties, behavior and the changes they undergo during reactions with other substances. Chemistry also addresses the nature of chemical bonds in chemical compounds.\nIn the scope of its subject, chemistry occupies an intermediate position between physics and biology"
+      ]
+    },
+    {
+      "tag": "biology",
+      "patterns": [
+        "define biology",
+        "Define Biology",
+        "Explain Biology",
+        "What is Biology?",
+        "explain biology",
+        "Can you explain Biology?",
+        "tell me about biology",
+        "Tell me about Biology",
+        "can you explain biology?",
+        "what is biology?"
+      ],
+      "responses": [
+        "Biology is the scientific study of life and living organisms. It is a broad natural science that encompasses a wide range of fields and unifying principles that explain the structure, function, growth, origin, evolution, and distribution of life. Central to biology are five fundamental themes: the cell as the basic unit of life, genes and heredity as the basis of inheritance, evolution as the driver of biological diversity, energy transformation for sustaining life processes, and homeostasis, the maintenance of internal stability.\nBiology examines life across multiple levels of organization, from molecules and cells to organisms, population, and ecosystems"
+      ]
+    },
+    {
+      "tag": "mathematics",
+      "patterns": [
+        "define mathematics",
+        "Can you explain Mathematics?",
+        "Explain Mathematics",
+        "what is mathematics?",
+        "can you explain mathematics?",
+        "Tell me about Mathematics",
+        "Define Mathematics",
+        "What is Mathematics?",
+        "tell me about mathematics",
+        "explain mathematics"
+      ],
+      "responses": [
+        "Mathematics is a field of knowledge concerned with abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities. It uses logical reasoning and proof to study and establish their properties, often expressed as theorems, formulas, and equations. Mathematics is used to model and solve problems in science, engineering, technology, economics, and everyday life.\nThere are many areas of mathematics, including number theory (the study of integers and their properties), algebra (the study of operations and the structures they form), geometry (the study of shapes and spaces that contain them), analysis (the quantitative study of approximation and convergence), and set theory (presently used as a foundation for all mathematics).\nMathematics involves the description and manipulation of abstract objects that are either abstractions from nature or purely abstract entities that are stipulated to have certain properties, called axioms"
+      ]
+    },
+    {
+      "tag": "computer_science",
+      "patterns": [
+        "What is Computer science?",
+        "Can you explain Computer science?",
+        "Explain Computer science",
+        "Tell me about Computer science",
+        "what is computer science?",
+        "explain computer science",
+        "tell me about computer science",
+        "Define Computer science",
+        "can you explain computer science?",
+        "define computer science"
+      ],
+      "responses": [
+        "Computer science is the study of computation, information, and automation. Included broadly in the sciences, computer science spans theoretical disciplines (such as algorithms, theory of computation, and information theory) to applied disciplines (including the design and implementation of hardware and software). An expert in the field is known as a computer scientist.\nAlgorithms and data structures are central to computer science"
+      ]
+    },
+    {
+      "tag": "artificial_intelligence",
+      "patterns": [
+        "tell me about artificial intelligence",
+        "explain artificial intelligence",
+        "what is artificial intelligence?",
+        "Define Artificial intelligence",
+        "define artificial intelligence",
+        "Can you explain Artificial intelligence?",
+        "What is Artificial intelligence?",
+        "can you explain artificial intelligence?",
+        "Tell me about Artificial intelligence",
+        "Explain Artificial intelligence"
+      ],
+      "responses": [
+        "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in engineering, mathematics and computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.\nHigh-profile applications of AI include advanced web search engines, chatbots, virtual assistants, autonomous vehicles, and play and analysis in strategy games (e.g., chess and Go). Since the 2020s, generative AI has become widely available to generate images, audio, and videos from text prompts.\nThe traditional goals of AI research include learning, reasoning, knowledge representation, planning, natural language processing, and perception, as well as support for robotics"
+      ]
+    },
+    {
+      "tag": "programming_languages",
+      "patterns": [
+        "Can you explain Programming languages?",
+        "define programming languages",
+        "What is Programming languages?",
+        "what is programming languages?",
+        "Explain Programming languages",
+        "Tell me about Programming languages",
+        "can you explain programming languages?",
+        "explain programming languages",
+        "tell me about programming languages",
+        "Define Programming languages"
+      ],
+      "responses": [
+        "A programming language is an engineered language for expressing computer programs, typically allowing software to be written in a human readable manner.\nExecution of a program requires an implementation. There are two main approaches for implementing a programming language – compilation, where programs are compiled ahead-of-time to machine code, and interpretation, where programs are directly executed. In addition to these two extremes, some implementations use hybrid approaches such as just-in-time compilation and bytecode interpreters.\nThe design of programming languages has been strongly influenced by computer architecture, with most imperative languages designed around the ubiquitous von Neumann architecture"
+      ]
+    },
+    {
+      "tag": "operating_systems",
+      "patterns": [
+        "explain operating systems",
+        "Explain Operating systems",
+        "what is operating systems?",
+        "can you explain operating systems?",
+        "Can you explain Operating systems?",
+        "tell me about operating systems",
+        "Define Operating systems",
+        "define operating systems",
+        "Tell me about Operating systems",
+        "What is Operating systems?"
+      ],
+      "responses": [
+        "An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs.\nTime-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, peripherals, and other resources.\nFor hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware, although the application code is usually executed directly by the hardware and frequently makes system calls to an OS function or is interrupted by it. Operating systems are found on many devices that contain a computer – from cellular phones and video game consoles to web servers and supercomputers.\nAs of November 2025, Android is the most popular operating system, with a 38% market share, followed by Microsoft Windows at 33%, iOS and iPadOS at 15%, macOS at 4%, and Linux at 1%. Android, iOS, and iPadOS are operating systems for mobile devices such as smartphones, while Windows, macOS, and Linux are for desktop computers"
+      ]
+    },
+    {
+      "tag": "computer_networking",
+      "patterns": [
+        "can you explain computer networking?",
+        "explain computer networking",
+        "What is Computer networking?",
+        "Tell me about Computer networking",
+        "Define Computer networking",
+        "define computer networking",
+        "what is computer networking?",
+        "Can you explain Computer networking?",
+        "Explain Computer networking",
+        "tell me about computer networking"
+      ],
+      "responses": [
+        "In computer science, computer engineering, and telecommunications, a network is a group of communicating computers and peripherals known as hosts, which communicate data to other hosts via communication protocols, as facilitated by networking hardware.\nWithin a computer network, hosts are identified by network addresses, which allow networking hardware to locate and identify hosts. Hosts may also have hostnames, memorable labels for the host nodes, which can be mapped to a network address using a hosts file or a name server such as Domain Name Service. The physical medium that supports information exchange includes wired media like copper cables, optical fibers, and wireless radio-frequency media"
+      ]
+    },
+    {
+      "tag": "computer_security",
+      "patterns": [
+        "tell me about computer security",
+        "what is computer security?",
+        "Define Computer security",
+        "Explain Computer security",
+        "What is Computer security?",
+        "Can you explain Computer security?",
+        "can you explain computer security?",
+        "explain computer security",
+        "define computer security",
+        "Tell me about Computer security"
+      ],
+      "responses": [
+        "Computer security (also cybersecurity, digital security, or information technology (IT) security) is a subdiscipline within the field of information security. It focuses on protecting computer software, systems, and networks from threats that can lead to unauthorized information disclosure, theft, or damage to hardware, software, or data, as well as to the disruption or misdirection of the services they provide.\nThe growing significance of computer security reflects the increasing dependence on computer systems, the Internet, and evolving wireless network standards. This reliance has expanded with the proliferation of smart devices, including smartphones, televisions, and other components of the Internet of things (IoT).\nAs digital infrastructure becomes more embedded in everyday life, cybersecurity has emerged as a critical concern"
+      ]
+    },
+    {
+      "tag": "astronomy",
+      "patterns": [
+        "Can you explain Astronomy?",
+        "can you explain astronomy?",
+        "Tell me about Astronomy",
+        "Explain Astronomy",
+        "explain astronomy",
+        "Define Astronomy",
+        "What is Astronomy?",
+        "tell me about astronomy",
+        "define astronomy",
+        "what is astronomy?"
+      ],
+      "responses": [
+        "Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos. It uses mathematics, physics, and chemistry to explain their origin and their overall evolution. Objects of interest include planets, moons, stars, nebulae, galaxies, meteoroids, asteroids, and comets"
+      ]
+    },
+    {
+      "tag": "geography",
+      "patterns": [
+        "can you explain geography?",
+        "explain geography",
+        "Tell me about Geography",
+        "Can you explain Geography?",
+        "tell me about geography",
+        "what is geography?",
+        "Explain Geography",
+        "Define Geography",
+        "define geography",
+        "What is Geography?"
+      ],
+      "responses": [
+        "Geography (from Ancient Greek γεωγραφία geōgraphía; combining gê 'Earth' and gráphō 'write', lit. 'Earth writing') is the study of the lands, features, inhabitants, and phenomena of planet Earth. Geography is an all-encompassing discipline that seeks an understanding of Earth and its human and natural complexities—not merely where objects are, but also how they have changed and come to be"
+      ]
+    },
+    {
+      "tag": "geology",
+      "patterns": [
+        "explain geology",
+        "what is geology?",
+        "tell me about geology",
+        "Can you explain Geology?",
+        "Tell me about Geology",
+        "Explain Geology",
+        "Define Geology",
+        "define geology",
+        "can you explain geology?",
+        "What is Geology?"
+      ],
+      "responses": [
+        "Geology is a branch of natural science concerned with the Earth and other astronomical bodies, the rocks of which they are composed, and the processes by which they change over time. The name comes from Ancient Greek  γῆ (gê) 'earth' and  λoγία (-logía) 'study of, discourse'. Modern geology significantly overlaps all other Earth sciences, including hydrology"
+      ]
+    },
+    {
+      "tag": "economics",
+      "patterns": [
+        "Tell me about Economics",
+        "what is economics?",
+        "Define Economics",
+        "What is Economics?",
+        "Explain Economics",
+        "Can you explain Economics?",
+        "tell me about economics",
+        "define economics",
+        "explain economics",
+        "can you explain economics?"
+      ],
+      "responses": [
+        "Economics () is a social science that studies the production, distribution, and consumption of goods and services.\nEconomics focuses on the behaviour and interactions of economic agents and how economies work. Microeconomics analyses what is viewed as the basic elements of economies, including individual agents and markets, their interactions, and the outcomes of those interactions. Individual agents may include households, firms, buyers, and sellers"
+      ]
+    },
+    {
+      "tag": "law",
+      "patterns": [
+        "Tell me about Law",
+        "can you explain law?",
+        "Explain Law",
+        "Define Law",
+        "tell me about law",
+        "define law",
+        "What is Law?",
+        "what is law?",
+        "Can you explain Law?",
+        "explain law"
+      ],
+      "responses": [
+        "Law is a set of rules that are created and enforced by governmental or societal institutions to regulate behavior, with its precise definition a matter of longstanding debate. It has been variously described as a science and as the art of justice. State-enforced laws can be made by a legislature, resulting in statutes; by the executive through decrees and regulations; or by judges' decisions, which form precedent in common law jurisdictions"
+      ]
+    },
+    {
+      "tag": "psychology",
+      "patterns": [
+        "what is psychology?",
+        "define psychology",
+        "Tell me about Psychology",
+        "What is Psychology?",
+        "Define Psychology",
+        "can you explain psychology?",
+        "Can you explain Psychology?",
+        "explain psychology",
+        "tell me about psychology",
+        "Explain Psychology"
+      ],
+      "responses": [
+        "Psychology is the scientific study of the mind and behavior. Its subject matter includes the behavior of humans and nonhumans, both conscious and unconscious phenomena, and mental processes such as thoughts, feelings, and motives. Psychology is an academic discipline of broad scope, crossing the boundaries between the natural and social sciences.\nA professional practitioner or researcher involved in the discipline is called a psychologist"
+      ]
+    },
+    {
+      "tag": "philosophy",
+      "patterns": [
+        "Tell me about Philosophy",
+        "What is Philosophy?",
+        "Explain Philosophy",
+        "can you explain philosophy?",
+        "what is philosophy?",
+        "Can you explain Philosophy?",
+        "define philosophy",
+        "Define Philosophy",
+        "tell me about philosophy",
+        "explain philosophy"
+      ],
+      "responses": [
+        "Philosophy (from Ancient Greek philosophía, lit. 'love of wisdom') is a systematic study of general and fundamental questions concerning topics like existence, knowledge, mind, reason, language, and value. It is a rational and critical inquiry that reflects on its methods and assumptions.\nHistorically, many of the individual sciences, such as physics and psychology, formed part of philosophy. However, they are considered separate academic disciplines in the modern sense of the term"
+      ]
+    },
+    {
+      "tag": "religion",
+      "patterns": [
+        "what is religion?",
+        "can you explain religion?",
+        "Define Religion",
+        "Can you explain Religion?",
+        "Tell me about Religion",
+        "Explain Religion",
+        "explain religion",
+        "define religion",
+        "tell me about religion",
+        "What is Religion?"
+      ],
+      "responses": [
+        "Religion is a range of social-cultural systems, including designated behaviors and practices, ethics, morals, beliefs, worldviews, texts, sanctified places, prophecies, or organizations, that generally relate humanity to supernatural, transcendental, and spiritual elements—although there is no scholarly consensus over what precisely constitutes a religion. It is an essentially contested concept. Different religions may or may not contain various elements ranging from the divine, sacredness, faith, and a supernatural being or beings.\nThe origin of religious belief is an open question, with possible explanations including awareness of individual death, a sense of community, and dreams"
+      ]
+    },
+    {
+      "tag": "medicine",
+      "patterns": [
+        "can you explain medicine?",
+        "Can you explain Medicine?",
+        "define medicine",
+        "Tell me about Medicine",
+        "what is medicine?",
+        "explain medicine",
+        "Define Medicine",
+        "tell me about medicine",
+        "Explain Medicine",
+        "What is Medicine?"
+      ],
+      "responses": [
+        "Medicine is the science and practice of caring for patients, managing the diagnosis, prognosis, prevention, treatment and palliation of their injury or disease, while promoting their health. Medicine encompasses a variety of health care practices which evolved to maintain and restore health through the prevention and treatment of illness and infection. Contemporary medicine applies biomedical sciences, biomedical research, genetics, and medical technology to diagnose, treat, and prevent injury and disease, typically through various pharmaceuticals or surgery, but also through therapies such as psychotherapy, external splints and traction, medical devices, biologics, and ionizing radiation, amongst others.\nMedicine has been practiced since prehistoric times, and for most of this time it was an art (an area of creativity and skill), frequently having connections to the religious and philosophical beliefs of local culture"
+      ]
+    },
+    {
+      "tag": "music",
+      "patterns": [
+        "Define Music",
+        "explain music",
+        "what is music?",
+        "What is Music?",
+        "tell me about music",
+        "Tell me about Music",
+        "Explain Music",
+        "can you explain music?",
+        "Can you explain Music?",
+        "define music"
+      ],
+      "responses": [
+        "Music is the arrangement of sound to create some combination of form, harmony, melody, rhythm, or otherwise expressive content. Music is generally agreed to be a cultural universal that is present in all human societies. Definitions of music vary widely in substance and approach"
+      ]
+    },
+    {
+      "tag": "film",
+      "patterns": [
+        "What is Film?",
+        "Define Film",
+        "define film",
+        "tell me about film",
+        "can you explain film?",
+        "explain film",
+        "Can you explain Film?",
+        "Tell me about Film",
+        "Explain Film",
+        "what is film?"
+      ],
+      "responses": [
+        "A film, movie, or motion picture is a work of visual art that simulates experiences and otherwise communicates ideas, stories, perceptions, emotions, or atmosphere through the use of moving images that are generally, since the 1930s, synchronized with sound and sometimes feature other sensory stimuli.\nFilms are produced by recording people and objects with cameras or by creating them using animation techniques and special effects. They comprise a series of individual frames, but when these images are shown rapidly in succession, the illusion of motion is seen by the viewer. Flickering between frames is not noticeable due to an effect traditionally known as persistence of vision, and now more specifically known as flicker fusion, whereby the visual system processes a sufficiently fast succession of pictures and interruptions into a steady image of averaged brightness.\nFilms are widely considered to be an important art form; films entertain, educate, enlighten, and inspire audiences"
+      ]
+    },
+    {
+      "tag": "art",
+      "patterns": [
+        "what is art?",
+        "Can you explain Art?",
+        "tell me about art",
+        "explain art",
+        "define art",
+        "Define Art",
+        "What is Art?",
+        "Explain Art",
+        "Tell me about Art",
+        "can you explain art?"
+      ],
+      "responses": [
+        "Art is a diverse range of cultural activity centered around works utilizing creative or imaginative talents, which are expected to evoke a worthwhile experience, generally through an expression of emotional power, conceptual ideas, technical proficiency, or beauty.\nThere is no generally agreed definition of what constitutes art, and its interpretation has varied greatly throughout history and across cultures. In the Western tradition, the three classical branches of visual art are painting, sculpture, and architecture. Theatre, dance, and other performing arts, as well as literature, music, film and other media such as interactive media, are included in a broader definition of \"the arts\""
+      ]
+    },
+    {
+      "tag": "literature",
+      "patterns": [
+        "can you explain literature?",
+        "Define Literature",
+        "tell me about literature",
+        "Can you explain Literature?",
+        "define literature",
+        "explain literature",
+        "what is literature?",
+        "What is Literature?",
+        "Tell me about Literature",
+        "Explain Literature"
+      ],
+      "responses": [
+        "Literature is any collection of written work. The term is also used more narrowly for writings considered an art form, especially novels, plays, and poems. It includes both print and digital writing"
+      ]
+    },
+    {
+      "tag": "sports",
+      "patterns": [
+        "can you explain sports?",
+        "explain sports",
+        "What is Sports?",
+        "tell me about sports",
+        "Explain Sports",
+        "Tell me about Sports",
+        "define sports",
+        "Can you explain Sports?",
+        "what is sports?",
+        "Define Sports"
+      ],
+      "responses": [
+        "A sport is a physical activity or game, often competitive and organized, that maintains or improves physical ability and skills. Sport may provide enjoyment to participants and entertainment to spectators. The number of participants in a particular sport can vary from hundreds of people to a single individual.\nSport competitions may use a team or single person format, and may be open, allowing a broad range of participants, or closed, restricting participation to specific groups or those invited"
+      ]
+    },
+    {
+      "tag": "animals",
+      "patterns": [
+        "Can you explain Animals?",
+        "tell me about animals",
+        "Tell me about Animals",
+        "define animals",
+        "what is animals?",
+        "Explain Animals",
+        "Define Animals",
+        "can you explain animals?",
+        "explain animals",
+        "What is Animals?"
+      ],
+      "responses": [
+        "Animals are multicellular, eukaryotic organisms belonging to the biological kingdom Animalia (). With few exceptions, animals consume organic material, breathe oxygen, have myocytes and are able to move, can reproduce sexually, and grow from a hollow sphere of cells, the blastula, during embryonic development. Animals form a clade, meaning that they arose from a single common ancestor"
+      ]
+    },
+    {
+      "tag": "plants",
+      "patterns": [
+        "what is plants?",
+        "can you explain plants?",
+        "Define Plants",
+        "Tell me about Plants",
+        "tell me about plants",
+        "Explain Plants",
+        "explain plants",
+        "What is Plants?",
+        "Can you explain Plants?",
+        "define plants"
+      ],
+      "responses": [
+        "Plants are the eukaryotic organisms that constitute the kingdom Plantae. They are predominantly photosynthetic or came from photosynthetic ancestors, meaning that they obtain their energy from sunlight by using the green pigment chlorophyll in their chloroplasts to produce sugars from carbon dioxide and water. Some plants are instead parasitic, meaning they take energy from plants or fungi"
+      ]
+    }
+  ]
+}

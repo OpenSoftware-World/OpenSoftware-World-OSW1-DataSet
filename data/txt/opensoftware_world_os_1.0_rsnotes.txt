@@ -1,0 +1,23 @@
+Yenilikler:
+
+Not: Bu kernel OpenSoftware-World tarafından tasarlanmış ve kodlanmıştır ancak bu kernel tasarlama ve kodlama aşamasında bir OpenAI yapay zekası olan ChatGPT'den de yardım alınmıştır.
+Not2: Bu kernel OpenSoftware-World tarafından QEMU (Quick EMUlator) üzerinde test edilmiştir.
+Not3: Bu kernel'ı kendi oluşturacağınız veya oluşturmak istediğiniz işletim sistemi projelerinizde kullanabilirsiniz.
+Not4: Bu kernel OpenSoftware-World tarafından gelecekte OpenSoftware-World OS sürümlerinde kullanılmak üzere geliştirilmektedir. (Bu kernel belirli bir aşamaya gelene kadar OpenSoftware-World OS projemiz MikeOS 4.7.0 tabanını kullanmaya devam edecektir.)
+
+    Grub bootloader desteği.
+    Temel klavye ve vga sürücüleri
+    Kolay shell ve systemmanagement servisleri
+    Kullanılması kolay dahili sistem kütüphaneleri
+
+New Features:
+
+Note: This kernel was designed and coded by OpenSoftware-World, but assistance was also provided by ChatGPT, an OpenAI artificial intelligence, during the design and coding phases.
+Note 2: This kernel has been tested by OpenSoftware-World on QEMU (Quick EMUlator).
+Note 3: You may use this kernel in your own operating system projects that you are creating or plan to create.
+Note 4: This kernel is being developed by OpenSoftware-World for use in future OpenSoftware-World OS versions. (Until this kernel reaches a certain stage, our OpenSoftware-World OS project will continue to use the MikeOS 4.7.0 base.)
+
+    GRUB bootloader support.
+    Basic keyboard and VGA drivers
+    Simple shell and system management services
+    Easy-to-use internal system libraries

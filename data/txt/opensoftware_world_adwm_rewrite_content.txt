@@ -1,0 +1,25 @@
+- AdWM yeniden yazılacaktır (Yeni Sürüm) -
+
+İçerik'te neler mevcut:
+
+    AdWM Nedir?
+    Neden AdWM?
+    Neden AdWM yeniden yazılacak?
+    AdWM yeni sürümdeki yenilikler ve farklılıklar neler?
+
+
+AdWM Nedir?
+
+AdWM (Advanced Windows Manager) LinuxUsersLinuxMint tarafından geliştirilen Windows işletim sistemi için gelişmiş bir yönetim uygulamasıdır.
+
+Neden AdWM?
+
+AdWM yazılımı Windows işletim sistemi için "Hızlı temizlik", "Sistem onarımı" gibi özelliklere sahiptir ve tek tuşla hepsini gerçekleştirebilirsiniz ve AdWM Windows işletim sistemi için basit bir yönetim sağlar.
+
+Neden AdWM yeniden yazılacak?
+
+LinuxUsersLinuxMint olarak AdWM'nin bazı konularda yetersiz kaldığını düşünüyoruz en temel konu ise AdWM'nin Grafik Kullanıcı Arayüzü (GUI) 'ne sahip olmamasıdır bizde bunun eksikliğini gidermek için AdWM'yi yeniden inşa etmeye karar verdik.
+
+AdWM yeni sürümdeki yenilikler ve farklılıklar neler?
+
+AdWM yeni sürümdeki yeniliklerden bir tanesi AdWM artık bir Grafik Kullanıcı Arayüzü (GUI) 'ye sahip olucaktır ve AdWM artık herşeyi daha basit bir şekilde gerçekleştirebilecektir.

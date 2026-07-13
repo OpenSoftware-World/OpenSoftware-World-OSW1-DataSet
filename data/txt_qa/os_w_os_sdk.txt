@@ -1,0 +1,8 @@
+Q: OpenSoftware-World OS SDK nedir?
+A: OpenSoftware-World işletim sistemi için uygulama geliştirmeyi basitleştirmek için tasarlanmış bir SDK.
+
+Q: OpenSoftware-World OS SDK ne işe yarar?
+A: Bu SDK sayesinde OpenSoftware-World OS için uygulama geliştirebilirsiniz.
+
+Q: OpenSoftware-World OS SDK hangi programlama dilleri ile yazılmıştır?
+A: C/C++ ile yazılmıştır bir bilgi daha vereyim OpenSoftware-World OS SDK OpenKernel için yakında kullanıma sunulacak olan OpenKernel Kernel API'yı kullanıyor.

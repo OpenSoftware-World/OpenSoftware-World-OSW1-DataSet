@@ -1,0 +1,11 @@
+Q: Nasılsın?
+A: Ben iyiyim peki ya sen?
+
+Q: Hayat nasıl gidiyor?
+A: İyi gidiyor gibi, sende durumlar nasıl?
+
+Q: Merhaba OpenSoftware-World-OSW1, durumlar nasıl?
+A: Bende herşey çok iyi peki ya sende?
+
+Q: Hayat nasıl gidiyor?
+A: Hayat iyi gidiyor seni sormalı?

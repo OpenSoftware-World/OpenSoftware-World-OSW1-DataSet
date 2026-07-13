@@ -1,0 +1,71 @@
+Bu Lisans Sözleşmesi (“Sözleşme”), OpenSoftware-World tarafından geliştirilen
+“Updater” adlı yazılımın kullanımına ilişkin şartları ve hükümleri belirler.
+
+“Updater” yazılımını kullanarak, indirerek veya bilgisayarınızda çalıştırarak 
+işbu Lisans Sözleşmesi’ni kabul etmiş sayılırsınız.
+
+1. TARAFLAR
+
+Bu sözleşme;
+
+* Lisans Veren: OpenSoftware-World
+* Lisans Alan: “Updater” yazılımını kullanan gerçek veya tüzel kişiler arasında yapılmıştır.
+
+2. LİSANSIN KAPSAMI
+
+* “Updater” yazılımı açık kaynak olarak paylaşılmaktadır.
+* Kullanıcılar yazılımı:
+    * Kişisel
+    * Eğitim
+    * Ticari amaçlarla kullanabilir.
+
+Ancak bu kullanım, işbu sözleşmede belirtilen şartlara tabidir.
+
+3. TELİF HAKKI
+
+* “Updater” yazılımının tüm hakları OpenSoftware-World’e aittir.
+* Yazılımın kaynak kodu açık kaynak olarak paylaşılmış olsa dahi:
+  * Yazılımın sahipliği devredilmiş sayılmaz
+  * OpenSoftware-World adı ve projeye ait referanslar kaldırılamaz
+
+4. KAYNAK KODUNUN KULLANIMI
+
+* Kullanıcılar kaynak kodu inceleyebilir, değiştirebilir ve geliştirebilir.
+* Değiştirilmiş sürümler:
+  * OpenSoftware-World’ün resmi ürünü gibi sunulamaz
+  * OpenSoftware-World adına zarar verecek şekilde dağıtılamaz
+
+5. SORUMLULUK REDDİ
+
+* “Updater” yazılımı “OLDUĞU GİBİ” sunulmaktadır.
+* Yazılımın kullanımından doğabilecek:
+  * Veri kaybı
+  * Sistem hataları
+  * Donanımsal veya yazılımsal sorunlar
+
+nedeniyle OpenSoftware-World hiçbir şekilde sorumlu tutulamaz.
+
+6. YASAKLI KULLANIMLAR
+
+Aşağıdaki durumlar kesinlikle yasaktır:
+* Yazılımın kötü amaçlı kullanımı
+* Zararlı yazılım geliştirme amacıyla kullanımı
+* Hukuka aykırı faaliyetlerde kullanımı
+
+Bu tür kullanımlardan doğacak tüm sorumluluk kullanıcıya aittir.
+
+7. SÖZLEŞMENİN FESHİ
+
+* Kullanıcı bu sözleşme şartlarına uymadığı takdirde:
+    * Lisans otomatik olarak sona erer
+    * Yazılımın kullanımı derhal durdurulmalıdır
+    * Bilgisayardaki tüm kopyalar silinmelidir
+
+8. DEĞİŞİKLİKLER
+
+* OpenSoftware-World, bu lisans sözleşmesini önceden haber vermeksizin değiştirme hakkını saklı tutar.
+* Güncel sözleşme metni yazılımın resmi kaynaklarında yayımlanır.
+
+
+Bu Lisans Sözleşmesi 26/04/2026 tarihinde yürürlüğe girmiştir.
+Son güncelleme tarihi: GG/AA/YYYY

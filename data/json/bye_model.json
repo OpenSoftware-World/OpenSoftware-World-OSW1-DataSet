@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "tag": "bye",
+      "patterns": [
+            "Görüşürüz",
+            "O halde iyi günler dilerim.",
+            "Hoşça kal",
+            "Daha sonra görüşürüz",
+            "Güle güle",
+            "O halde sonra görüşürüz.",
+            "O halde daha sonra görüşmek üzere."
+      ],
+      "responses": [
+            "Tamamdır kendine iyi bak ne zaman istersen ben hep buradayım seninle mesajlaşmak için bekliyor olacağım.",
+            "Aynı şekilde sana da iyi günler dilerim.",
+            "Görüşürüz kendine iyi bak.",
+            "Güle güle kendine iyi bak.",
+            "O halde daha sonra görüşmek üzere kendine iyi bak.",
+            "İşlerini hallettikten sonra tekrar gelmek istersen ben hep buradayım seninle mesajlaşmak için bekliyor olacağım."
+      ]
+    }
+  ]
+}
